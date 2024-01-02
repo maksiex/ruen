@@ -1,4 +1,4 @@
-const english5000 = [
+const words = [
     {
         en: 'I',
         ru: 'Я',
@@ -119,15 +119,135 @@ const english5000 = [
         en: 'Lesson',
         ru: 'Урок',
     },
+    {
+        en: 'Video',
+        ru: 'Видео',
+    },
+    {
+        en: 'Program',
+        ru: 'Программа',
+    },
+    {
+        en: 'See',
+        ru: 'Видеть',
+    },
+    {
+        en: 'My',
+        ru: 'Мой',
+    },
+    {
+        en: 'Result',
+        ru: 'Результат',
+    },
+    {
+        en: 'Russian',
+        ru: 'Русский',
+    },
+    {
+        en: 'Know',
+        ru: 'Знать',
+    },
+    {
+        en: 'Go',
+        ru: 'Идти, ехать',
+    },
+    {
+        en: 'To',
+        ru: 'в, к, чтобы',
+    },
+    {
+        en: 'School',
+        ru: 'Школа',
+    },
+    {
+        en: 'Often',
+        ru: 'Часто',
+    },
+    {
+        en: 'Here',
+        ru: 'Здесь, сюда',
+    },
+    {
+        en: 'There',
+        ru: 'Там, туда',
+    },
+    {
+        en: 'Language',
+        ru: 'Язык',
+    },
+    {
+        en: 'Every',
+        ru: 'Каждый',
+    },
+    {
+        en: 'Day',
+        ru: 'День',
+    },
+    {
+        en: 'Do',
+        ru: 'Делать',
+    },
+    {
+        en: 'Travel',
+        ru: 'Путешествовать',
+    },
+    {
+        en: 'Year',
+        ru: 'Год',
+    },
+    {
+        en: 'Travelling',
+        ru: 'Путешествие',
+    },
+    {
+        en: 'Game',
+        ru: 'Игра',
+    },
+    {
+        en: 'Play',
+        ru: 'Играть',
+    },
+    {
+        en: 'Football',
+        ru: 'Футбол',
+    },
+    {
+        en: 'So',
+        ru: 'Так, такой',
+    },
+    {
+        en: 'Also',
+        ru: 'Также, тоже',
+    },
+    {
+        en: 'Think',
+        ru: 'Думать',
+    },
+    {
+        en: 'About',
+        ru: 'О, об',
+    },
+    {
+        en: 'Sometimes',
+        ru: 'Иногда',
+    },
+    {
+        en: 'Love',
+        ru: 'Любить, любовь',
+    },
+    {
+        en: 'Song',
+        ru: 'Песня',
+    },
 ]
 
 const getRUWords = (first, second, language) => {
-    if (english5000[first] && english5000[second]) {
-        const sliced = english5000.slice(first, second + 1);
+    if (words[first] && words[second]) {
+        const sliced = words.slice(first, second + 1);
         sliced.forEach(el => console.log(el[language]));
     } else {
         console.log('incorrect index');
     }
 }
 
-getRUWords(0, 29, 'en');
+getRUWords(30, 59, 'ru');
