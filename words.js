@@ -239,6 +239,126 @@ const words = [
         en: 'Song',
         ru: 'Песня',
     },
+    {
+        en: 'Music',
+        ru: 'Музыка',
+    },
+    {
+        en: 'Read',
+        ru: 'Читать',
+    },
+    {
+        en: 'Book',
+        ru: 'Книга',
+    },
+    {
+        en: 'More',
+        ru: 'Больше',
+    },
+    {
+        en: 'Practice',
+        ru: 'Практика',
+    },
+    {
+        en: 'These',
+        ru: 'Эти',
+    },
+    {
+        en: 'Usually',
+        ru: 'Обычно',
+    },
+    {
+        en: 'Buy',
+        ru: 'Купить',
+    },
+    {
+        en: 'Thing',
+        ru: 'Вещь',
+    },
+    {
+        en: 'Absolutely',
+        ru: 'Абсолютно, полностью',
+    },
+    {
+        en: 'Agree',
+        ru: 'Соглашаться',
+    },
+    {
+        en: 'Better',
+        ru: 'Лучше',
+    },
+    {
+        en: 'Cost',
+        ru: 'Стоить',
+    },
+    {
+        en: 'Dollar',
+        ru: 'Доллар',
+    },
+    {
+        en: 'Euro',
+        ru: 'Евро',
+    },
+    {
+        en: 'Far',
+        ru: 'Далеко, далекий',
+    },
+    {
+        en: 'Feel',
+        ru: 'Чувствовать',
+    },
+    {
+        en: 'Fifty',
+        ru: 'Пятьдесят',
+    },
+    {
+        en: 'He',
+        ru: 'Он',
+    },
+    {
+        en: 'Less',
+        ru: 'Меньше',
+    },
+    {
+        en: 'Make',
+        ru: 'Делать',
+    },
+    {
+        en: 'Mistake',
+        ru: 'Ошибка',
+    },
+    {
+        en: 'Much',
+        ru: 'Много',
+    },
+    {
+        en: 'Near',
+        ru: 'Рядом, около',
+    },
+    {
+        en: 'Pound',
+        ru: 'Фунт',
+    },
+    {
+        en: 'Problem',
+        ru: 'Проблема',
+    },
+    {
+        en: 'She',
+        ru: 'Она',
+    },
+    {
+        en: 'Ten',
+        ru: 'Десять',
+    },
+    {
+        en: 'That',
+        ru: 'Тот',
+    },
+    {
+        en: 'Ticket',
+        ru: 'Билет',
+    },
 ]
 
 const getRUWords = (first, second, language) => {
@@ -250,4 +370,4 @@ const getRUWords = (first, second, language) => {
     }
 }
 
-getRUWords(30, 59, 'ru');
+getRUWords(30, 59, 'en');
