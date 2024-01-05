@@ -1,3 +1,8 @@
+// const readLine = require('readline');
+const readline = require('node:readline/promises');
+const stdIn = require('node:process');
+const stdOut = require('node:process');
+
 const words = [
     {
         en: 'I',
@@ -474,11 +479,131 @@ const words = [
     {
         en: 'Hotel',
         ru: 'Отель',
-    },    {
+    },
+    {
         en: 'House',
         ru: 'Дом',
     },
-
+    {
+        en: 'Job',
+        ru: 'Работа',
+    },
+    {
+        en: 'Man',
+        ru: 'Мужчина',
+    },
+    {
+        en: 'Money',
+        ru: 'Деньги',
+    },
+    {
+        en: 'One',
+        ru: 'Один',
+    },
+    {
+        en: 'Orange',
+        ru: 'Апельсин',
+    },
+    {
+        en: 'Question',
+        ru: 'Вопрос',
+    },
+    {
+        en: 'Sister',
+        ru: 'Сестра',
+    },
+    {
+        en: 'Some',
+        ru: 'Некторые, немного',
+    },
+    {
+        en: 'Teacher',
+        ru: 'Учитель',
+    },
+    {
+        en: 'Time',
+        ru: 'Время',
+    },
+    {
+        en: 'Two',
+        ru: 'Два',
+    },
+    {
+        en: 'University',
+        ru: 'Университет',
+    },
+    {
+        en: 'Woman',
+        ru: 'Женщина',
+    },
+    {
+        en: 'Your',
+        ru: 'Твой, ваш',
+    },
+    {
+        en: 'Bank',
+        ru: 'Банк',
+    },
+    {
+        en: 'Coffee',
+        ru: 'Кофе',
+    },
+    {
+        en: 'Computer',
+        ru: 'Компьютер',
+    },
+    {
+        en: 'Different',
+        ru: 'Разные',
+    },
+    {
+        en: 'Drink',
+        ru: 'Пить',
+    },
+    {
+        en: 'Eat',
+        ru: 'Есть',
+    },
+    {
+        en: 'Exercise',
+        ru: 'Упражнение',
+    },
+    {
+        en: 'Family',
+        ru: 'Семья',
+    },
+    {
+        en: 'Fish',
+        ru: 'Рыба',
+    },
+    {
+        en: 'Juice',
+        ru: 'Сок',
+    },
+    {
+        en: 'Milk',
+        ru: 'Молоко',
+    },
+    {
+        en: 'Motivation',
+        ru: 'Мотивация',
+    },
+    {
+        en: 'Progress',
+        ru: 'Прогресс',
+    },
+    {
+        en: 'Sport',
+        ru: 'Спорт',
+    },
+    {
+        en: 'Student',
+        ru: 'Студент',
+    },
+    {
+        en: 'Taxi',
+        ru: 'Такси',
+    },
 ]
 
 const getRUWords = (first, second, language) => {
@@ -489,5 +614,6 @@ const getRUWords = (first, second, language) => {
         console.log('incorrect index');
     }
 }
+
 
 getRUWords(30, 59, 'en');
