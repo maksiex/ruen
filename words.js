@@ -604,6 +604,134 @@ const words = [
         en: 'Taxi',
         ru: 'Такси',
     },
+    {
+        en: 'Tea',
+        ru: 'Чай',
+    },
+    {
+        en: 'Water',
+        ru: 'Вода',
+    },
+    {
+        en: 'Airport',
+        ru: 'Аэропорт',
+    },
+    {
+        en: 'Apartment',
+        ru: 'Квартира, апартаменты',
+    },
+    {
+        en: 'Cake',
+        ru: 'Торт',
+    },
+    {
+        en: 'Child',
+        ru: 'Ребенок',
+    },
+    {
+        en: 'Children',
+        ru: 'Дети',
+    },
+    {
+        en: 'Chocolate',
+        ru: 'Шоколад',
+    },
+    {
+        en: 'Daughter',
+        ru: 'Дочь',
+    },
+    {
+        en: 'Four',
+        ru: 'Четыре',
+    },
+    {
+        en: 'German',
+        ru: 'Немецкий',
+    },
+    {
+        en: 'Meat',
+        ru: 'Мясо',
+    },
+    {
+        en: 'Men',
+        ru: 'Мужчины',
+    },
+    {
+        en: 'Seafood',
+        ru: 'Морепродукты',
+    },
+    {
+        en: 'Son',
+        ru: 'Сын',
+    },
+    {
+        en: 'Spanish',
+        ru: 'Испанский',
+    },
+    {
+        en: 'Three',
+        ru: 'Три',
+    },
+    {
+        en: 'Women',
+        ru: 'Женщины',
+    },
+    {
+        en: 'Boyfriend',
+        ru: 'Парень, друг парень',
+    },
+    {
+        en: 'Ice cream',
+        ru: 'Мороженое',
+    },
+    {
+        en: 'Foreign',
+        ru: 'Иностранный',
+    },
+    {
+        en: 'Girlfriend',
+        ru: 'Девушка, подружка девушка',
+    },
+    {
+        en: 'Hospital',
+        ru: 'Пицца',
+    },
+    {
+        en: 'Pizza',
+        ru: '',
+    },
+    {
+        en: 'Swimming',
+        ru: 'Плавание',
+    },
+    {
+        en: 'Be',
+        ru: 'Быть',
+    },
+    {
+        en: 'Become',
+        ru: 'Становиться',
+    },
+    {
+        en: 'Businessman',
+        ru: 'Бизнесмен',
+    },
+    {
+        en: 'Correctly',
+        ru: 'Правильно',
+    },
+    {
+        en: 'Designer',
+        ru: 'Дизайнер',
+    },
+    {
+        en: 'Doctor',
+        ru: 'Доктор',
+    },
+    {
+        en: 'Fluently',
+        ru: 'Свовбодно, бегло',
+    },
 ]
 
 const getRUWords = (first, second, language) => {
