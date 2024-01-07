@@ -732,6 +732,126 @@ const words = [
         en: 'Fluently',
         ru: 'Свовбодно, бегло',
     },
+    {
+        en: 'Happy',
+        ru: 'Счастливый',
+    },
+    {
+        en: 'Her',
+        ru: 'Ей',
+    },
+    {
+        en: 'Him',
+        ru: 'Ему',
+    },
+    {
+        en: 'Manager',
+        ru: 'Менеджер',
+    },
+    {
+        en: 'New',
+        ru: 'Новый',
+    },
+    {
+        en: 'Now',
+        ru: 'Сейчас',
+    },
+    {
+        en: 'Programmer',
+        ru: 'Программист',
+    },
+    {
+        en: 'Them',
+        ru: 'Их, им',
+    },
+    {
+        en: 'Visit',
+        ru: 'Посещать',
+    },
+    {
+        en: 'Without',
+        ru: 'Без',
+    },
+    {
+        en: 'Would',
+        ru: 'Бы',
+    },
+    {
+        en: 'Abroad',
+        ru: 'За границей',
+    },
+    {
+        en: 'China',
+        ru: 'Китай',
+    },
+    {
+        en: 'England',
+        ru: 'Англий',
+    },
+    {
+        en: 'Father',
+        ru: 'Отец',
+    },
+    {
+        en: 'Germany',
+        ru: 'Германия',
+    },
+    {
+        en: 'His',
+        ru: 'Его',
+    },
+    {
+        en: 'Italy',
+        ru: 'Италия',
+    },
+    {
+        en: 'Japan',
+        ru: 'Япония',
+    },
+    {
+        en: 'Month',
+        ru: 'Месяц',
+    },
+    {
+        en: 'Mother',
+        ru: 'Мама',
+    },
+    {
+        en: 'Next',
+        ru: 'Следующий',
+    },
+    {
+        en: 'The united states',
+        ru: 'Соединенные штаты америки',
+    },
+    {
+        en: 'Their',
+        ru: 'Их',
+    },
+    {
+        en: 'Week',
+        ru: 'Неделя',
+    },
+    {
+        en: 'Big',
+        ru: 'Большой',
+    },
+    {
+        en: 'Business',
+        ru: 'Бизнес',
+    },
+    {
+        en: 'Control',
+        ru: 'Контроль, контролировать',
+    },
+    {
+        en: 'Course',
+        ru: 'Курс',
+    },
+    {
+        en: 'Education',
+        ru: 'Образование',
+    },
 ]
 
 const getRUWords = (first, second, language) => {
