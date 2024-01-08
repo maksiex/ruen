@@ -852,6 +852,130 @@ const words = [
         en: 'Education',
         ru: 'Образование',
     },
+    {
+        en: 'Food',
+        ru: 'Еда',
+    },
+    {
+        en: 'For',
+        ru: 'Для',
+    },
+    {
+        en: 'Future',
+        ru: 'Будущее',
+    },
+    {
+        en: 'Not',
+        ru: 'Не',
+    },
+    {
+        en: 'Our',
+        ru: 'Наш',
+    },
+    {
+        en: 'Pay',
+        ru: 'Платить',
+    },
+    {
+        en: 'Politics',
+        ru: 'Политика',
+    },
+    {
+        en: 'Situation',
+        ru: 'Ситуация',
+    },
+    {
+        en: 'Spend',
+        ru: 'Проводить, тратить',
+    },
+    {
+        en: 'Talk',
+        ru: 'Говорить, разговор',
+    },
+    {
+        en: 'Tennis',
+        ru: 'Теннис',
+    },
+    {
+        en: 'Those',
+        ru: 'Те',
+    },
+    {
+        en: 'Any',
+        ru: 'Любой, какой-либо',
+    },
+    {
+        en: 'Cat',
+        ru: 'Кот',
+    },
+    {
+        en: 'Dog',
+        ru: 'Собака',
+    },
+    {
+        en: 'Exam',
+        ru: 'Экзамен',
+    },
+    {
+        en: 'Friend',
+        ru: 'Друг',
+    },
+    {
+        en: 'Interest',
+        ru: 'Интересовать',
+    },
+    {
+        en: 'Interesting',
+        ru: 'Интересный',
+    },
+    {
+        en: 'Internet',
+        ru: 'Интернет',
+    },
+    {
+        en: 'Maths',
+        ru: 'Математика',
+    },
+    {
+        en: 'Motivate',
+        ru: 'Мотивировать',
+    },
+    {
+        en: 'Only',
+        ru: 'Только',
+    },
+    {
+        en: 'Plan',
+        ru: 'План',
+    },
+    {
+        en: 'Sell',
+        ru: 'Продавать',
+    },
+    {
+        en: 'Service',
+        ru: 'Услуга, сервис',
+    },
+    {
+        en: 'Subject',
+        ru: 'Предмет, тема',
+    },
+    {
+        en: 'Teach',
+        ru: 'Учить, преподавать',
+    },
+    {
+        en: 'Test',
+        ru: 'Тест',
+    },
+    {
+        en: 'Use',
+        ru: 'Использовать',
+    },
+    {
+        en: 'Worry',
+        ru: 'Волноваться, беспокоиться',
+    },
 ]
 
 const getRUWords = (first, second, language) => {
