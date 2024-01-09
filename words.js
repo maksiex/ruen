@@ -1,7 +1,13 @@
 // const readLine = require('readline');
-const readline = require('node:readline/promises');
-const stdIn = require('node:process');
-const stdOut = require('node:process');
+// const readline = require('node:readline/promises');
+// const stdIn = require('node:process');
+// const stdOut = require('node:process');
+
+const readline = require('readline');
+
+// const words = [{en: 'Russian', ru: 'Русский'}, {en: 'English', ru: 'Английский'}, {en: 'French', ru: 'Французский'}]; // ваш массив слов
+
+
 
 const words = [
     {
@@ -1098,14 +1104,51 @@ const words = [
     },
 ]
 
-const getRUWords = (first, second, language) => {
-    if (words[first] && words[second]) {
-        const sliced = words.slice(first, second + 1);
-        sliced.forEach(el => console.log(el[language]));
-    } else {
-        console.log('incorrect index');
+function getRandomWords(num) {
+    const randomWords = [];
+    for (let i = 0; i < num; i++) {
+        const randomIndex = Math.floor(Math.random() * words.length);
+        randomWords.push(words[randomIndex]);
     }
+    return randomWords;
 }
 
+function startGame(lang) {
+    const rl = readline.createInterface({
+        input: process.stdin,
+        output: process.stdout
+    });
 
-getRUWords(30, 59, 'en');
+    const randomWords = getRandomWords(3);
+    let currentIndex = 0;
+
+    console.log(`Переведите слово ${randomWords[currentIndex][lang]} на другой язык: `);
+
+    rl.on('line', (input) => {
+        if (input.toLowerCase() === randomWords[currentIndex][lang === 'en' ? 'ru' : 'en'].toLowerCase()) {
+            currentIndex++;
+            if (currentIndex < randomWords.length) {
+                console.log(`Правильно! Следующее слово: ${randomWords[currentIndex][lang]}`);
+            } else {
+                console.log('Игра окончена.');
+                rl.close();
+            }
+        } else {
+            console.log(`Неверный перевод. Попробуйте еще раз перевести ${randomWords[currentIndex][lang]} на другой язык: `);
+        }
+    });
+}
+
+startGame('en');
+
+// const getRUWords = (first, second, language) => {
+//     if (words[first] && words[second]) {
+//         const sliced = words.slice(first, second + 1);
+//         sliced.forEach(el => console.log(el[language]));
+//     } else {
+//         console.log('incorrect index');
+//     }
+// }
+
+
+// getRUWords(30, 59, 'en');
