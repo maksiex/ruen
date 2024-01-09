@@ -976,6 +976,126 @@ const words = [
         en: 'Worry',
         ru: 'Волноваться, беспокоиться',
     },
+    {
+        en: 'Address',
+        ru: 'Адрес',
+    },
+    {
+        en: 'Again',
+        ru: 'Опять',
+    },
+    {
+        en: 'Another',
+        ru: 'Другой',
+    },
+    {
+        en: 'Bad',
+        ru: 'Плохой',
+    },
+    {
+        en: 'Because',
+        ru: 'Потому что',
+    },
+    {
+        en: 'Communicate',
+        ru: 'Общаться',
+    },
+    {
+        en: 'Fast',
+        ru: 'Быстро, быстрый',
+    },
+    {
+        en: 'Get',
+        ru: 'Получать',
+    },
+    {
+        en: 'Good',
+        ru: 'Хороший',
+    },
+    {
+        en: 'Name',
+        ru: 'Имя',
+    },
+    {
+        en: 'Need',
+        ru: 'Нуждаться',
+    },
+    {
+        en: 'Other',
+        ru: 'Другие',
+    },
+    {
+        en: 'Prefer',
+        ru: 'Предпочитать',
+    },
+    {
+        en: 'Professionally',
+        ru: 'Профессионально',
+    },
+    {
+        en: 'Remember',
+        ru: 'Помнить',
+    },
+    {
+        en: 'Slowly',
+        ru: 'Медленно',
+    },
+    {
+        en: 'Website',
+        ru: 'сайт',
+    },
+    {
+        en: 'Who',
+        ru: 'кто, кого',
+    },
+    {
+        en: 'Boring',
+        ru: 'Скучный',
+    },
+    {
+        en: 'Chinese',
+        ru: 'Китайский',
+    },
+    {
+        en: 'Cinema',
+        ru: 'Кино, кинотеатр',
+    },
+    {
+        en: 'Dancing',
+        ru: 'Танцы',
+    },
+    {
+        en: 'Find',
+        ru: 'Находить',
+    },
+    {
+        en: 'Intensively',
+        ru: 'Интенсивно',
+    },
+    {
+        en: 'Many',
+        ru: 'Много',
+    },
+    {
+        en: 'Movie',
+        ru: 'Фильм',
+    },
+    {
+        en: 'Or',
+        ru: 'Или',
+    },
+    {
+        en: 'Park',
+        ru: 'Парк',
+    },
+    {
+        en: 'Reading',
+        ru: 'Чтение',
+    },
+    {
+        en: 'Real',
+        ru: 'Реальный',
+    },
 ]
 
 const getRUWords = (first, second, language) => {
