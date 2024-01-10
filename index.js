@@ -17,7 +17,7 @@ function startGame(lang) {
         output: process.stdout
     });
 
-    const randomWords = getRandomWords(3);
+    const randomWords = getRandomWords(50);
     let currentIndex = 0;
 
     console.log(`${colors.magenta('Переведите слово')} ${colors.bold(randomWords[currentIndex][lang])} ${colors.underline('на другой язык:')} `);
@@ -37,4 +37,4 @@ function startGame(lang) {
     });
 }
 
-startGame('en');
+startGame('ru');

@@ -1091,6 +1091,126 @@ const words = [
         en: 'Real',
         ru: 'Реальный',
     },
+    {
+        en: 'Show',
+        ru: 'Показывать',
+    },
+    {
+        en: 'Singing',
+        ru: 'Пение',
+    },
+    {
+        en: 'Support',
+        ru: 'Поддержка, поддерживать',
+    },
+    {
+        en: 'Train',
+        ru: 'Тренироваться',
+    },
+    {
+        en: 'Weather',
+        ru: 'Погода',
+    },
+    {
+        en: 'Write',
+        ru: 'Писать',
+    },
+    {
+        en: 'Actor',
+        ru: 'Актер',
+    },
+    {
+        en: 'Actress',
+        ru: 'Актриса',
+    },
+    {
+        en: 'Change',
+        ru: 'Менять',
+    },
+    {
+        en: 'Cheap',
+        ru: 'Дешевый',
+    },
+    {
+        en: 'Discuss',
+        ru: 'Обсуждать',
+    },
+    {
+        en: 'Expensive',
+        ru: 'Дорогой',
+    },
+    {
+        en: 'Five',
+        ru: 'Пять',
+    },
+    {
+        en: 'Forty',
+        ru: 'Сорок',
+    },
+    {
+        en: 'From',
+        ru: 'Из',
+    },
+    {
+        en: 'One hundred',
+        ru: 'Сто',
+    },
+    {
+        en: 'Important',
+        ru: 'Важный',
+    },
+    {
+        en: 'Listen',
+        ru: 'Слушать',
+    },
+    {
+        en: 'Look',
+        ru: 'Смотреть',
+    },
+    {
+        en: 'Method',
+        ru: 'Метод',
+    },
+    {
+        en: 'Phone',
+        ru: 'Телефон',
+    },
+    {
+        en: 'Seem',
+        ru: 'Казаться',
+    },
+    {
+        en: 'Seven',
+        ru: 'Семь',
+    },
+    {
+        en: 'Strange',
+        ru: 'Странный',
+    },
+    {
+        en: 'Than',
+        ru: 'Чем',
+    },
+    {
+        en: 'Thirty',
+        ru: 'Тридцать',
+    },
+    {
+        en: 'Thousand',
+        ru: 'Тысяча',
+    },
+    {
+        en: 'Application',
+        ru: 'Приложение',
+    },
+    {
+        en: 'Clothes',
+        ru: 'Одежда',
+    },
+    {
+        en: 'Come',
+        ru: 'Приходить',
+    },
 ]
 
 module.exports = words;
