@@ -11,6 +11,8 @@ function getRandomWords(num) {
     return randomWords;
 }
 
+console.log(`${colors.blue('Сейчас в словаре')} ${colors.bold(colors.magenta(words.length))} ${colors.blue('слов')} `);
+
 function startGame(lang) {
     const rl = readline.createInterface({
         input: process.stdin,
