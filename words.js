@@ -1331,6 +1331,126 @@ const words = [
         en: 'Which',
         ru: 'Который',
     },
+    {
+        en: 'Angry',
+        ru: 'Злой',
+    },
+    {
+        en: 'At',
+        ru: 'В, на',
+    },
+    {
+        en: 'Best',
+        ru: 'Лучший',
+    },
+    {
+        en: 'Busy',
+        ru: 'Занятый',
+    },
+    {
+        en: 'Fact',
+        ru: 'Факт',
+    },
+    {
+        en: 'Husband',
+        ru: 'Муж',
+    },
+    {
+        en: 'Million',
+        ru: 'Миллион',
+    },
+    {
+        en: 'Old',
+        ru: 'Старый',
+    },
+    {
+        en: 'Right',
+        ru: 'Правильный',
+    },
+    {
+        en: 'Room',
+        ru: 'Комната',
+    },
+    {
+        en: 'Secretary',
+        ru: 'Секретарь',
+    },
+    {
+        en: 'Singer',
+        ru: 'Певец',
+    },
+    {
+        en: 'Sixty',
+        ru: 'Шестьдесят',
+    },
+    {
+        en: 'Sure',
+        ru: 'Уверен',
+    },
+    {
+        en: 'Wife',
+        ru: 'Жена',
+    },
+    {
+        en: 'Wonderful',
+        ru: 'Прекрасный, замечательный',
+    },
+    {
+        en: 'Young',
+        ru: 'Молодой',
+    },
+    {
+        en: 'Alright',
+        ru: 'В порядке',
+    },
+    {
+        en: 'American',
+        ru: 'Американский, американец',
+    },
+    {
+        en: 'Beautiful',
+        ru: 'Красивый',
+    },
+    {
+        en: 'Dangerous',
+        ru: 'Опасный',
+    },
+    {
+        en: 'Difficult',
+        ru: 'Сложный, трудный',
+    },
+    {
+        en: 'Easy',
+        ru: 'Легко, легкий',
+    },
+    {
+        en: 'Effective',
+        ru: 'Эффективный',
+    },
+    {
+        en: 'Eight',
+        ru: 'Восемь',
+    },
+    {
+        en: 'Eighteen',
+        ru: 'Восемнадцать',
+    },
+    {
+        en: 'Fine',
+        ru: 'Хорошо, в порядке',
+    },
+    {
+        en: 'Hard-working',
+        ru: 'Трудолюбивый',
+    },
+    {
+        en: 'Lazy',
+        ru: 'Ленивый',
+    },
+    {
+        en: 'Married',
+        ru: 'Женат, замужем',
+    },
 ]
 
 module.exports = words;
