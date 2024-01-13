@@ -781,7 +781,7 @@ const words = [
     },
     {
         en: 'England',
-        ru: 'Англий',
+        ru: 'Англия',
     },
     {
         en: 'Father',
@@ -1450,6 +1450,126 @@ const words = [
     {
         en: 'Married',
         ru: 'Женат, замужем',
+    },
+    {
+        en: 'Ok',
+        ru: 'Окей, в порядке',
+    },
+    {
+        en: 'Parents',
+        ru: 'Родители',
+    },
+    {
+        en: 'Poor',
+        ru: 'Бедный',
+    },
+    {
+        en: 'Possible',
+        ru: 'Возможный',
+    },
+    {
+        en: 'Ready',
+        ru: 'Готов',
+    },
+    {
+        en: 'Rich',
+        ru: 'Богатый',
+    },
+    {
+        en: 'Seventy',
+        ru: 'Семьдесят',
+    },
+    {
+        en: 'Single',
+        ru: 'Холост',
+    },
+    {
+        en: 'Smart',
+        ru: 'Умный',
+    },
+    {
+        en: 'Afraid',
+        ru: 'Бояться',
+    },
+    {
+        en: 'Answer',
+        ru: 'Ответ, отвечать',
+    },
+    {
+        en: 'Correct',
+        ru: 'Правильный',
+    },
+    {
+        en: 'Decision',
+        ru: 'Решение',
+    },
+    {
+        en: 'Of',
+        ru: 'Из',
+    },
+    {
+        en: 'Popular',
+        ru: 'Популярный',
+    },
+    {
+        en: 'Assistant',
+        ru: 'Помощник',
+    },
+    {
+        en: 'Brazil',
+        ru: 'Бразилия',
+    },
+    {
+        en: 'Cheaper',
+        ru: 'Дешевле',
+    },
+    {
+        en: 'Choice',
+        ru: 'Выбор',
+    },
+    {
+        en: 'Colleague',
+        ru: 'Коллега',
+    },
+    {
+        en: 'Director',
+        ru: 'Директор',
+    },
+    {
+        en: 'Driver',
+        ru: 'Водитель',
+    },
+    {
+        en: 'Kitchen',
+        ru: 'Кухня',
+    },
+    {
+        en: 'Native speaker',
+        ru: 'Носитель языка',
+    },
+    {
+        en: 'Price',
+        ru: 'Цена',
+    },
+    {
+        en: 'Professional',
+        ru: 'Профессиональный',
+    },
+    {
+        en: 'Trainer',
+        ru: 'Тренер',
+    },
+    {
+        en: 'Worker',
+        ru: 'Работник, рабочий',
+    },
+    {
+        en: 'Bag',
+        ru: 'Сумка',
+    },
+    {
+        en: 'Box',
+        ru: 'Коробка',
     },
 ]
 
