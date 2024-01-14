@@ -6,7 +6,9 @@ function getRandomWords(num) {
     const randomWords = [];
     for (let i = 0; i < num; i++) {
         const randomIndex = Math.floor(Math.random() * words.length);
-        randomWords.push(words[randomIndex]);
+        if (!randomWords.includes(words[randomIndex])) {
+            randomWords.push(words[randomIndex]);
+        }
     }
     return randomWords;
 }
