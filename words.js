@@ -1691,6 +1691,126 @@ const words = [
         en: 'Team',
         ru: 'Команда',
     },
+    {
+        en: 'Against',
+        ru: 'Против',
+    },
+    {
+        en: 'Casual',
+        ru: 'Повседневный',
+    },
+    {
+        en: 'Choose',
+        ru: 'Выбирать',
+    },
+    {
+        en: 'Formal',
+        ru: 'Формальный',
+    },
+    {
+        en: 'Informal',
+        ru: 'Неформальный',
+    },
+    {
+        en: 'Journalist',
+        ru: 'Журналист',
+    },
+    {
+        en: 'Nowadays',
+        ru: 'В наше время',
+    },
+    {
+        en: 'Useful',
+        ru: 'Полезный',
+    },
+    {
+        en: 'Walk',
+        ru: 'Гулять',
+    },
+    {
+        en: 'Wear',
+        ru: 'Носить',
+    },
+    {
+        en: 'Worried',
+        ru: 'Взволнованный, обеспокоенный',
+    },
+    {
+        en: 'After',
+        ru: 'После',
+    },
+    {
+        en: 'Close',
+        ru: 'Закрывать',
+    },
+    {
+        en: 'Could',
+        ru: 'Мог, мог бы',
+    },
+    {
+        en: 'Door',
+        ru: 'Дверь',
+    },
+    {
+        en: 'Example',
+        ru: 'Пример',
+    },
+    {
+        en: 'Floor',
+        ru: 'Пол',
+    },
+    {
+        en: 'Give',
+        ru: 'Давать',
+    },
+    {
+        en: 'Homework',
+        ru: 'Домашнее задание',
+    },
+    {
+        en: 'Later',
+        ru: 'Позже',
+    },
+    {
+        en: 'Letter',
+        ru: 'Письмо',
+    },
+    {
+        en: 'Open',
+        ru: 'Открывать',
+    },
+    {
+        en: 'Put',
+        ru: 'Класть',
+    },
+    {
+        en: 'Smoke',
+        ru: 'Курить',
+    },
+    {
+        en: 'Stop',
+        ru: 'Останавливаться, стоп',
+    },
+    {
+        en: 'Story',
+        ru: 'История',
+    },
+    {
+        en: 'Swim',
+        ru: 'Плавать',
+    },
+    {
+        en: 'Table',
+        ru: 'Стол',
+    },
+    {
+        en: 'Window',
+        ru: 'Окно',
+    },
+    {
+        en: 'Afternoon',
+        ru: 'Днем',
+    },
 ]
 
 module.exports = words;
