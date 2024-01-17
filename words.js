@@ -1931,6 +1931,150 @@ const words = [
         en: "Let's",
         ru: 'Давай',
     },
+    {
+        en: 'Message',
+        ru: 'Сообщение',
+    },
+    {
+        en: 'Send',
+        ru: 'Отправить',
+    },
+    {
+        en: 'Serious',
+        ru: 'Серьезный',
+    },
+    {
+        en: 'Sleep',
+        ru: 'Спать',
+    },
+    {
+        en: 'Start',
+        ru: 'Начало, начинать',
+    },
+    {
+        en: 'Take',
+        ru: 'Брать',
+    },
+    {
+        en: 'Almost',
+        ru: 'Почти',
+    },
+    {
+        en: 'Begin',
+        ru: 'Начинать',
+    },
+    {
+        en: 'Build',
+        ru: 'Строить',
+    },
+    {
+        en: 'Cheaply',
+        ru: 'Дешево',
+    },
+    {
+        en: 'Cup',
+        ru: 'Чашка',
+    },
+    {
+        en: 'Easily',
+        ru: 'Легко',
+    },
+    {
+        en: 'Expensively',
+        ru: 'Дорого',
+    },
+    {
+        en: 'Faster',
+        ru: 'Быстрее',
+    },
+    {
+        en: 'Glass',
+        ru: 'Стакан',
+    },
+    {
+        en: 'Goods',
+        ru: 'Товар',
+    },
+    {
+        en: 'Grammar',
+        ru: 'Грамматика',
+    },
+    {
+        en: 'Hate',
+        ru: 'Ненавидеть',
+    },
+    {
+        en: 'Improve',
+        ru: 'Улучшать',
+    },
+    {
+        en: 'Kind',
+        ru: 'Добрый',
+    },
+    {
+        en: 'Listening',
+        ru: 'Аудирование',
+    },
+    {
+        en: 'Morning',
+        ru: 'Утро',
+    },
+    {
+        en: 'Offer',
+        ru: 'Предложение',
+    },
+    {
+        en: 'Product',
+        ru: 'Продукт',
+    },
+    {
+        en: 'Rarely',
+        ru: 'Редко',
+    },
+    {
+        en: 'Rule',
+        ru: 'Правило',
+    },
+    {
+        en: 'Run',
+        ru: 'Бегать',
+    },
+    {
+        en: 'Slide',
+        ru: 'Слайд',
+    },
+    {
+        en: 'Soon',
+        ru: 'Скоро',
+    },
+    {
+        en: 'Speaking',
+        ru: 'Речь',
+    },
+    {
+        en: 'Stand up',
+        ru: 'Встать',
+    },
+    {
+        en: 'Stand',
+        ru: 'Стоять',
+    },
+    {
+        en: 'Wait',
+        ru: 'Ждать',
+    },
+    {
+        en: 'Advice',
+        ru: 'Совет',
+    },
+    {
+        en: 'Back',
+        ru: 'Назад',
+    },
+    {
+        en: 'Breakfast',
+        ru: 'Завтрак',
+    },
 ]
 
 module.exports = words;
