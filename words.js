@@ -2075,6 +2075,126 @@ const words = [
         en: 'Breakfast',
         ru: 'Завтрак',
     },
+    {
+        en: 'Bring',
+        ru: 'Приносить',
+    },
+    {
+        en: 'Dinner',
+        ru: 'Ужин',
+    },
+    {
+        en: 'First',
+        ru: 'Первый',
+    },
+    {
+        en: 'Follow',
+        ru: 'Следовать',
+    },
+    {
+        en: 'Great',
+        ru: 'Большой',
+    },
+    {
+        en: 'Lunch',
+        ru: 'Обед',
+    },
+    {
+        en: 'Museum',
+        ru: 'Музей',
+    },
+    {
+        en: 'Pleasure',
+        ru: 'Удовольствие',
+    },
+    {
+        en: 'Podcast',
+        ru: 'Подкаст',
+    },
+    {
+        en: 'Present',
+        ru: 'Подарок',
+    },
+    {
+        en: 'Project',
+        ru: 'Проект',
+    },
+    {
+        en: 'Recommendation',
+        ru: 'Рекомендация',
+    },
+    {
+        en: 'Sandwich',
+        ru: 'Бутерброд',
+    },
+    {
+        en: 'Second',
+        ru: 'Второй',
+    },
+    {
+        en: 'Theatre',
+        ru: 'Театр',
+    },
+    {
+        en: 'Third',
+        ru: 'Третий',
+    },
+    {
+        en: 'Tomorrow',
+        ru: 'Завтра',
+    },
+    {
+        en: 'Will',
+        ru: 'Будет',
+    },
+    {
+        en: 'Immediately',
+        ru: 'Немедленно',
+    },
+    {
+        en: 'Mobile phone',
+        ru: 'Мобильный телефон',
+    },
+    {
+        en: 'Office',
+        ru: 'Офис',
+    },
+    {
+        en: 'Party',
+        ru: 'Вечеринка',
+    },
+    {
+        en: 'Pass',
+        ru: 'Сдавать',
+    },
+    {
+        en: 'Refuse',
+        ru: 'Отказываться',
+    },
+    {
+        en: 'Restaurant',
+        ru: 'Ресторан',
+    },
+    {
+        en: 'Sign',
+        ru: 'Подписать',
+    },
+    {
+        en: 'Spain',
+        ru: 'Испания',
+    },
+    {
+        en: 'Successful',
+        ru: 'Успешный',
+    },
+    {
+        en: 'Supermarket',
+        ru: 'Супермаркет',
+    },
+    {
+        en: 'Tonight',
+        ru: 'Сегодня вечером',
+    },
 ]
 
 module.exports = words;
