@@ -2195,6 +2195,122 @@ const words = [
         en: 'Tonight',
         ru: 'Сегодня вечером',
     },
+    {
+        en: 'Arrive',
+        ru: 'Прибывать',
+    },
+    {
+        en: 'Basketball',
+        ru: 'Баскетбол',
+    },
+    {
+        en: 'Convenient',
+        ru: 'Удобный',
+    },
+    {
+        en: 'Disagree',
+        ru: 'Не соглашаться',
+    },
+    {
+        en: 'Funny',
+        ru: 'Смешной, забавный',
+    },
+    {
+        en: 'Hard',
+        ru: 'Тяжелый, усердно',
+    },
+    {
+        en: 'Harder',
+        ru: 'Усерднее',
+    },
+    {
+        en: 'Higher',
+        ru: 'Выше',
+    },
+    {
+        en: 'Holiday',
+        ru: 'Отпуск',
+    },
+    {
+        en: 'Join',
+        ru: 'Присоединиться',
+    },
+    {
+        en: 'Laugh',
+        ru: 'Смеяться',
+    },
+    {
+        en: 'Match',
+        ru: 'Матч',
+    },
+    {
+        en: 'Ocean',
+        ru: 'Океан',
+    },
+    {
+        en: 'Rent',
+        ru: 'Арендовать, аренда',
+    },
+    {
+        en: 'Sea',
+        ru: 'Море',
+    },
+    {
+        en: 'Shopping',
+        ru: 'Ходить по магазинам',
+    },
+    {
+        en: 'Solve',
+        ru: 'Решать',
+    },
+    {
+        en: 'Summer',
+        ru: 'Лето',
+    },
+    {
+        en: 'Volleyball',
+        ru: 'Волейбол',
+    },
+    {
+        en: 'Absent',
+        ru: 'Отсутствовать',
+    },
+    {
+        en: 'Beach',
+        ru: 'Пляж',
+    },
+    {
+        en: 'Canada',
+        ru: 'Канада',
+    },
+    {
+        en: 'Else',
+        ru: 'Еще',
+    },
+    {
+        en: 'Gym',
+        ru: 'Зал',
+    },
+    {
+        en: 'Graduate',
+        ru: 'Окончить',
+    },
+    {
+        en: 'Long',
+        ru: 'Длинный',
+    },
+    {
+        en: 'News',
+        ru: 'Новости',
+    },
+    {
+        en: 'Surprise',
+        ru: 'Удивлять',
+    },
+    {
+        en: 'Whose',
+        ru: 'Чей',
+    },
 ]
 
 module.exports = words;
