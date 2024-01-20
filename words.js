@@ -2311,6 +2311,126 @@ const words = [
         en: 'Whose',
         ru: 'Чей',
     },
+    {
+        en: 'Preset',
+        ru: 'Присутствующий',
+    },
+    {
+        en: 'Last',
+        ru: 'Длиться',
+    },
+    {
+        en: 'Invite',
+        ru: 'Приглашать',
+    },
+    {
+        en: 'Lend',
+        ru: 'Одалживать',
+    },
+    {
+        en: 'Opportunity',
+        ru: 'Возможность',
+    },
+    {
+        en: 'Picnic',
+        ru: 'Пикник',
+    },
+    {
+        en: 'Prepare',
+        ru: 'Подготовить',
+    },
+    {
+        en: 'Return',
+        ru: 'Возвращаться',
+    },
+    {
+        en: 'Weekend',
+        ru: 'Выходные',
+    },
+    {
+        en: 'Zoo',
+        ru: 'Зоопарк',
+    },
+    {
+        en: 'Walk',
+        ru: 'Walk',
+    },
+    {
+        en: 'Ago',
+        ru: 'Назад',
+    },
+    {
+        en: 'App',
+        ru: 'Приложение',
+    },
+    {
+        en: 'Compare',
+        ru: 'Сравнивать',
+    },
+    {
+        en: 'Fail',
+        ru: 'Провалить',
+    },
+    {
+        en: 'France',
+        ru: 'Франция',
+    },
+    {
+        en: 'High',
+        ru: 'Высокий, высоко',
+    },
+    {
+        en: 'Jump',
+        ru: 'Пригать',
+    },
+    {
+        en: 'Link',
+        ru: 'ССылка',
+    },
+    {
+        en: 'Move',
+        ru: 'Двигаться',
+    },
+    {
+        en: 'Quickly',
+        ru: 'Быстро',
+    },
+    {
+        en: 'Save',
+        ru: 'Сохранять',
+    },
+    {
+        en: 'Share',
+        ru: 'Делиться',
+    },
+    {
+        en: 'Training',
+        ru: 'Тренировка',
+    },
+    {
+        en: 'Trip',
+        ru: 'Поездка',
+    },
+    {
+        en: 'Yesterday',
+        ru: 'Вчера',
+    },
+    {
+        en: 'Correct',
+        ru: 'Исправлять',
+    },
+    {
+        en: 'Anything',
+        ru: 'Что-либо',
+    },
+    {
+        en: 'Badminton',
+        ru: 'Бадминтон',
+    },
+    {
+        en: 'Explain',
+        ru: 'Объяснять',
+    },
 ]
 
 module.exports = words;
