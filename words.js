@@ -2431,6 +2431,126 @@ const words = [
         en: 'Explain',
         ru: 'Объяснять',
     },
+    {
+        en: 'Forget',
+        ru: 'Забывать',
+    },
+    {
+        en: 'Friday',
+        ru: 'Пятница',
+    },
+    {
+        en: 'Lock',
+        ru: 'Запирать',
+    },
+    {
+        en: 'Monday',
+        ru: 'Понедельник',
+    },
+    {
+        en: 'Night',
+        ru: 'Ночь',
+    },
+    {
+        en: 'Past',
+        ru: 'Прошлое',
+    },
+    {
+        en: 'Physical',
+        ru: 'Физический',
+    },
+    {
+        en: 'Saturday',
+        ru: 'Суббота',
+    },
+    {
+        en: 'Sound',
+        ru: 'Звук, звучать',
+    },
+    {
+        en: 'Sunday',
+        ru: 'Воскресенье',
+    },
+    {
+        en: 'Thursday',
+        ru: 'Четверг',
+    },
+    {
+        en: 'Tuesday',
+        ru: 'Вторник',
+    },
+    {
+        en: 'Wednesday',
+        ru: 'Среда',
+    },
+    {
+        en: 'Word',
+        ru: 'Слово',
+    },
+    {
+        en: 'Country house',
+        ru: 'Загородный дом',
+    },
+    {
+        en: 'Before',
+        ru: 'Перед, до',
+    },
+    {
+        en: 'Beginning',
+        ru: 'Начало',
+    },
+    {
+        en: 'Birthday',
+        ru: 'День рождения',
+    },
+    {
+        en: 'End',
+        ru: 'Конец',
+    },
+    {
+        en: 'Large',
+        ru: 'Большой',
+    },
+    {
+        en: 'Marry',
+        ru: 'Выйти замуж, жениться',
+    },
+    {
+        en: 'Modern',
+        ru: 'Современный',
+    },
+    {
+        en: 'Produce',
+        ru: 'Производить',
+    },
+    {
+        en: 'Secret',
+        ru: 'Секрет',
+    },
+    {
+        en: 'Social',
+        ru: 'Социальный, общественный',
+    },
+    {
+        en: 'Society',
+        ru: 'Общество',
+    },
+    {
+        en: 'Surname',
+        ru: 'Фамилия',
+    },
+    {
+        en: 'Technology',
+        ru: 'Технология',
+    },
+    {
+        en: 'Decide',
+        ru: 'Решать',
+    },
+    {
+        en: 'Earlier',
+        ru: 'Раньше',
+    },
 ]
 
 module.exports = words;
