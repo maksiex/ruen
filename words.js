@@ -2551,6 +2551,126 @@ const words = [
         en: 'Earlier',
         ru: 'Раньше',
     },
+    {
+        en: 'Sweater',
+        ru: 'Свитер',
+    },
+    {
+        en: 'Winter',
+        ru: 'Зима',
+    },
+    {
+        en: 'Final',
+        ru: 'Окончательный',
+    },
+    {
+        en: 'Happily',
+        ru: 'Счастливо',
+    },
+    {
+        en: 'Include',
+        ru: 'Включать',
+    },
+    {
+        en: 'Interview',
+        ru: 'Интервью',
+    },
+    {
+        en: 'Left',
+        ru: 'Налево',
+    },
+    {
+        en: 'Turn',
+        ru: 'Поворачивать',
+    },
+    {
+        en: 'Right',
+        ru: 'Направо',
+    },
+    {
+        en: 'Offer',
+        ru: 'Предлагать',
+    },
+    {
+        en: 'Hope',
+        ru: 'Надеяться',
+    },
+    {
+        en: 'Table tennis',
+        ru: 'Настольный теннис',
+    },
+    {
+        en: 'Animal',
+        ru: 'Животное',
+    },
+    {
+        en: 'Body',
+        ru: 'Тело',
+    },
+    {
+        en: 'Cry',
+        ru: 'Плакать',
+    },
+    {
+        en: 'Depend',
+        ru: 'Зависеть',
+    },
+    {
+        en: 'Face',
+        ru: 'Лицо',
+    },
+    {
+        en: 'Forest',
+        ru: 'Лес',
+    },
+    {
+        en: 'Hair',
+        ru: 'Волосы',
+    },
+    {
+        en: 'Kill',
+        ru: 'Убивать',
+    },
+    {
+        en: 'Kiss',
+        ru: 'Поцелуй, целовать',
+    },
+    {
+        en: 'Minute',
+        ru: 'Минута',
+    },
+    {
+        en: 'Myself',
+        ru: 'Сам',
+    },
+    {
+        en: 'Suddenly',
+        ru: 'Вдруг',
+    },
+    {
+        en: 'Wash',
+        ru: 'Мыть',
+    },
+    {
+        en: 'Achieve',
+        ru: 'Достигать',
+    },
+    {
+        en: 'Aim',
+        ru: 'Цель',
+    },
+    {
+        en: 'Always',
+        ru: 'Всегда',
+    },
+    {
+        en: 'Celebrate',
+        ru: 'Праздновать',
+    },
+    {
+        en: 'Die',
+        ru: 'Умирать',
+    },
 ]
 
 module.exports = words;
