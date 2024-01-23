@@ -2671,6 +2671,126 @@ const words = [
         en: 'Die',
         ru: 'Умирать',
     },
+    {
+        en: 'Everyone',
+        ru: 'Все, каждый',
+    },
+    {
+        en: 'Longer',
+        ru: 'Дольше',
+    },
+    {
+        en: 'Discover',
+        ru: 'Обнаружить',
+    },
+    {
+        en: 'Armchair',
+        ru: 'Кресло',
+    },
+    {
+        en: 'Article',
+        ru: 'статья',
+    },
+    {
+        en: 'Beautifully',
+        ru: 'Красиво',
+    },
+    {
+        en: 'Break',
+        ru: 'Ломать',
+    },
+    {
+        en: 'Camel',
+        ru: 'Верблюд',
+    },
+    {
+        en: 'Chair',
+        ru: 'Стул',
+    },
+    {
+        en: 'Cut',
+        ru: 'Резать',
+    },
+    {
+        en: 'Favourite',
+        ru: 'Любимый',
+    },
+    {
+        en: 'Finger',
+        ru: 'Палец',
+    },
+    {
+        en: 'Flower',
+        ru: 'Цветок',
+    },
+    {
+        en: 'Fly',
+        ru: 'Лететь',
+    },
+    {
+        en: 'Himself',
+        ru: 'Сам',
+    },
+    {
+        en: 'Keep',
+        ru: 'Хранить, держать',
+    },
+    {
+        en: 'Loudly',
+        ru: 'Громко',
+    },
+    {
+        en: 'Pen',
+        ru: 'Ручка',
+    },
+    {
+        en: 'Perfectly',
+        ru: 'Идеально',
+    },
+    {
+        en: 'Promise',
+        ru: 'Обещать, обещание',
+    },
+    {
+        en: 'Sing',
+        ru: 'Петь',
+    },
+    {
+        en: 'The United Kingdom',
+        ru: 'Соединенное королевство',
+    },
+    {
+        en: 'sit down',
+        ru: 'Садиться',
+    },
+    {
+        en: 'break down',
+        ru: 'Ломаться',
+    },
+    {
+        en: 'Studies',
+        ru: 'Учеба',
+    },
+    {
+        en: 'Bridge',
+        ru: 'Мост',
+    },
+    {
+        en: 'Championship',
+        ru: 'Чемпионат',
+    },
+    {
+        en: 'Competition',
+        ru: 'Соревнование',
+    },
+    {
+        en: 'India',
+        ru: 'Индия',
+    },
+    {
+        en: 'Key',
+        ru: 'Ключ',
+    },
 ]
 
 module.exports = words;
