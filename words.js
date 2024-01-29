@@ -2791,6 +2791,130 @@ const words = [
         en: 'Key',
         ru: 'Ключ',
     },
+    {
+        en: 'Lawyer',
+        ru: 'Адвокат',
+    },
+    {
+        en: 'Mathematics',
+        ru: 'Математика',
+    },
+    {
+        en: 'Mean',
+        ru: 'Означать',
+    },
+    {
+        en: 'Phrase',
+        ru: 'Фраза',
+    },
+    {
+        en: 'Quietly',
+        ru: 'Тихо',
+    },
+    {
+        en: 'Sentence',
+        ru: 'Предложение',
+    },
+    {
+        en: 'Sorry',
+        ru: 'Извиняться',
+    },
+    {
+        en: 'Wallet',
+        ru: 'Бумажник',
+    },
+    {
+        en: 'Banana',
+        ru: 'Банан',
+    },
+    {
+        en: 'Beer',
+        ru: 'Пиво',
+    },
+    {
+        en: 'Copy',
+        ru: 'Копия',
+    },
+    {
+        en: 'Desk',
+        ru: 'Письменный стол',
+    },
+    {
+        en: 'Fall',
+        ru: 'Падать',
+    },
+    {
+        en: 'Kilo',
+        ru: 'Кило',
+    },
+    {
+        en: 'Paper',
+        ru: 'Бумага',
+    },
+    {
+        en: 'Potatoes',
+        ru: 'Картошка',
+    },
+    {
+        en: 'Then',
+        ru: 'Затем',
+    },
+    {
+        en: 'Then',
+        ru: 'Затем',
+    },
+    {
+        en: 'Tree',
+        ru: 'Дерево',
+    },
+    {
+        en: 'Wine',
+        ru: 'Вино',
+    },
+    {
+        en: 'Too',
+        ru: 'Слишком',
+    },
+    {
+        en: 'As',
+        ru: 'Как',
+    },
+    {
+        en: 'Be away',
+        ru: 'Отсутствовать',
+    },
+    {
+        en: 'Famous',
+        ru: 'Известный',
+    },
+    {
+        en: 'Gift',
+        ru: 'Подарок',
+    },
+    {
+        en: 'Guest',
+        ru: 'Гость',
+    },
+    {
+        en: 'Hungry',
+        ru: 'Голодный',
+    },
+    {
+        en: 'Ill',
+        ru: 'Больной',
+    },
+    {
+        en: 'Normal',
+        ru: 'Нормальный',
+    },
+    {
+        en: 'Be out',
+        ru: 'Быть не дома',
+    },
+    {
+        en: 'Special',
+        ru: 'Особенный, специальный',
+    },
 ]
 
 module.exports = words;
