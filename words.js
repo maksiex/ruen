@@ -2915,6 +2915,62 @@ const words = [
         en: 'Special',
         ru: 'Особенный, специальный',
     },
+    {
+        en: 'Terrible',
+        ru: 'Ужасный',
+    },
+    {
+        en: 'Tired',
+        ru: 'Уставший',
+    },
+    {
+        en: 'Village',
+        ru: 'Деревня',
+    },
+    {
+        en: 'Worst',
+        ru: 'Худший',
+    },
+    {
+        en: 'Alone',
+        ru: 'Одинокий, один',
+    },
+    {
+        en: 'Autumn',
+        ru: 'Осень',
+    },
+    {
+        en: 'Garden',
+        ru: 'Сад',
+    },
+    {
+        en: 'Healthy',
+        ru: 'Здоровый',
+    },
+    {
+        en: 'Ineffective',
+        ru: 'Неэффективный',
+    },
+    {
+        en: 'Pocket',
+        ru: 'Карман',
+    },
+    {
+        en: 'Spring',
+        ru: 'Весна',
+    },
+    {
+        en: 'Bathroom',
+        ru: 'Ванная',
+    },
+    {
+        en: 'Century',
+        ru: 'Век',
+    },
+    {
+        en: 'Living room',
+        ru: 'Гостиная',
+    },
 ]
 
 module.exports = words;
