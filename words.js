@@ -2385,7 +2385,7 @@ const words = [
     },
     {
         en: 'Link',
-        ru: 'ССылка',
+        ru: 'Ссылка',
     },
     {
         en: 'Move',
@@ -2970,6 +2970,126 @@ const words = [
     {
         en: 'Living room',
         ru: 'Гостиная',
+    },
+    {
+        en: 'Optimistic',
+        ru: 'Оптимистичный',
+    },
+    {
+        en: 'Pessimistic',
+        ru: 'Пессимистичный',
+    },
+    {
+        en: 'Behind',
+        ru: 'За',
+    },
+    {
+        en: 'Classroom',
+        ru: 'Классная комната',
+    },
+    {
+        en: 'Corner',
+        ru: 'Угол',
+    },
+    {
+        en: 'Incorrect',
+        ru: 'Неправильный',
+    },
+    {
+        en: 'Unusual',
+        ru: 'Необычный',
+    },
+    {
+        en: 'Yard',
+        ru: 'Двор',
+    },
+    {
+        en: 'Dentist',
+        ru: 'Зубной врач, стоматолог',
+    },
+    {
+        en: 'Engineer',
+        ru: 'Инженер',
+    },
+    {
+        en: 'Impossible',
+        ru: 'Невозможно',
+    },
+    {
+        en: 'Lonely',
+        ru: 'Одинокий',
+    },
+    {
+        en: 'Motivating',
+        ru: 'Мотивирующий',
+    },
+    {
+        en: 'At all',
+        ru: 'Вовсе, совсем',
+    },
+    {
+        en: 'But',
+        ru: 'Но',
+    },
+    {
+        en: 'Contract',
+        ru: 'Контракт',
+    },
+    {
+        en: 'Fence',
+        ru: 'Забор',
+    },
+    {
+        en: 'Herself',
+        ru: 'Сама',
+    },
+    {
+        en: 'Homemade',
+        ru: 'Домашний',
+    },
+    {
+        en: 'Hot',
+        ru: 'Горячий',
+    },
+    {
+        en: 'Hour',
+        ru: 'Час',
+    },
+    {
+        en: 'Meeting',
+        ru: 'Встреча',
+    },
+    {
+        en: 'Over',
+        ru: 'Через',
+    },
+    {
+        en: 'River',
+        ru: 'Река',
+    },
+    {
+        en: 'Rope',
+        ru: 'Веревка',
+    },
+    {
+        en: 'Sooner',
+        ru: 'Скорее',
+    },
+    {
+        en: 'Street',
+        ru: 'Улица',
+    },
+    {
+        en: 'Yourself',
+        ru: 'Сам',
+    },
+    {
+        en: 'By',
+        ru: 'По, у',
+    },
+    {
+        en: 'Factor',
+        ru: 'Фактор',
     },
 ]
 
