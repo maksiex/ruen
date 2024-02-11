@@ -3091,6 +3091,126 @@ const words = [
         en: 'Factor',
         ru: 'Фактор',
     },
+    {
+        en: 'Most',
+        ru: 'Большинство',
+    },
+    {
+        en: 'Smoking',
+        ru: 'Курение',
+    },
+    {
+        en: 'Topic',
+        ru: 'Тема',
+    },
+    {
+        en: 'Artist',
+        ru: 'Художник',
+    },
+    {
+        en: 'A bit',
+        ru: 'Немного',
+    },
+    {
+        en: 'Company',
+        ru: 'Компания',
+    },
+    {
+        en: 'Ground',
+        ru: 'Земля',
+    },
+    {
+        en: 'Happiness',
+        ru: 'Счастье',
+    },
+    {
+        en: 'Kindness',
+        ru: 'Доброта',
+    },
+    {
+        en: 'Parcel',
+        ru: 'Посылка',
+    },
+    {
+        en: 'Pie',
+        ru: 'Пирог',
+    },
+    {
+        en: 'Process',
+        ru: 'Процесс',
+    },
+    {
+        en: 'Accident',
+        ru: 'Авария',
+    },
+    {
+        en: 'Alcohol',
+        ru: 'Алкоголь',
+    },
+    {
+        en: 'Bill',
+        ru: 'Счет',
+    },
+    {
+        en: 'Cafe',
+        ru: 'Кафе',
+    },
+    {
+        en: 'Chance',
+        ru: 'Шанс',
+    },
+    {
+        en: 'Criminal',
+        ru: 'Преступник',
+    },
+    {
+        en: 'Health',
+        ru: 'Здоровье',
+    },
+    {
+        en: 'If',
+        ru: 'Если',
+    },
+    {
+        en: 'Point',
+        ru: 'Точка',
+    },
+    {
+        en: 'Screen',
+        ru: 'Экран',
+    },
+    {
+        en: 'View',
+        ru: 'Вид, зрение',
+    },
+    {
+        en: 'Bicycle',
+        ru: 'Велосипед',
+    },
+    {
+        en: 'Butter',
+        ru: 'Масло',
+    },
+    {
+        en: 'Cheese',
+        ru: 'Сыр',
+    },
+    {
+        en: 'Desert',
+        ru: 'Пустыня',
+    },
+    {
+        en: 'Donkey',
+        ru: 'Осел',
+    },
+    {
+        en: 'Egg',
+        ru: 'Яйцо',
+    },
+    {
+        en: 'Hand',
+        ru: 'Рука',
+    },
 ]
 
 module.exports = words;
