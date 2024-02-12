@@ -3211,6 +3211,142 @@ const words = [
         en: 'Hand',
         ru: 'Рука',
     },
+    {
+        en: 'Head',
+        ru: 'Голова',
+    },
+    {
+        en: 'Knowledge',
+        ru: 'Знания',
+    },
+    {
+        en: 'Material',
+        ru: 'Материал',
+    },
+    {
+        en: 'Several',
+        ru: 'Несколько',
+    },
+    {
+        en: 'Between',
+        ru: 'Между',
+    },
+    {
+        en: 'Blogger',
+        ru: 'Блоггер',
+    },
+    {
+        en: 'Cell Phone',
+        ru: 'Мобильный телефон',
+    },
+    {
+        en: 'Circus',
+        ru: 'Цирк',
+    },
+    {
+        en: 'Delicious',
+        ru: 'Вкусный',
+    },
+    {
+        en: 'Dictionary',
+        ru: 'Словарь',
+    },
+    {
+        en: 'Fashionable',
+        ru: 'Модный',
+    },
+    {
+        en: 'Just',
+        ru: 'Просто',
+    },
+    {
+        en: 'Mostly',
+        ru: 'В основном',
+    },
+    {
+        en: 'Speech',
+        ru: 'Речь',
+    },
+    {
+        en: 'Accent',
+        ru: 'Акцент',
+    },
+    {
+        en: 'Appreciate',
+        ru: 'Ценить',
+    },
+    {
+        en: 'Area',
+        ru: 'Область',
+    },
+    {
+        en: 'Brilliant',
+        ru: 'Блестящий',
+    },
+    {
+        en: 'Classical',
+        ru: 'Классический',
+    },
+    {
+        en: 'Cycling',
+        ru: 'Катание на велосипеде',
+    },
+    {
+        en: 'Department',
+        ru: 'Отдел',
+    },
+    {
+        en: 'Enjoy',
+        ru: 'Обожать',
+    },
+    {
+        en: 'Excellent',
+        ru: 'Отличный',
+    },
+    {
+        en: 'Experience',
+        ru: 'Опыт',
+    },
+    {
+        en: 'Jogging',
+        ru: 'Бег трусцой',
+    },
+    {
+        en: 'Swimming pool',
+        ru: 'Бассейн',
+    },
+    {
+        en: 'Twice',
+        ru: 'Дважды',
+    },
+    {
+        en: 'Vocabulary',
+        ru: 'Словарь',
+    },
+    {
+        en: 'Shop assistant',
+        ru: 'Продавец',
+    },
+    {
+        en: 'Advanced',
+        ru: 'Продвинутый',
+    },
+    {
+        en: 'Baby',
+        ru: 'Ребенок',
+    },
+    {
+        en: 'Basic',
+        ru: 'Основной, базовый',
+    },
+    {
+        en: 'Black',
+        ru: 'Черный',
+    },
+    {
+        en: 'Blonde',
+        ru: 'Светлый',
+    },
 ]
 
 module.exports = words;
