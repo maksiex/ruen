@@ -3347,6 +3347,126 @@ const words = [
         en: 'Blonde',
         ru: 'Светлый',
     },
+    {
+        en: 'Blue',
+        ru: 'Синий',
+    },
+    {
+        en: 'Building',
+        ru: 'Здание',
+    },
+    {
+        en: 'Cold',
+        ru: 'Холодный',
+    },
+    {
+        en: 'Colour',
+        ru: 'Цвет',
+    },
+    {
+        en: 'Device',
+        ru: 'Устройство',
+    },
+    {
+        en: 'Effect',
+        ru: 'Эффект',
+    },
+    {
+        en: 'Financial',
+        ru: 'Финансовый',
+    },
+    {
+        en: 'Fresh',
+        ru: 'Свежий',
+    },
+    {
+        en: 'Fruit',
+        ru: 'Фрукты',
+    },
+    {
+        en: 'Green',
+        ru: 'Зеленый',
+    },
+    {
+        en: 'Intermediate',
+        ru: 'Средний',
+    },
+    {
+        en: 'Low',
+        ru: 'Низкий',
+    },
+    {
+        en: 'Pencil',
+        ru: 'Карандаш',
+    },
+    {
+        en: 'Pleasant',
+        ru: 'Приятный',
+    },
+    {
+        en: 'Positive',
+        ru: 'Позитивный, положительный',
+    },
+    {
+        en: 'Profitable',
+        ru: 'Прибыльный',
+    },
+    {
+        en: 'Short',
+        ru: 'Короткий',
+    },
+    {
+        en: 'Small',
+        ru: 'Маленький',
+    },
+    {
+        en: 'Strong',
+        ru: 'Сильный',
+    },
+    {
+        en: 'Town',
+        ru: 'Город',
+    },
+    {
+        en: 'Vegetables',
+        ru: 'Овощи',
+    },
+    {
+        en: 'Voice',
+        ru: 'Голос',
+    },
+    {
+        en: 'Warm',
+        ru: 'Теплый',
+    },
+    {
+        en: 'Achievement',
+        ru: 'Достижение',
+    },
+    {
+        en: 'Amazing',
+        ru: 'Удивительный',
+    },
+    {
+        en: 'Common',
+        ru: 'Распространенный',
+    },
+    {
+        en: 'Detail',
+        ru: 'Деталь',
+    },
+    {
+        en: 'Event',
+        ru: 'Событие',
+    },
+    {
+        en: 'Expert',
+        ru: 'Эксперт',
+    },
+    {
+        en: 'Friendly',
+        ru: 'Дружелюбный',
+    },
 ]
 
 module.exports = words;
