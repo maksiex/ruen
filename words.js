@@ -2381,7 +2381,7 @@ const words = [
     },
     {
         en: 'Jump',
-        ru: 'Пригать',
+        ru: 'Прыгать',
     },
     {
         en: 'Link',

@@ -21,8 +21,9 @@ function startGame(lang) {
         output: process.stdout
     });
 
-    const randomWords = getRandomWords(111);
+    const randomWords = getRandomWords(5);
     let currentIndex = 0;
+    let mistake = 0;
 
     console.log(`${colors.magenta('Переведите слово')} ${colors.bold(randomWords[currentIndex][lang])} ${colors.underline('на другой язык:')} `);
 
@@ -31,12 +32,17 @@ function startGame(lang) {
             currentIndex++;
             if (currentIndex < randomWords.length) {
                 console.log(`${colors.bold(colors.green('Правильно! Следующее слово:'))} ${colors.underline(randomWords[currentIndex][lang])}`);
+                mistake = 0;
             } else {
                 console.log(colors.bgWhite(colors.grey(colors.italic(colors.bold('Игра окончена.')))));
                 rl.close();
             }
         } else {
             console.log(`${colors.yellow(colors.bold('Неверный перевод. Попробуйте еще раз перевести'))} ${randomWords[currentIndex][lang]} на другой язык: `);
+            mistake += 1;
+            if (mistake >= 3) {
+                console.log(`${colors.bgCyan(colors.bold('Первые буквы слова - '))} ${randomWords[currentIndex][lang]}: ${randomWords[currentIndex]['en'].slice(0,2)}... `);
+            }
         }
     });
 }
