@@ -3508,84 +3508,132 @@ const words = [
         ru: 'Чрезвычайно',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Fantastic',
+        ru: 'Фантастический',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Huge',
+        ru: 'Огромный',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Learner',
+        ru: 'Ученик',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Lovely',
+        ru: 'Прекрасный',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Official',
+        ru: 'Официальный',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Roof',
+        ru: 'Крыша',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Shock',
+        ru: 'Шок, шокировать',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Solution',
+        ru: 'Решение',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Statement',
+        ru: 'Утверждение',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Success',
+        ru: 'Успех',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Typical',
+        ru: 'Типичный',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Waste',
+        ru: 'Трата, тритить',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Boss',
+        ru: 'Босс',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Carefully',
+        ru: 'Осторожно',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Credit card',
+        ru: 'Кредитная карта',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Elder sister',
+        ru: 'Старшая сестра',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Following',
+        ru: 'Следующий',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Freelancer',
+        ru: 'Фрилансер',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Greatly',
+        ru: 'Значительно, очень сильно',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Hang',
+        ru: 'Вешать',
+    },
+    {
+        en: 'Inspire',
+        ru: 'Вдохновлять',
+    },
+    {
+        en: 'Interrupt',
+        ru: 'Прерывать',
+    },
+    {
+        en: 'Lots of',
+        ru: 'Много',
+    },
+    {
+        en: 'Opinion',
+        ru: 'Мнение',
+    },
+    {
+        en: 'Others',
+        ru: 'Другие',
+    },
+    {
+        en: 'Patient',
+        ru: 'Пациент',
+    },
+    {
+        en: 'Picture',
+        ru: 'Картина',
+    },
+    {
+        en: 'Poster',
+        ru: 'Плакат',
+    },
+    {
+        en: 'Sale',
+        ru: 'Продажа, распродажа',
+    },
+    {
+        en: 'Shoes',
+        ru: 'Обувь',
+    },
+    {
+        en: 'Store',
+        ru: 'Магазин',
+    },
+    {
+        en: 'Online store',
+        ru: 'Интернет магазин',
     },
 ]
 
