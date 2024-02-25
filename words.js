@@ -3635,6 +3635,126 @@ const words = [
         en: 'Online store',
         ru: 'Интернет магазин',
     },
+    {
+        en: 'Such',
+        ru: 'Такой',
+    },
+    {
+        en: 'Teenager',
+        ru: 'Подросток',
+    },
+    {
+        en: 'Vet',
+        ru: 'Ветеринар',
+    },
+    {
+        en: 'Wall',
+        ru: 'Стена',
+    },
+    {
+        en: 'Way',
+        ru: 'Путь',
+    },
+    {
+        en: 'Weak',
+        ru: 'Слабый',
+    },
+    {
+        en: 'Younger brother',
+        ru: 'Младший брат',
+    },
+    {
+        en: 'Accountant',
+        ru: 'Бухгалтер',
+    },
+    {
+        en: 'Bedroom',
+        ru: 'Спальня',
+    },
+    {
+        en: 'Bright',
+        ru: 'Яркий',
+    },
+    {
+        en: 'Chess',
+        ru: 'Шахматы',
+    },
+    {
+        en: 'College',
+        ru: 'Колледж',
+    },
+    {
+        en: 'Comment',
+        ru: 'Комментарий',
+    },
+    {
+        en: 'Disappointed',
+        ru: 'Разочарованный',
+    },
+    {
+        en: 'Diving',
+        ru: 'Дайвинг',
+    },
+    {
+        en: 'Drawing',
+        ru: 'Рисование',
+    },
+    {
+        en: 'Episode',
+        ru: 'Эпизод',
+    },
+    {
+        en: 'Expression',
+        ru: 'Выражение',
+    },
+    {
+        en: 'Fifteen',
+        ru: 'Пятнадцать',
+    },
+    {
+        en: 'Gardening',
+        ru: 'Садоводство',
+    },
+    {
+        en: 'Genius',
+        ru: 'Гениальный',
+    },
+    {
+        en: 'Heavy',
+        ru: 'Тяжелый',
+    },
+    {
+        en: 'Hobby',
+        ru: 'Хобби',
+    },
+    {
+        en: 'Humour',
+        ru: 'Юмор',
+    },
+    {
+        en: 'Jacket',
+        ru: 'Куртка',
+    },
+    {
+        en: 'Lamp',
+        ru: 'Лампа',
+    },
+    {
+        en: 'Learning',
+        ru: 'Обучение',
+    },
+    {
+        en: 'Lecture',
+        ru: 'Лекция',
+    },
+    {
+        en: 'Main',
+        ru: 'Главный',
+    },
+    {
+        en: 'Nurse',
+        ru: 'Медсестра',
+    },
 ]
 
 module.exports = words;

@@ -21,7 +21,7 @@ function startGame(lang) {
         output: process.stdout
     });
 
-    const randomWords = getRandomWords(5);
+    const randomWords = getRandomWords(50);
     let currentIndex = 0;
     let mistake = 0;
 
