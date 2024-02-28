@@ -2312,7 +2312,7 @@ const words = [
         ru: 'Чей',
     },
     {
-        en: 'Preset',
+        en: 'Present',
         ru: 'Присутствующий',
     },
     {
@@ -3754,6 +3754,126 @@ const words = [
     {
         en: 'Nurse',
         ru: 'Медсестра',
+    },
+    {
+        en: 'Prison',
+        ru: 'Тюрьма',
+    },
+    {
+        en: 'Resource',
+        ru: 'Ресурс',
+    },
+    {
+        en: 'Sense',
+        ru: 'Чувство',
+    },
+    {
+        en: 'Shocked',
+        ru: 'Шокированный',
+    },
+    {
+        en: 'Skiing',
+        ru: 'Катание на лыжах',
+    },
+    {
+        en: 'Suit',
+        ru: 'Костюм',
+    },
+    {
+        en: 'Surprised',
+        ru: 'Удивленный',
+    },
+    {
+        en: 'Taste',
+        ru: 'Вкус',
+    },
+    {
+        en: 'Thief',
+        ru: 'Вор',
+    },
+    {
+        en: 'Towel',
+        ru: 'Полотенце',
+    },
+    {
+        en: 'Ambitious',
+        ru: 'Амбициозный',
+    },
+    {
+        en: 'Bed',
+        ru: 'Кровать',
+    },
+    {
+        en: 'Bottle',
+        ru: 'Бутылка',
+    },
+    {
+        en: 'Church',
+        ru: 'Церковь',
+    },
+    {
+        en: 'Earth',
+        ru: 'Земля',
+    },
+    {
+        en: 'Empty',
+        ru: 'Пустой',
+    },
+    {
+        en: 'Energy',
+        ru: 'Энергия',
+    },
+    {
+        en: 'Enthusiasm',
+        ru: 'Энтузиазм',
+    },
+    {
+        en: 'Experienced',
+        ru: 'Опытный',
+    },
+    {
+        en: 'Feeling',
+        ru: 'Чувство',
+    },
+    {
+        en: 'Full',
+        ru: 'Полный',
+    },
+    {
+        en: 'Joke',
+        ru: 'Шутка',
+    },
+    {
+        en: 'Narrow',
+        ru: 'Узкий',
+    },
+    {
+        en: 'Obvious',
+        ru: 'Очевидный',
+    },
+    {
+        en: 'Police',
+        ru: 'Полиция',
+    },
+    {
+        en: 'Rainy',
+        ru: 'Дождливый',
+    },
+    {
+        en: 'Road',
+        ru: 'Дорога',
+    },
+    {
+        en: 'Round',
+        ru: 'Круглый',
+    },
+    {
+        en: 'Slim',
+        ru: 'Стройный',
+    },
+    {
+        en: 'Sunny',
+        ru: 'Солнеыный',
     },
 ]
 
