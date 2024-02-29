@@ -3875,6 +3875,102 @@ const words = [
         en: 'Sunny',
         ru: 'Солнеыный',
     },
+    {
+        en: 'Thin',
+        ru: 'Худой',
+    },
+    {
+        en: 'Understanding',
+        ru: 'Понимание',
+    },
+    {
+        en: 'Uninformative',
+        ru: 'Неинформативный',
+    },
+    {
+        en: 'Wide',
+        ru: 'Широкий',
+    },
+    {
+        en: 'Anymore',
+        ru: 'Больше не',
+    },
+    {
+        en: 'Belong',
+        ru: 'Принадлежать',
+    },
+    {
+        en: 'Class',
+        ru: 'Класс',
+    },
+    {
+        en: 'Clean',
+        ru: 'Чистый, чистить',
+    },
+    {
+        en: 'Difference',
+        ru: 'Разница',
+    },
+    {
+        en: 'Guitar',
+        ru: 'Гитара',
+    },
+    {
+        en: 'Jazz',
+        ru: 'Джаз',
+    },
+    {
+        en: 'Lead',
+        ru: 'Вести',
+    },
+    {
+        en: 'Lifestyle',
+        ru: 'Образ жизни',
+    },
+    {
+        en: 'Magazine',
+        ru: 'Журнал',
+    },
+    {
+        en: 'Newspaper',
+        ru: 'Газета',
+    },
+    {
+        en: 'Piano',
+        ru: 'Пианино',
+    },
+    {
+        en: 'Pop music',
+        ru: 'Поп-музыка',
+    },
+    {
+        en: 'Public',
+        ru: 'Общественный',
+    },
+    {
+        en: 'Relative',
+        ru: 'Родственник',
+    },
+    {
+        en: 'Rock',
+        ru: 'Рок, скала',
+    },
+    {
+        en: 'Snowboarding',
+        ru: 'Катание на сноуборде',
+    },
+    {
+        en: 'Transport',
+        ru: 'Транспорт',
+    },
+    {
+        en: 'Violin',
+        ru: 'Скрипка',
+    },
+    {
+        en: 'Close',
+        ru: 'Близкий',
+    },
 ]
 
 module.exports = words;
