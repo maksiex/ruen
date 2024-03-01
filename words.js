@@ -3971,6 +3971,126 @@ const words = [
         en: 'Close',
         ru: 'Близкий',
     },
+    {
+        en: 'Among',
+        ru: 'Среди',
+    },
+    {
+        en: 'Crazy',
+        ru: 'Сумасшедший',
+    },
+    {
+        en: 'Deep',
+        ru: 'Глубоко, глубокий',
+    },
+    {
+        en: 'Dream',
+        ru: 'Мечта, мечтать',
+    },
+    {
+        en: 'Economics',
+        ru: 'Экономика',
+    },
+    {
+        en: 'Ingredient',
+        ru: 'Ингредиент',
+    },
+    {
+        en: 'Irregular',
+        ru: 'Нерегулярный',
+    },
+    {
+        en: 'Interested',
+        ru: 'Заинтересованный',
+    },
+    {
+        en: 'Lake',
+        ru: 'Озеро',
+    },
+    {
+        en: 'Mad',
+        ru: 'Сумасшедший',
+    },
+    {
+        en: 'Natural',
+        ru: 'Натуральный, естественный',
+    },
+    {
+        en: 'Regular',
+        ru: 'Регулярный',
+    },
+    {
+        en: 'Risk',
+        ru: 'Риск, рисковать',
+    },
+    {
+        en: 'Unfortunately',
+        ru: 'К сожалению',
+    },
+    {
+        en: 'Unofficial',
+        ru: 'Неофициальный',
+    },
+    {
+        en: 'Verb',
+        ru: 'Глагол',
+    },
+    {
+        en: 'Apologize',
+        ru: 'Извиняться',
+    },
+    {
+        en: 'Clinic',
+        ru: 'Клиника',
+    },
+    {
+        en: 'Confidence',
+        ru: 'Уверенность',
+    },
+    {
+        en: 'Dependent',
+        ru: 'Зависимый',
+    },
+    {
+        en: 'Financially',
+        ru: 'Финансово',
+    },
+    {
+        en: 'Illness',
+        ru: 'Болезнь',
+    },
+    {
+        en: 'Independent',
+        ru: 'Независимый',
+    },
+    {
+        en: 'Necklace',
+        ru: 'Ожерелье',
+    },
+    {
+        en: 'Nervous',
+        ru: 'Нервный',
+    },
+    {
+        en: 'Salary',
+        ru: 'Зарплата',
+    },
+    {
+        en: 'Sick',
+        ru: 'Больной',
+    },
+    {
+        en: 'Surgeon',
+        ru: 'Хирург',
+    },
+    {
+        en: 'Task',
+        ru: 'Задача',
+    },
+    {
+        en: 'Translator',
+        ru: 'Переводчик',
+    },
 ]
 
 module.exports = words;
