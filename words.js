@@ -4091,6 +4091,126 @@ const words = [
         en: 'Translator',
         ru: 'Переводчик',
     },
+    {
+        en: 'Unimportant',
+        ru: 'Неважный',
+    },
+    {
+        en: 'Well-paid',
+        ru: 'Хорошо оплачиваемый',
+    },
+    {
+        en: 'Agency',
+        ru: 'Агенство',
+    },
+    {
+        en: 'Behaviour',
+        ru: 'Поведение',
+    },
+    {
+        en: 'Classmate',
+        ru: 'Одноклассник',
+    },
+    {
+        en: 'Client',
+        ru: 'Клиент',
+    },
+    {
+        en: 'Comfortable',
+        ru: 'Удобный',
+    },
+    {
+        en: 'Complain',
+        ru: 'Жаловаться',
+    },
+    {
+        en: 'Condition',
+        ru: 'Состояние',
+    },
+    {
+        en: 'Consider',
+        ru: 'Рассматривать',
+    },
+    {
+        en: 'Design',
+        ru: 'Дизайн',
+    },
+    {
+        en: 'Employee',
+        ru: 'Работник',
+    },
+    {
+        en: 'Exist',
+        ru: 'Существовать',
+    },
+    {
+        en: 'Groupmate',
+        ru: 'Одногруппник',
+    },
+    {
+        en: 'Invest',
+        ru: 'Инвестировать',
+    },
+    {
+        en: 'Investor',
+        ru: 'Инвестор',
+    },
+    {
+        en: 'Matter',
+        ru: 'Иметь значение',
+    },
+    {
+        en: 'Overpay',
+        ru: 'Переплачивать',
+    },
+    {
+        en: 'Perfect',
+        ru: 'Идеальный',
+    },
+    {
+        en: 'Profit',
+        ru: 'Прибыль',
+    },
+    {
+        en: 'Quality',
+        ru: 'Качество',
+    },
+    {
+        en: 'Reliable',
+        ru: 'Надежный',
+    },
+    {
+        en: 'Robot',
+        ru: 'Робот',
+    },
+    {
+        en: 'Sales',
+        ru: 'Продажи',
+    },
+    {
+        en: 'Satisfaction',
+        ru: 'Удовлетворение',
+    },
+    {
+        en: 'Science',
+        ru: 'Наука',
+    },
+    {
+        en: 'Seriously',
+        ru: 'Серьезно',
+    },
+    {
+        en: 'Shirt',
+        ru: 'Рубашка',
+    },
+    {
+        en: 'Size',
+        ru: 'Размер',
+    },
+    {
+        en: 'Skirt',
+        ru: 'Юбка',
+    },
 ]
 
 module.exports = words;
