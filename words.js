@@ -4211,6 +4211,138 @@ const words = [
         en: 'Skirt',
         ru: 'Юбка',
     },
+    {
+        en: 'Surprising',
+        ru: 'Удивительный',
+    },
+    {
+        en: 'Tourist',
+        ru: 'Турист',
+    },
+    {
+        en: 'Weigh',
+        ru: 'Взвешивать',
+    },
+    {
+        en: 'Chemistry',
+        ru: 'Химия',
+    },
+    {
+        en: 'Community',
+        ru: 'Сообщество',
+    },
+    {
+        en: 'Composition',
+        ru: 'Сочинение',
+    },
+    {
+        en: 'Economy',
+        ru: 'Экономика',
+    },
+    {
+        en: 'Essay',
+        ru: 'Сочинение',
+    },
+    {
+        en: 'History',
+        ru: 'История',
+    },
+    {
+        en: 'Image',
+        ru: 'Образ',
+    },
+    {
+        en: 'Model',
+        ru: 'Модель',
+    },
+    {
+        en: 'Organization',
+        ru: 'Организация',
+    },
+    {
+        en: 'Outside',
+        ru: 'Снаружи',
+    },
+    {
+        en: 'Powerful',
+        ru: 'Мощный',
+    },
+    {
+        en: 'Reputation',
+        ru: 'Репутация',
+    },
+    {
+        en: 'Tall',
+        ru: 'Высокий',
+    },
+    {
+        en: 'Tax',
+        ru: 'Налог',
+    },
+    {
+        en: 'Windy',
+        ru: 'Ветреный',
+    },
+    {
+        en: 'Present',
+        ru: 'Настоящее',
+    },
+    {
+        en: 'Around',
+        ru: 'Вокруг',
+    },
+    {
+        en: 'Develop',
+        ru: 'Развивать',
+    },
+    {
+        en: 'Fitness',
+        ru: 'Фитнес',
+    },
+    {
+        en: 'French',
+        ru: 'Французский',
+    },
+    {
+        en: 'Imagination',
+        ru: 'Воображение',
+    },
+    {
+        en: 'Income',
+        ru: 'Доход',
+    },
+    {
+        en: 'Instructor',
+        ru: 'Инструктор',
+    },
+    {
+        en: 'Marketing',
+        ru: 'Маркетинг',
+    },
+    {
+        en: 'Musician',
+        ru: 'Музыкант',
+    },
+    {
+        en: 'On your own',
+        ru: 'Самостоятельно',
+    },
+    {
+        en: 'Personal',
+        ru: 'Личный',
+    },
+    {
+        en: 'President',
+        ru: 'Президент',
+    },
+    {
+        en: 'Scientist',
+        ru: 'Ученый',
+    },
+    {
+        en: 'Separately',
+        ru: 'Отдельно',
+    },
 ]
 
 module.exports = words;
