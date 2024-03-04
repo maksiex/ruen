@@ -4343,6 +4343,126 @@ const words = [
         en: 'Separately',
         ru: 'Отдельно',
     },
+    {
+        en: 'Series',
+        ru: 'Сериал',
+    },
+    {
+        en: 'Skill',
+        ru: 'Навык',
+    },
+    {
+        en: 'Specialist',
+        ru: 'Специалист',
+    },
+    {
+        en: 'Stable',
+        ru: 'Стабильный',
+    },
+    {
+        en: 'World',
+        ru: 'Мир',
+    },
+    {
+        en: 'by yourself',
+        ru: 'Сам, самостоятельно',
+    },
+    {
+        en: 'by myself',
+        ru: 'Сам, самостоятельно',
+    },
+    {
+        en: 'British',
+        ru: 'Британский',
+    },
+    {
+        en: 'Cousin',
+        ru: 'Двоюродная сестра, двоюродный брат',
+    },
+    {
+        en: 'Dish',
+        ru: 'Блюдо',
+    },
+    {
+        en: 'Inexpensive',
+        ru: 'Недорогой',
+    },
+    {
+        en: 'Noisy',
+        ru: 'Шумный',
+    },
+    {
+        en: 'Offline',
+        ru: 'Оффлайн',
+    },
+    {
+        en: 'Proud',
+        ru: 'Гордый',
+    },
+    {
+        en: 'Quite',
+        ru: 'Довольно',
+    },
+    {
+        en: 'Routine',
+        ru: 'Рутина',
+    },
+    {
+        en: 'Step',
+        ru: 'Шаг',
+    },
+    {
+        en: 'Tongue',
+        ru: 'Язык',
+    },
+    {
+        en: 'Traditional',
+        ru: 'Традиционный',
+    },
+    {
+        en: 'Account',
+        ru: 'Аккаунт, счет',
+    },
+    {
+        en: 'Behave',
+        ru: 'Вести себя',
+    },
+    {
+        en: 'Crisis',
+        ru: 'Кризис',
+    },
+    {
+        en: 'Economic',
+        ru: 'Экономический',
+    },
+    {
+        en: 'Premium',
+        ru: 'Премиум',
+    },
+    {
+        en: 'Purpose',
+        ru: 'Цель',
+    },
+    {
+        en: 'Respect',
+        ru: 'Уважать',
+    },
+    {
+        en: 'Spoil',
+        ru: 'Портить',
+    },
+    {
+        en: 'Strangely',
+        ru: 'Странно',
+    },
+    {
+        en: 'Vegetarian',
+        ru: 'Вегетарианец',
+    },
+    {
+        en: 'Version',
+        ru: 'Версия',
+    },
 ]
 
 module.exports = words;
