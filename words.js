@@ -2352,10 +2352,6 @@ const words = [
         ru: 'Зоопарк',
     },
     {
-        en: 'Walk',
-        ru: 'Walk',
-    },
-    {
         en: 'Ago',
         ru: 'Назад',
     },
@@ -4462,6 +4458,126 @@ const words = [
     {
         en: 'Version',
         ru: 'Версия',
+    },
+    {
+        en: 'Acquaintance',
+        ru: 'Знакомый',
+    },
+    {
+        en: 'Adapt',
+        ru: 'Адаптироваться',
+    },
+    {
+        en: 'Architect',
+        ru: 'Архитектор',
+    },
+    {
+        en: 'Depressed',
+        ru: 'Подавленный',
+    },
+    {
+        en: 'Depression',
+        ru: 'Депрессия',
+    },
+    {
+        en: 'Difficulty',
+        ru: 'Трудность',
+    },
+    {
+        en: 'Economist',
+        ru: 'Экономист',
+    },
+    {
+        en: 'Explanation',
+        ru: 'Объяснение',
+    },
+    {
+        en: 'Firm',
+        ru: 'Фирма',
+    },
+    {
+        en: 'Grow',
+        ru: 'Расти',
+    },
+    {
+        en: 'Immigrant',
+        ru: 'Иммигрант',
+    },
+    {
+        en: 'Provide',
+        ru: 'Предоставлять',
+    },
+    {
+        en: 'Role',
+        ru: 'Роль',
+    },
+    {
+        en: 'Suffer',
+        ru: 'Страдать',
+    },
+    {
+        en: 'Talented',
+        ru: 'Талантливый',
+    },
+    {
+        en: 'District',
+        ru: 'Район',
+    },
+    {
+        en: 'Easygoing',
+        ru: 'Спокойный, добродушный',
+    },
+    {
+        en: 'Grade',
+        ru: 'Оценка',
+    },
+    {
+        en: 'Inside',
+        ru: 'Внутри',
+    },
+    {
+        en: 'Kid',
+        ru: 'Ребенок',
+    },
+    {
+        en: 'Mark',
+        ru: 'Оценка',
+    },
+    {
+        en: 'Melodic',
+        ru: 'Мелодичный',
+    },
+    {
+        en: 'Membership',
+        ru: 'Членство',
+    },
+    {
+        en: 'Overcrowded',
+        ru: 'Переполненный',
+    },
+    {
+        en: 'Policeman',
+        ru: 'Полицейский',
+    },
+    {
+        en: 'Schoolboy',
+        ru: 'Школьник',
+    },
+    {
+        en: 'Spacious',
+        ru: 'Просторный',
+    },
+    {
+        en: 'Spoilt',
+        ru: 'Испорченный',
+    },
+    {
+        en: 'Unexpected',
+        ru: 'Неожиданный',
+    },
+    {
+        en: 'Point',
+        ru: 'Указывать',
     },
 ]
 
