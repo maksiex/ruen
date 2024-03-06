@@ -4579,6 +4579,126 @@ const words = [
         en: 'Point',
         ru: 'Указывать',
     },
+    {
+        en: 'Age',
+        ru: 'Возраст',
+    },
+    {
+        en: 'Channel',
+        ru: 'Канал',
+    },
+    {
+        en: 'Confident',
+        ru: 'Уверенный',
+    },
+    {
+        en: 'Eighty',
+        ru: 'Восемьдесят',
+    },
+    {
+        en: 'Elementary',
+        ru: 'Элементарный',
+    },
+    {
+        en: 'Grandparents',
+        ru: 'Дедушка и бабушка',
+    },
+    {
+        en: 'Granny',
+        ru: 'Бабушка',
+    },
+    {
+        en: 'Mountain',
+        ru: 'Гора',
+    },
+    {
+        en: 'Outstanding',
+        ru: 'Выдающийся',
+    },
+    {
+        en: 'Pregnant',
+        ru: 'Беременная',
+    },
+    {
+        en: 'Smell',
+        ru: 'Запах',
+    },
+    {
+        en: 'Stressful',
+        ru: 'Стрессовый',
+    },
+    {
+        en: 'Completely',
+        ru: 'Полностью',
+    },
+    {
+        en: 'Risky',
+        ru: 'Рискованный',
+    },
+    {
+        en: 'Interest',
+        ru: 'Интерес',
+    },
+    {
+        en: 'Accurate',
+        ru: 'Точный',
+    },
+    {
+        en: 'Attention',
+        ru: 'Внимание',
+    },
+    {
+        en: 'Attract',
+        ru: 'Привлекать',
+    },
+    {
+        en: 'Attractive',
+        ru: 'Привлекатальный',
+    },
+    {
+        en: 'Description',
+        ru: 'Описание',
+    },
+    {
+        en: 'Expect',
+        ru: 'Ожидать',
+    },
+    {
+        en: 'Frighten',
+        ru: 'Бояться',
+    },
+    {
+        en: 'Shocking',
+        ru: 'Шокирующий',
+    },
+    {
+        en: 'Stylish',
+        ru: 'Стильный',
+    },
+    {
+        en: 'Air',
+        ru: 'Воздух',
+    },
+    {
+        en: 'Bowling',
+        ru: 'Боулинг',
+    },
+    {
+        en: 'Breathe',
+        ru: 'Дышать',
+    },
+    {
+        en: 'Calories',
+        ru: 'Калории',
+    },
+    {
+        en: 'Charity',
+        ru: 'Благотворительность',
+    },
+    {
+        en: 'Draw',
+        ru: 'Рисовать',
+    },
 ]
 
 module.exports = words;
