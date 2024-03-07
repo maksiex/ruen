@@ -4699,6 +4699,126 @@ const words = [
         en: 'Draw',
         ru: 'Рисовать',
     },
+    {
+        en: 'Fond of',
+        ru: 'Любить, обожать',
+    },
+    {
+        en: 'Golf',
+        ru: 'Гольф',
+    },
+    {
+        en: 'Grandfather',
+        ru: 'Дедушка',
+    },
+    {
+        en: 'Grandmother',
+        ru: 'Бабушка',
+    },
+    {
+        en: 'Judo',
+        ru: 'Дзюдо',
+    },
+    {
+        en: 'Karate',
+        ru: 'Каратэ',
+    },
+    {
+        en: 'Keen on',
+        ru: 'Увлекться',
+    },
+    {
+        en: 'Mind',
+        ru: 'Ум',
+    },
+    {
+        en: 'Nothing',
+        ru: 'Ничего',
+    },
+    {
+        en: 'Particularly',
+        ru: 'Особенно',
+    },
+    {
+        en: 'Soccer',
+        ru: 'Футбол',
+    },
+    {
+        en: 'Spare time',
+        ru: 'Свободный',
+    },
+    {
+        en: 'Circle',
+        ru: 'Круг',
+    },
+    {
+        en: 'Couple',
+        ru: 'Пара',
+    },
+    {
+        en: 'Criticism',
+        ru: 'Критика',
+    },
+    {
+        en: 'Factory',
+        ru: 'Фабрика, завод',
+    },
+    {
+        en: 'Feed',
+        ru: 'Кормить',
+    },
+    {
+        en: 'Knife',
+        ru: 'Нож',
+    },
+    {
+        en: 'Never',
+        ru: 'Никогда',
+    },
+    {
+        en: 'Prestigious',
+        ru: 'Престижный',
+    },
+    {
+        en: 'Repeat',
+        ru: 'Повторять',
+    },
+    {
+        en: 'Resort',
+        ru: 'Курорт',
+    },
+    {
+        en: 'Scissors',
+        ru: 'Ножницы',
+    },
+    {
+        en: 'Throw',
+        ru: 'Бросать',
+    },
+    {
+        en: 'a.m',
+        ru: 'Утра',
+    },
+    {
+        en: 'Carry',
+        ru: 'Нести',
+    },
+    {
+        en: 'Count on',
+        ru: 'Рассчитывать на',
+    },
+    {
+        en: 'Crossroads',
+        ru: 'Напротив',
+    },
+    {
+        en: 'In front of',
+        ru: 'Спереди',
+    },
+    {
+        en: 'Imagine',
+        ru: 'Представить',
+    },
 ]
 
 module.exports = words;
