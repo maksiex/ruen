@@ -4931,6 +4931,127 @@ const words = [
         en: 'Urgent',
         ru: 'Срочный',
     },
+    {
+        en: 'Broaden',
+        ru: 'Расширять',
+    },
+    {
+        en: 'Care',
+        ru: 'Волноваться, заботиться',
+    },
+    {
+        en: 'Conversation',
+        ru: 'Разговор',
+    },
+    {
+        en: 'Discussion',
+        ru: 'Обсуждение',
+    },
+    {
+        en: 'Fun',
+        ru: 'Веселье',
+    },
+    {
+        en: 'Horizon',
+        ru: 'Горизонт',
+    },
+    {
+        en: 'Innocent',
+        ru: 'Невинный',
+    },
+    {
+        en: 'Luck',
+        ru: 'Удача',
+    },
+    {
+        en: 'Outdoors',
+        ru: 'Вне дома',
+    },
+    {
+        en: 'Partly',
+        ru: 'Частично',
+    },
+    {
+        en: 'Poverty',
+        ru: 'Бедность',
+    },
+    {
+        en: 'Private',
+        ru: 'Частный',
+    },
+    {
+        en: 'Pronunciation',
+        ru: 'Произношение',
+    },
+    {
+        en: 'Reach',
+        ru: 'Достигать',
+    },
+    {
+        en: 'Record',
+        ru: 'Запись',
+    },
+    {
+        en: 'Seldom',
+        ru: 'Редко',
+    },
+    {
+        en: 'Sight',
+        ru: 'Зрение',
+    },
+    {
+        en: 'Soft',
+        ru: 'Мягкий',
+    },
+    {
+        en: 'Suppose',
+        ru: 'Предполагать',
+    },
+    {
+        en: 'Thoroughly',
+        ru: 'Тщательно',
+    },
+    {
+        en: 'Touch',
+        ru: 'Касаться, трогать',
+    },
+    {
+        en: 'Wish',
+        ru: 'Желание',
+    },
+    {
+        en: 'Accept',
+        ru: 'Принимать',
+    },
+    {
+        en: 'Alarm clock',
+        ru: 'Будильник',
+    },
+    {
+        en: 'Certainly',
+        ru: 'Конечно',
+    },
+    {
+        en: 'Club',
+        ru: 'Клуб',
+    },
+    {
+        en: 'Divide',
+        ru: 'Делить',
+    },
+    {
+        en: 'Entrepreneur',
+        ru: 'Предприниматель',
+    },
+    {
+        en: 'Harmful',
+        ru: 'Вредный',
+    },
+    {
+        en: 'Importance',
+        ru: 'Важность',
+    },
+
 ]
 
 module.exports = words;
