@@ -5051,7 +5051,126 @@ const words = [
         en: 'Importance',
         ru: 'Важность',
     },
-
+    {
+        en: 'Into',
+        ru: 'В',
+    },
+    {
+        en: 'Latest',
+        ru: 'Последний',
+    },
+    {
+        en: 'Loser',
+        ru: 'Неудачник',
+    },
+    {
+        en: 'Memory',
+        ru: 'Память',
+    },
+    {
+        en: 'Pain',
+        ru: 'Боль',
+    },
+    {
+        en: 'Part',
+        ru: 'Часть',
+    },
+    {
+        en: 'Polite',
+        ru: 'Вежливый',
+    },
+    {
+        en: 'Promising',
+        ru: 'Многообещающий',
+    },
+    {
+        en: 'Talent',
+        ru: 'Талант',
+    },
+    {
+        en: 'Usual',
+        ru: 'Обычный',
+    },
+    {
+        en: 'Able',
+        ru: 'Мочь',
+    },
+    {
+        en: 'Anniversary',
+        ru: 'Годовщина',
+    },
+    {
+        en: 'Cash',
+        ru: 'Наличные',
+    },
+    {
+        en: 'Concert',
+        ru: 'Концерт',
+    },
+    {
+        en: 'Discovery',
+        ru: 'Открытие',
+    },
+    {
+        en: 'Field',
+        ru: 'Поле',
+    },
+    {
+        en: 'Laptop',
+        ru: 'Ноутбук',
+    },
+    {
+        en: 'Maybe',
+        ru: 'Возможно',
+    },
+    {
+        en: 'Medicine',
+        ru: 'Медицина',
+    },
+    {
+        en: 'Recording',
+        ru: 'Запись',
+    },
+    {
+        en: 'Revolution',
+        ru: 'Революция',
+    },
+    {
+        en: 'Get rid of',
+        ru: 'Избавиться от',
+    },
+    {
+        en: 'Rise',
+        ru: 'Подъем, поднимать',
+    },
+    {
+        en: 'Silly',
+        ru: 'Глупый',
+    },
+    {
+        en: 'Stadium',
+        ru: 'Стадион',
+    },
+    {
+        en: 'Sun',
+        ru: 'Солнце',
+    },
+    {
+        en: 'Tablet',
+        ru: 'Планшет, таблетка',
+    },
+    {
+        en: 'Unforgettable',
+        ru: 'Незабываемый',
+    },
+    {
+        en: 'Go up',
+        ru: 'Подниматься',
+    },
+    {
+        en: 'Go down',
+        ru: 'Снижаться',
+    },
 ]
 
 module.exports = words;
