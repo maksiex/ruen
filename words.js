@@ -5171,6 +5171,118 @@ const words = [
         en: 'Go down',
         ru: 'Снижаться',
     },
+    {
+        en: 'Up',
+        ru: 'Вверх',
+    },
+    {
+        en: 'Down',
+        ru: 'Вниз',
+    },
+    {
+        en: 'Conference',
+        ru: 'Конференция',
+    },
+    {
+        en: 'Conflict',
+        ru: 'Конфликт',
+    },
+    {
+        en: 'Contest',
+        ru: 'Конкурс',
+    },
+    {
+        en: 'Glad',
+        ru: 'Рад',
+    },
+    {
+        en: 'Guarantee',
+        ru: 'Гарантия, гарантировать',
+    },
+    {
+        en: 'Guess',
+        ru: 'Догадаться',
+    },
+    {
+        en: 'Initiative',
+        ru: 'Инициатива',
+    },
+    {
+        en: 'Participate',
+        ru: 'Участвовать',
+    },
+    {
+        en: 'Perhaps',
+        ru: 'Возможно',
+    },
+    {
+        en: 'React',
+        ru: 'Реагировать',
+    },
+    {
+        en: 'Resolve',
+        ru: 'Разрешить',
+    },
+    {
+        en: 'Sum',
+        ru: 'Сумма',
+    },
+    {
+        en: 'No one',
+        ru: 'Ни один, никто',
+    },
+    {
+        en: 'Contact',
+        ru: 'Контакт, связываться',
+    },
+    {
+        en: 'Attend',
+        ru: 'Посещать',
+    },
+    {
+        en: 'Extra',
+        ru: 'Дополнительный',
+    },
+    {
+        en: 'Additional',
+        ru: 'Дополнительный',
+    },
+    {
+        en: 'Bargain',
+        ru: 'Сделка',
+    },
+    {
+        en: 'Complete',
+        ru: 'Полный, завершать',
+    },
+    {
+        en: 'Plane',
+        ru: 'Самолет',
+    },
+    {
+        en: 'Foot',
+        ru: 'Нога',
+    },
+    {
+        en: 'Intensive',
+        ru: 'Интенсивный',
+    },
+    {
+        en: 'Page',
+        ru: 'Страница',
+    },
+    {
+        en: 'Shape',
+        ru: 'Форма',
+    },
+    {
+        en: 'Fit',
+        ru: 'Подходить',
+    },
+    {
+        en: 'Train',
+        ru: 'Поезд',
+    },
 ]
 
 module.exports = words;
