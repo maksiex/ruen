@@ -5283,6 +5283,126 @@ const words = [
         en: 'Train',
         ru: 'Поезд',
     },
+    {
+        en: 'Case',
+        ru: 'Случай',
+    },
+    {
+        en: 'Confirm',
+        ru: 'Подтверждать',
+    },
+    {
+        en: 'Date',
+        ru: 'Дата',
+    },
+    {
+        en: 'Divorced',
+        ru: 'Разведенный',
+    },
+    {
+        en: 'Increase',
+        ru: 'Увеличение, увеличить',
+    },
+    {
+        en: 'Uncomfortable',
+        ru: 'Неудобный',
+    },
+    {
+        en: 'Brown',
+        ru: 'Коричневый',
+    },
+    {
+        en: 'Citizen',
+        ru: 'Гражданин',
+    },
+    {
+        en: 'Coin',
+        ru: 'Монета',
+    },
+    {
+        en: 'Collect',
+        ru: 'Собирать',
+    },
+    {
+        en: 'Cottage',
+        ru: 'Коттедж',
+    },
+    {
+        en: 'Foreigner',
+        ru: 'Иностранец',
+    },
+    {
+        en: 'Fully',
+        ru: 'Полностью',
+    },
+    {
+        en: 'Impress',
+        ru: 'Впечатлять',
+    },
+    {
+        en: 'Lucky',
+        ru: 'Удачливый',
+    },
+    {
+        en: 'Manage',
+        ru: 'Управлять, суметь',
+    },
+    {
+        en: 'Measure',
+        ru: 'Мера, измерять',
+    },
+    {
+        en: 'Protest',
+        ru: 'Протестовать',
+    },
+    {
+        en: 'Require',
+        ru: 'Требовать',
+    },
+    {
+        en: 'Rest',
+        ru: 'Отдых',
+    },
+    {
+        en: 'Satisfied',
+        ru: 'Удовлетворенный',
+    },
+    {
+        en: 'True',
+        ru: 'Верный, истинный',
+    },
+    {
+        en: 'Unpleasant',
+        ru: 'Неприятный',
+    },
+    {
+        en: 'Wise',
+        ru: 'Мудрый',
+    },
+    {
+        en: 'Clear',
+        ru: 'Ясный',
+    },
+    {
+        en: 'Colourful',
+        ru: 'Красочный',
+    },
+    {
+        en: 'Illustration',
+        ru: 'Иллюстрация',
+    },
+    {
+        en: 'Light',
+        ru: 'Свет, светлый',
+    },
+    {
+        en: 'Predictable',
+        ru: 'Предсказуемый',
+    },
+    {
+        en: 'Presentation',
+        ru: 'Презентация',
+    },
 ]
 
 module.exports = words;
