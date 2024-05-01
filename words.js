@@ -5403,6 +5403,126 @@ const words = [
         en: 'Presentation',
         ru: 'Презентация',
     },
+    {
+        en: 'Rice',
+        ru: 'Рис',
+    },
+    {
+        en: 'Station',
+        ru: 'Станция',
+    },
+    {
+        en: 'Style',
+        ru: 'Стиль',
+    },
+    {
+        en: 'Tiring',
+        ru: 'Утомительный',
+    },
+    {
+        en: 'Translate',
+        ru: 'Перевести',
+    },
+    {
+        en: 'Translation',
+        ru: 'Перевод',
+    },
+    {
+        en: 'Virus',
+        ru: 'Вирус',
+    },
+    {
+        en: 'In advance',
+        ru: 'Заранее',
+    },
+    {
+        en: 'Born',
+        ru: 'Рожден',
+    },
+    {
+        en: 'Cancel',
+        ru: 'Отменить',
+    },
+    {
+        en: 'Flight',
+        ru: 'Рейс, полет',
+    },
+    {
+        en: 'Housework',
+        ru: 'Домашняя работа, работа по дому',
+    },
+    {
+        en: 'Ideal',
+        ru: 'Идеальный',
+    },
+    {
+        en: 'Install',
+        ru: 'Устанавливать',
+    },
+    {
+        en: 'Notice',
+        ru: 'Уведомлять',
+    },
+    {
+        en: 'Reserve',
+        ru: 'Резервировать',
+    },
+    {
+        en: 'Seat',
+        ru: 'Место, сиденье',
+    },
+    {
+        en: 'Disappear',
+        ru: 'Исчезать',
+    },
+    {
+        en: 'Enter',
+        ru: 'Войти, поступить',
+    },
+    {
+        en: 'New Year',
+        ru: 'Новый год',
+    },
+    {
+        en: 'Operation',
+        ru: 'Операция',
+    },
+    {
+        en: 'Vacation',
+        ru: 'Отпуск',
+    },
+    {
+        en: 'Badly',
+        ru: 'Плохо',
+    },
+    {
+        en: 'Luckily',
+        ru: 'К счастью',
+    },
+    {
+        en: 'Ninety',
+        ru: 'Девяносто',
+    },
+    {
+        en: 'Repair',
+        ru: 'Ремонтировать',
+    },
+    {
+        en: 'Ridiculous',
+        ru: 'Смехотворный',
+    },
+    {
+        en: 'Splendid',
+        ru: 'Великолепный, роскошный',
+    },
+    {
+        en: 'Save up',
+        ru: 'Копить',
+    },
+    {
+        en: 'Suit',
+        ru: 'Подходить',
+    },
 ]
 
 module.exports = words;
