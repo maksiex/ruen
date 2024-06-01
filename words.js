@@ -5523,6 +5523,127 @@ const words = [
         en: 'Suit',
         ru: 'Подходить',
     },
+    {
+        en: 'Book',
+        ru: 'Бронировать',
+    },
+    {
+        en: 'Ability',
+        ru: 'Способность',
+    },
+    {
+        en: 'Advise',
+        ru: 'Советовать',
+    },
+    {
+        en: 'Album',
+        ru: 'Альбом',
+    },
+    {
+        en: 'Although',
+        ru: 'Хотя',
+    },
+    {
+        en: 'Analytical',
+        ru: 'Аналитический',
+    },
+    {
+        en: 'Chapter',
+        ru: 'Глава',
+    },
+    {
+        en: 'Majority',
+        ru: 'Большинство',
+    },
+    {
+        en: 'Midnight',
+        ru: 'Полночь',
+    },
+    {
+        en: 'Paint',
+        ru: 'Покрасить',
+    },
+    {
+        en: 'Recovery',
+        ru: 'Восстановление',
+    },
+    {
+        en: 'Release',
+        ru: 'Выпускать, релиз',
+    },
+    {
+        en: 'Rude',
+        ru: 'Грубый',
+    },
+    {
+        en: 'Rudely',
+        ru: 'Грубо',
+    },
+    {
+        en: 'Speedy',
+        ru: 'Быстрый',
+    },
+    {
+        en: 'Subtitle',
+        ru: 'Подзаголовок',
+    },
+    {
+        en: 'Type',
+        ru: 'Печатать, тип',
+    },
+    {
+        en: 'War',
+        ru: 'Война',
+    },
+    {
+        en: 'Attack',
+        ru: 'Атака, атаковать',
+    },
+    {
+        en: 'The authorities',
+        ru: 'Власть',
+    },
+    {
+        en: 'Cheek',
+        ru: 'Щека',
+    },
+    {
+        en: 'During',
+        ru: 'В течение, во время',
+    },
+    {
+        en: 'Enemy',
+        ru: 'Враг',
+    },
+    {
+        en: 'Farm',
+        ru: 'Ферма',
+    },
+    {
+        en: 'A few',
+        ru: 'Несколько',
+    },
+    {
+        en: 'Fortunately',
+        ru: 'К счастью',
+    },
+    {
+        en: 'Lip',
+        ru: 'Губа',
+    },
+    {
+        en: 'Look up',
+        ru: 'Посмотреть',
+    },
+    {
+        en: '',
+        ru: '',
+    },
+    {
+        en: '',
+        ru: '',
+    },
+
 ]
 
 module.exports = words;
