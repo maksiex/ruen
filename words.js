@@ -5636,14 +5636,125 @@ const words = [
         ru: 'Посмотреть',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Map',
+        ru: 'Карта',
     },
     {
-        en: '',
-        ru: '',
+        en: 'Mirror',
+        ru: 'Зеркало',
     },
-
+    {
+        en: 'Peacefully',
+        ru: 'Мирно',
+    },
+    {
+        en: 'Someone',
+        ru: 'Кто-то',
+    },
+    {
+        en: 'Successfully',
+        ru: 'Успешно',
+    },
+    {
+        en: 'Tour',
+        ru: 'Тур',
+    },
+    {
+        en: 'Thought',
+        ru: 'Мысль',
+    },
+    {
+        en: 'Analyse',
+        ru: 'Анализировать',
+    },
+    {
+        en: 'Automatically',
+        ru: 'Автоматически',
+    },
+    {
+        en: 'Customer',
+        ru: 'Покупатель, клиент',
+    },
+    {
+        en: 'Emotion',
+        ru: 'Эмоция',
+    },
+    {
+        en: 'Gate',
+        ru: 'Ворота',
+    },
+    {
+        en: 'Highest',
+        ru: 'Высший',
+    },
+    {
+        en: 'Instruction',
+        ru: 'Инструкция',
+    },
+    {
+        en: 'Lid',
+        ru: 'Крышка',
+    },
+    {
+        en: 'Midday',
+        ru: 'Полдень',
+    },
+    {
+        en: 'Neighbour',
+        ru: 'Сосед',
+    },
+    {
+        en: 'Noise',
+        ru: 'Шум',
+    },
+    {
+        en: 'Noon',
+        ru: 'Полдень',
+    },
+    {
+        en: 'Stone',
+        ru: 'Камень',
+    },
+    {
+        en: 'Lie',
+        ru: 'Ложь, врать',
+    },
+    {
+        en: 'Agreement',
+        ru: 'Соглашение',
+    },
+    {
+        en: 'Appearance',
+        ru: 'Внешность, появляться',
+    },
+    {
+        en: 'Concentrate',
+        ru: 'Сконцентрироваться',
+    },
+    {
+        en: 'Describe',
+        ru: 'Описывать',
+    },
+    {
+        en: 'Destroy',
+        ru: 'Разрушить',
+    },
+    {
+        en: 'Hurry up',
+        ru: 'Торопиться',
+    },
+    {
+        en: 'Invitation',
+        ru: 'Приглашение',
+    },
+    {
+        en: 'Loss',
+        ru: 'Потеря',
+    },
+    {
+        en: 'Radio',
+        ru: 'Радио',
+    },
 ]
 
 module.exports = words;
