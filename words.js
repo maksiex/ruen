@@ -5755,6 +5755,126 @@ const words = [
         en: 'Radio',
         ru: 'Радио',
     },
+    {
+        en: 'Unprofessionally',
+        ru: 'Непрофессионально',
+    },
+    {
+        en: 'Ball',
+        ru: 'Мяч',
+    },
+    {
+        en: 'Blow',
+        ru: 'Дуть',
+    },
+    {
+        en: 'Catch',
+        ru: 'Поймать',
+    },
+    {
+        en: 'Cave',
+        ru: 'Пещера',
+    },
+    {
+        en: 'Grow up',
+        ru: 'Вырасти',
+    },
+    {
+        en: 'Hide',
+        ru: 'Прятать',
+    },
+    {
+        en: 'Hit',
+        ru: 'Ударить, удар',
+    },
+    {
+        en: 'At once',
+        ru: 'Сразу',
+    },
+    {
+        en: 'Otherwise',
+        ru: 'Иначе, по-другому',
+    },
+    {
+        en: 'Overcome',
+        ru: 'Преодолеть',
+    },
+    {
+        en: 'Shelf',
+        ru: 'Полка',
+    },
+    {
+        en: 'Sportsman',
+        ru: 'Спортсмен',
+    },
+    {
+        en: 'Steal',
+        ru: 'Украсть',
+    },
+    {
+        en: 'Sudden',
+        ru: 'Внезапный',
+    },
+    {
+        en: 'Treasure',
+        ru: 'Сокровище',
+    },
+    {
+        en: 'Wind',
+        ru: 'Ветер',
+    },
+    {
+        en: 'Withdraw',
+        ru: 'Снимать',
+    },
+    {
+        en: 'Accidentally',
+        ru: 'Случайно',
+    },
+    {
+        en: 'Across',
+        ru: 'Через',
+    },
+    {
+        en: 'Arm',
+        ru: 'Рука',
+    },
+    {
+        en: 'Beside',
+        ru: 'Рядом, возле',
+    },
+    {
+        en: 'Bravely',
+        ru: 'Смело',
+    },
+    {
+        en: 'Courageously',
+        ru: 'Отвежно',
+    },
+    {
+        en: 'Deal',
+        ru: 'Сделка, иметь дело',
+    },
+    {
+        en: 'Fight',
+        ru: 'Борьба, бороться',
+    },
+    {
+        en: 'Forgive',
+        ru: 'Прощать',
+    },
+    {
+        en: 'Freedom',
+        ru: 'Свобода',
+    },
+    {
+        en: 'Heroically',
+        ru: 'Героически',
+    },
+    {
+        en: 'Hurt',
+        ru: 'Ранить, повредить',
+    },
 ]
 
 module.exports = words;
