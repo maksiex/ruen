@@ -5875,6 +5875,126 @@ const words = [
         en: 'Hurt',
         ru: 'Ранить, повредить',
     },
+    {
+        en: 'Independence',
+        ru: 'Независимость',
+    },
+    {
+        en: 'Knee',
+        ru: 'Колено',
+    },
+    {
+        en: 'Leg',
+        ru: 'Нога',
+    },
+    {
+        en: 'Masterpiece',
+        ru: 'Шедевр',
+    },
+    {
+        en: 'Piece',
+        ru: 'Кусок',
+    },
+    {
+        en: 'Plate',
+        ru: 'Тарелка',
+    },
+    {
+        en: 'Pond',
+        ru: 'Пруд',
+    },
+    {
+        en: 'Pony',
+        ru: 'Пони',
+    },
+    {
+        en: 'Soldier',
+        ru: 'Солдат',
+    },
+    {
+        en: 'Supplier',
+        ru: 'Поставщик',
+    },
+    {
+        en: 'Beat',
+        ru: 'Бить',
+    },
+    {
+        en: 'Bell',
+        ru: 'Звонок',
+    },
+    {
+        en: 'Concentration',
+        ru: 'Концентрация',
+    },
+    {
+        en: 'Incredibly',
+        ru: 'Невероятно',
+    },
+    {
+        en: 'Palace',
+        ru: 'Дворец',
+    },
+    {
+        en: 'Patience',
+        ru: 'Терпение',
+    },
+    {
+        en: 'Purse',
+        ru: 'Кошелек',
+    },
+    {
+        en: 'Television',
+        ru: 'Телевидение',
+    },
+    {
+        en: 'Uniform',
+        ru: 'Форма',
+    },
+    {
+        en: 'Carton',
+        ru: 'Пакет, картон',
+    },
+    {
+        en: 'Dark',
+        ru: 'Темный, темно',
+    },
+    {
+        en: 'List',
+        ru: 'Список',
+    },
+    {
+        en: 'Login',
+        ru: 'Логин',
+    },
+    {
+        en: 'May',
+        ru: 'Возможно',
+    },
+    {
+        en: 'Network',
+        ru: 'Сеть',
+    },
+    {
+        en: 'Password',
+        ru: 'Пароль',
+    },
+    {
+        en: 'Performance',
+        ru: 'Представление',
+    },
+    {
+        en: 'Somehow',
+        ru: 'Как-то',
+    },
+    {
+        en: 'Unexpectedly',
+        ru: 'Неожиданно',
+    },
+    {
+        en: 'Second',
+        ru: 'Секунда',
+    },
 ]
 
 module.exports = words;
