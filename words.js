@@ -5995,6 +5995,238 @@ const words = [
         en: 'Second',
         ru: 'Секунда',
     },
+    {
+        en: 'Complaint',
+        ru: 'Жалоба',
+    },
+    {
+        en: 'Dislike',
+        ru: 'Дизлайк, не нравится',
+    },
+    {
+        en: 'Format',
+        ru: 'Формат',
+    },
+    {
+        en: 'Bestseller',
+        ru: 'Бестселлер',
+    },
+    {
+        en: 'Export',
+        ru: 'Экспорт, экспортировать',
+    },
+    {
+        en: 'Fame',
+        ru: 'Слава',
+    },
+    {
+        en: 'Fear',
+        ru: 'Страх',
+    },
+    {
+        en: 'Figure',
+        ru: 'цифра, фигура',
+    },
+    {
+        en: 'Finally',
+        ru: 'В конце концов',
+    },
+    {
+        en: 'Fortune',
+        ru: 'Состояние',
+    },
+    {
+        en: 'High-quality',
+        ru: 'Высококачественный',
+    },
+    {
+        en: 'Introduce',
+        ru: 'Представлять',
+    },
+    {
+        en: 'Low-quality',
+        ru: 'Низкокачественный',
+    },
+    {
+        en: 'Mention',
+        ru: 'Упоминать',
+    },
+    {
+        en: 'Might',
+        ru: 'Возможно',
+    },
+    {
+        en: 'Recognition',
+        ru: 'Признание',
+    },
+    {
+        en: 'Army',
+        ru: 'Армия',
+    },
+    {
+        en: 'Government',
+        ru: 'Правительство',
+    },
+    {
+        en: 'Nearest',
+        ru: 'Ближайший',
+    },
+    {
+        en: 'Territory',
+        ru: 'Территория',
+    },
+    {
+        en: 'Coat',
+        ru: 'Пальто',
+    },
+    {
+        en: 'Curtains',
+        ru: 'Шторы',
+    },
+    {
+        en: 'Hook',
+        ru: 'Крючок',
+    },
+    {
+        en: 'Machine',
+        ru: 'Машина',
+    },
+    {
+        en: 'Painting',
+        ru: 'Картина',
+    },
+    {
+        en: 'Pillow',
+        ru: 'Подушка',
+    },
+    {
+        en: 'Truth',
+        ru: 'Правда',
+    },
+    {
+        en: 'Test',
+        ru: 'Тестировать',
+    },
+    {
+        en: 'Arrest',
+        ru: 'Арестовывать, арест',
+    },
+    {
+        en: 'Atmosphere',
+        ru: 'Атмосфера',
+    },
+    {
+        en: 'Create',
+        ru: 'Создать',
+    },
+    {
+        en: 'Criticize',
+        ru: 'Критиковать',
+    },
+    {
+        en: 'Elephant',
+        ru: 'Слон',
+    },
+    {
+        en: 'Impolitely',
+        ru: 'Невежливо',
+    },
+    {
+        en: 'Reason',
+        ru: 'Причина',
+    },
+    {
+        en: 'Remark',
+        ru: 'Замечание',
+    },
+    {
+        en: 'Sort',
+        ru: 'Род, сорт',
+    },
+    {
+        en: 'Awful',
+        ru: 'Ужасный',
+    },
+    {
+        en: 'Celebrity',
+        ru: 'Знаменитость',
+    },
+    {
+        en: 'Copybook',
+        ru: 'Тетрадь',
+    },
+    {
+        en: 'Definitely',
+        ru: 'Определенно',
+    },
+    {
+        en: 'Diet',
+        ru: 'Диета',
+    },
+    {
+        en: 'Human',
+        ru: 'Человеческий, человек',
+    },
+    {
+        en: 'Justice',
+        ru: 'Справедливость',
+    },
+    {
+        en: 'Line',
+        ru: 'Линия',
+    },
+    {
+        en: 'Medical',
+        ru: 'Медицинский',
+    },
+    {
+        en: 'Pool',
+        ru: 'Бассейн',
+    },
+    {
+        en: 'Reaction',
+        ru: 'Реакция',
+    },
+    {
+        en: 'Alive',
+        ru: 'Живой, жив',
+    },
+    {
+        en: 'Ancient',
+        ru: 'Древний',
+    },
+    {
+        en: 'Constant',
+        ru: 'Постоянный',
+    },
+    {
+        en: 'Fifteenth',
+        ru: 'Пятнадцать',
+    },
+    {
+        en: 'Instead',
+        ru: 'Вместо',
+    },
+    {
+        en: 'Issue',
+        ru: 'Вопрос',
+    },
+    {
+        en: 'Monastery',
+        ru: 'монастырь',
+    },
+    {
+        en: 'Stamp',
+        ru: 'печать, марка',
+    },
+    {
+        en: 'Still',
+        ru: 'Всё ещё',
+    },
+    {
+        en: 'Point out',
+        ru: 'Заметить',
+    },
 ]
 
 module.exports = words;
