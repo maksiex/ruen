@@ -6227,6 +6227,126 @@ const words = [
         en: 'Point out',
         ru: 'Заметить',
     },
+    {
+        en: 'Addicted',
+        ru: 'Зависим',
+    },
+    {
+        en: 'Darkness',
+        ru: 'Темнота',
+    },
+    {
+        en: 'Drugs',
+        ru: 'Наркотики',
+    },
+    {
+        en: 'Fed up',
+        ru: 'Сыт по горло',
+    },
+    {
+        en: 'Gambling',
+        ru: 'Азартные игры',
+    },
+    {
+        en: 'Ghost',
+        ru: 'Призрак',
+    },
+    {
+        en: 'Heavily',
+        ru: 'Сильно',
+    },
+    {
+        en: 'Nice',
+        ru: 'Мило',
+    },
+    {
+        en: 'Optimism',
+        ru: 'Оптимизм',
+    },
+    {
+        en: 'Pity',
+        ru: 'Жаль',
+    },
+    {
+        en: 'Ruin',
+        ru: 'Разрушать',
+    },
+    {
+        en: 'Spider',
+        ru: 'Паук',
+    },
+    {
+        en: 'Vacancy',
+        ru: 'Вакансия',
+    },
+    {
+        en: 'Baseball',
+        ru: 'Бейсбол',
+    },
+    {
+        en: 'Bitterly',
+        ru: 'Горько',
+    },
+    {
+        en: 'Castle',
+        ru: 'Замок',
+    },
+    {
+        en: 'Death',
+        ru: 'Смерть',
+    },
+    {
+        en: 'Differ',
+        ru: 'Отличаться',
+    },
+    {
+        en: 'Excited',
+        ru: 'В восторге',
+    },
+    {
+        en: 'Generation',
+        ru: 'Поколение',
+    },
+    {
+        en: 'Mess',
+        ru: 'Беспорядок',
+    },
+    {
+        en: 'Nightclub',
+        ru: 'Ночной клуб',
+    },
+    {
+        en: 'Nightlife',
+        ru: 'Ночная жизнь',
+    },
+    {
+        en: 'Numerous',
+        ru: 'Многочисленный',
+    },
+    {
+        en: 'Obviously',
+        ru: 'Очевидно',
+    },
+    {
+        en: 'Purchase',
+        ru: 'Покупка, покупать',
+    },
+    {
+        en: 'Sky',
+        ru: 'Небо',
+    },
+    {
+        en: 'Skyscraper',
+        ru: 'Небоскреб',
+    },
+    {
+        en: 'Accuse',
+        ru: 'Обвинять',
+    },
+    {
+        en: 'Crime',
+        ru: 'Преступление',
+    },
 ]
 
 module.exports = words;
