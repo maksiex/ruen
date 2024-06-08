@@ -6347,6 +6347,126 @@ const words = [
         en: 'Crime',
         ru: 'Преступление',
     },
+    {
+        en: 'Forward',
+        ru: 'Вперед',
+    },
+    {
+        en: 'Impatience',
+        ru: 'Нетерпение',
+    },
+    {
+        en: 'insist',
+        ru: 'Настоять',
+    },
+    {
+        en: 'Murder',
+        ru: 'Убийство',
+    },
+    {
+        en: 'Rely',
+        ru: 'Полагаться',
+    },
+    {
+        en: 'Reply',
+        ru: 'Ответить',
+    },
+    {
+        en: 'Robbery',
+        ru: 'Ограбление',
+    },
+    {
+        en: 'Shout',
+        ru: 'Кричать',
+    },
+    {
+        en: 'Subscribe',
+        ru: 'Подписываться',
+    },
+    {
+        en: 'Unacceptable',
+        ru: 'Неприемлемый',
+    },
+    {
+        en: 'Look for',
+        ru: 'Искать',
+    },
+    {
+        en: 'Approve',
+        ru: 'Одобрить',
+    },
+    {
+        en: 'Backache',
+        ru: 'Боль в спине',
+    },
+    {
+        en: 'Candidate',
+        ru: 'Кандидат',
+    },
+    {
+        en: 'Congratulate',
+        ru: 'Подздравлять',
+    },
+    {
+        en: 'Consist',
+        ru: 'Состоять',
+    },
+    {
+        en: 'Escape',
+        ru: 'Сбежать',
+    },
+    {
+        en: 'Headache',
+        ru: 'Головная боль',
+    },
+    {
+        en: 'Remind',
+        ru: 'Напиминать',
+    },
+    {
+        en: 'Report',
+        ru: 'Отчет',
+    },
+    {
+        en: 'Succeed',
+        ru: 'Преуспеть, удаваться',
+    },
+    {
+        en: 'Vote',
+        ru: 'Голосовать',
+    },
+    {
+        en: 'Addiction',
+        ru: 'Зависимость',
+    },
+    {
+        en: 'Advantage',
+        ru: 'Преимущество',
+    },
+    {
+        en: 'Associate',
+        ru: 'Ассоциировать',
+    },
+    {
+        en: 'Attitude',
+        ru: 'Отношение',
+    },
+    {
+        en: 'Blackboard',
+        ru: 'Классная доска',
+    },
+    {
+        en: 'Cancer',
+        ru: 'Рак',
+    },
+    {
+        en: 'Cause',
+        ru: 'Причина, вызывать',
+    },
+    {
+        en: 'Cheating',
+        ru: 'Мошенничество, списывать',
+    },
 ]
 
 module.exports = words;
