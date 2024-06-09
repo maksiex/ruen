@@ -6467,6 +6467,158 @@ const words = [
         en: 'Cheating',
         ru: 'Мошенничество, списывать',
     },
+    {
+        en: 'Cure',
+        ru: 'Лечение, лечить',
+    },
+    {
+        en: 'Disadvantage',
+        ru: 'Недостаток',
+    },
+    {
+        en: 'Discipline',
+        ru: 'Дисциплина',
+    },
+    {
+        en: 'Disease',
+        ru: 'Болезнь',
+    },
+    {
+        en: 'Forever',
+        ru: 'Навсегда',
+    },
+    {
+        en: 'Lack',
+        ru: 'Нехватка, не хватать',
+    },
+    {
+        en: 'Linguistics',
+        ru: 'Лингвистика',
+    },
+    {
+        en: 'Lung',
+        ru: 'Легкое',
+    },
+    {
+        en: 'Negative',
+        ru: 'Отрицательный',
+    },
+    {
+        en: 'Refusal',
+        ru: 'Отказ',
+    },
+    {
+        en: 'Search',
+        ru: 'Поиск, искать',
+    },
+    {
+        en: 'Specialise',
+        ru: 'Специализироваться',
+    },
+    {
+        en: 'Temporary',
+        ru: 'Временный',
+    },
+    {
+        en: 'Whiteboard',
+        ru: 'Доска',
+    },
+    {
+        en: 'Bar',
+        ru: 'Бар',
+    },
+    {
+        en: 'Bottom',
+        ru: 'Низ',
+    },
+    {
+        en: 'Cathedral',
+        ru: 'Собор',
+    },
+    {
+        en: 'Danger',
+        ru: 'Опасность',
+    },
+    {
+        en: 'East',
+        ru: 'Восток',
+    },
+    {
+        en: 'General',
+        ru: 'Общий',
+    },
+    {
+        en: 'North',
+        ru: 'Север',
+    },
+    {
+        en: 'Rate',
+        ru: 'Ставка',
+    },
+    {
+        en: 'Satisfactory',
+        ru: 'Удовлетворительный',
+    },
+    {
+        en: 'South',
+        ru: 'Юг',
+    },
+    {
+        en: 'Strict',
+        ru: 'Строгий',
+    },
+    {
+        en: 'Welcome',
+        ru: 'Добро пожаловать',
+    },
+    {
+        en: 'West',
+        ru: 'Запад',
+    },
+    {
+        en: 'Whole',
+        ru: 'Весь, целый',
+    },
+    {
+        en: 'April',
+        ru: 'Апрель',
+    },
+    {
+        en: 'August',
+        ru: 'Август',
+    },
+    {
+        en: 'Christmas',
+        ru: 'Рождество',
+    },
+    {
+        en: 'December',
+        ru: 'Декабрь',
+    },
+    {
+        en: 'February',
+        ru: 'Февраль',
+    },
+    {
+        en: 'January',
+        ru: 'Январь',
+    },
+    {
+        en: 'July',
+        ru: 'Июль',
+    },
+    {
+        en: 'June',
+        ru: 'Июнь',
+    },
+    {
+        en: 'March',
+        ru: 'Март',
+    },
+    {
+        en: 'Mexico',
+        ru: 'Мексика',
+    },
 ]
 
 module.exports = words;
