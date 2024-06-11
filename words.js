@@ -6819,6 +6819,222 @@ const words = [
         en: 'Dad',
         ru: 'Папа',
     },
+    {
+        en: 'Degree',
+        ru: 'Степень',
+    },
+    {
+        en: 'Disturb',
+        ru: 'Беспокоить',
+    },
+    {
+        en: 'Grandpa',
+        ru: 'Дедушка',
+    },
+    {
+        en: 'Kettle',
+        ru: 'Чайник',
+    },
+    {
+        en: 'Knock',
+        ru: 'Стучать',
+    },
+    {
+        en: 'Mom',
+        ru: 'Мама',
+    },
+    {
+        en: 'Pack',
+        ru: 'Паковать',
+    },
+    {
+        en: 'Pray',
+        ru: 'Молиться',
+    },
+    {
+        en: 'Teeth',
+        ru: 'Зубы',
+    },
+    {
+        en: 'Through',
+        ru: 'Через',
+    },
+    {
+        en: 'Twins',
+        ru: 'Близнецы',
+    },
+    {
+        en: 'Underground',
+        ru: 'Метро',
+    },
+    {
+        en: 'Slow down',
+        ru: 'Замедлить',
+    },
+    {
+        en: 'Cope',
+        ru: 'Справляться',
+    },
+    {
+        en: 'Deserve',
+        ru: 'Заслуживать',
+    },
+    {
+        en: 'Exchange',
+        ru: 'Обменивать',
+    },
+    {
+        en: 'Firmly',
+        ru: 'Твердо',
+    },
+    {
+        en: 'Loud',
+        ru: 'Громкий',
+    },
+    {
+        en: 'Owe',
+        ru: 'Быть должным',
+    },
+    {
+        en: 'Sharply',
+        ru: 'Резко',
+    },
+    {
+        en: 'Soup',
+        ru: 'Суп',
+    },
+    {
+        en: 'Split Up',
+        ru: 'Расстаться',
+    },
+    {
+        en: 'Suspicious',
+        ru: 'Подозрительный',
+    },
+    {
+        en: 'Thrilling',
+        ru: 'Захватывающий',
+    },
+    {
+        en: 'Ache',
+        ru: 'Боль',
+    },
+    {
+        en: 'Ankle',
+        ru: 'Лодыжка',
+    },
+    {
+        en: 'Argue',
+        ru: 'Спорить',
+    },
+    {
+        en: 'Asleep',
+        ru: 'Спящий',
+    },
+    {
+        en: 'Bird',
+        ru: 'Птица',
+    },
+    {
+        en: 'Retell',
+        ru: 'Пересказывать',
+    },
+    {
+        en: 'Rollerblading',
+        ru: 'Кататься на роликах',
+    },
+    {
+        en: 'Skateboarding',
+        ru: 'Скейтбординг',
+    },
+    {
+        en: 'Summary',
+        ru: 'Резюме, краткое изложение',
+    },
+    {
+        en: 'While',
+        ru: 'В то время как',
+    },
+    {
+        en: 'Already',
+        ru: 'Уже',
+    },
+    {
+        en: 'Childhood',
+        ru: 'Детство',
+    },
+    {
+        en: 'Diploma',
+        ru: 'Диплом',
+    },
+    {
+        en: 'English-speaking',
+        ru: 'Англоговорящий',
+    },
+    {
+        en: 'Ever',
+        ru: 'Когда-либо',
+    },
+    {
+        en: 'Injure',
+        ru: 'Ранить, повредить',
+    },
+    {
+        en: 'Iron',
+        ru: 'Гладить',
+    },
+    {
+        en: 'Local',
+        ru: 'Местный',
+    },
+    {
+        en: 'Recover',
+        ru: 'Выздороветь',
+    },
+    {
+        en: 'Since',
+        ru: 'С, с тех пор как',
+    },
+    {
+        en: 'Superstar',
+        ru: 'Супер звезда',
+    },
+    {
+        en: 'Yet',
+        ru: 'Ещё',
+    },
+    {
+        en: 'Film',
+        ru: 'Фильм',
+    },
+    {
+        en: 'Lottery',
+        ru: 'Лотерея',
+    },
+    {
+        en: 'Receptionist',
+        ru: 'Секретарь',
+    },
+    {
+        en: 'Staff',
+        ru: 'Персонал',
+    },
+    {
+        en: 'Sushi',
+        ru: 'Суши',
+    },
+    {
+        en: 'Asia',
+        ru: 'Азия',
+    },
+    {
+        en: 'Engaged',
+        ru: 'Помолвлен',
+    },
+    {
+        en: 'Europe',
+        ru: 'Европа',
+    },
 ]
 
 module.exports = words;
