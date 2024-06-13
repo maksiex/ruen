@@ -7035,6 +7035,194 @@ const words = [
         en: 'Europe',
         ru: 'Европа',
     },
+    {
+        en: 'Exhausted',
+        ru: 'Истощен',
+    },
+    {
+        en: 'Lately',
+        ru: 'В последнее время',
+    },
+    {
+        en: 'Library',
+        ru: 'Библиотека',
+    },
+    {
+        en: 'Religion',
+        ru: 'Религия',
+    },
+    {
+        en: 'Date',
+        ru: 'Встречаться',
+    },
+    {
+        en: 'Announce',
+        ru: 'Объявлять',
+    },
+    {
+        en: 'Boat',
+        ru: 'Лодка',
+    },
+    {
+        en: 'Camera',
+        ru: 'Камера',
+    },
+    {
+        en: 'Discount',
+        ru: 'Скидка',
+    },
+    {
+        en: 'Donate',
+        ru: 'Жертвовать',
+    },
+    {
+        en: 'Drown',
+        ru: 'Тонунь',
+    },
+    {
+        en: 'Latin America',
+        ru: 'Латинская Америка',
+    },
+    {
+        en: 'Nine',
+        ru: 'Девять',
+    },
+    {
+        en: 'Passport',
+        ru: 'Паспорт',
+    },
+    {
+        en: 'Payment',
+        ru: 'Платеж',
+    },
+    {
+        en: 'Preparation',
+        ru: 'Подготовка',
+    },
+    {
+        en: 'Recently',
+        ru: 'Недавно',
+    },
+    {
+        en: 'Red',
+        ru: 'Красный',
+    },
+    {
+        en: 'Ship',
+        ru: 'Корабль',
+    },
+    {
+        en: 'Stupidly',
+        ru: 'Тупо',
+    },
+    {
+        en: 'Sink',
+        ru: 'Тонуть, раковина',
+    },
+    {
+        en: 'Upload',
+        ru: 'Загружать',
+    },
+    {
+        en: 'Weight',
+        ru: 'Вес',
+    },
+    {
+        en: 'White',
+        ru: 'Белый',
+    },
+    {
+        en: 'Yellow',
+        ru: 'Желтый',
+    },
+    {
+        en: 'Apply',
+        ru: 'Подять заявку',
+    },
+    {
+        en: 'Briefly',
+        ru: 'Кратко',
+    },
+    {
+        en: 'Capital',
+        ru: 'Столица, капитал',
+    },
+    {
+        en: 'Click',
+        ru: 'Нажать',
+    },
+    {
+        en: 'Confirmation',
+        ru: 'Подтверждение',
+    },
+    {
+        en: 'Feedback',
+        ru: 'Обратная связь',
+    },
+    {
+        en: 'Forecast',
+        ru: 'Прогноз',
+    },
+    {
+        en: 'Petrol station',
+        ru: 'Автозаправка',
+    },
+    {
+        en: 'Publish',
+        ru: 'Публиковать',
+    },
+    {
+        en: 'Response',
+        ru: 'Ответ',
+    },
+    {
+        en: 'Top',
+        ru: 'Верхний',
+    },
+    {
+        en: 'Volume',
+        ru: 'Громкость',
+    },
+    {
+        en: 'Webinar',
+        ru: 'Вебинар',
+    },
+    {
+        en: 'Barbecue',
+        ru: 'Барбекю',
+    },
+    {
+        en: 'Insurance',
+        ru: 'Страхование',
+    },
+    {
+        en: 'Nobody',
+        ru: 'Никто',
+    },
+    {
+        en: 'Pleased',
+        ru: 'Довольный',
+    },
+    {
+        en: 'Print',
+        ru: 'Печать',
+    },
+    {
+        en: 'Soaked',
+        ru: 'Промокший',
+    },
+    {
+        en: 'Switch off',
+        ru: 'Выключать',
+    },
+    {
+        en: 'Unless',
+        ru: 'Если не',
+    },
+    {
+        en: 'Turn off',
+        ru: 'Выключать',
+    },
 ]
 
 module.exports = words;
