@@ -7223,6 +7223,206 @@ const words = [
         en: 'Turn off',
         ru: 'Выключать',
     },
+    {
+        en: 'Damage',
+        ru: 'Разрушать',
+    },
+    {
+        en: 'Delay',
+        ru: 'Задержка, задержаться',
+    },
+    {
+        en: 'Fewer',
+        ru: 'Меньше',
+    },
+    {
+        en: 'Grammatically',
+        ru: 'Грамматически',
+    },
+    {
+        en: 'Hire',
+        ru: 'Нанимать',
+    },
+    {
+        en: 'Incorrectly',
+        ru: 'Неверно',
+    },
+    {
+        en: 'Jewellery',
+        ru: 'Ювелирные украшения',
+    },
+    {
+        en: 'Photograph',
+        ru: 'Фотография',
+    },
+    {
+        en: 'Plant',
+        ru: 'Растение',
+    },
+    {
+        en: 'Properly',
+        ru: 'Должным образом',
+    },
+    {
+        en: 'Punish',
+        ru: 'Наказать',
+    },
+    {
+        en: 'Robber',
+        ru: 'Грабитель',
+    },
+    {
+        en: 'Vase',
+        ru: 'Ваза',
+    },
+    {
+        en: 'Whereas',
+        ru: 'В то время как',
+    },
+    {
+        en: 'Bite',
+        ru: 'Укусить',
+    },
+    {
+        en: 'Closely',
+        ru: 'Тесно',
+    },
+    {
+        en: 'Connected',
+        ru: 'Связанный',
+    },
+    {
+        en: 'Ignore',
+        ru: 'Игнорировать',
+    },
+    {
+        en: 'Praise',
+        ru: 'Хвалить, похвала',
+    },
+    {
+        en: 'Treat',
+        ru: 'Обращаться',
+    },
+    {
+        en: 'Unfairly',
+        ru: 'Несправедливо',
+    },
+    {
+        en: 'Approval',
+        ru: 'Одобрение',
+    },
+    {
+        en: 'Bye',
+        ru: 'Пока, до свидания',
+    },
+    {
+        en: 'Goodbye',
+        ru: 'До свидания',
+    },
+    {
+        en: 'Hello',
+        ru: 'Привет',
+    },
+    {
+        en: 'Hi',
+        ru: 'Привет',
+    },
+    {
+        en: 'Blog',
+        ru: 'Блог',
+    },
+    {
+        en: 'Burn',
+        ru: 'Жечь',
+    },
+    {
+        en: 'Commit',
+        ru: 'Совершить',
+    },
+    {
+        en: 'Dessert',
+        ru: 'Десерт',
+    },
+    {
+        en: 'Fire',
+        ru: 'Пожар, огонь',
+    },
+    {
+        en: 'Host',
+        ru: 'Хозяин',
+    },
+    {
+        en: 'Menu',
+        ru: 'Меню',
+    },
+    {
+        en: 'No',
+        ru: 'Нет',
+    },
+    {
+        en: 'Salad',
+        ru: 'Салат',
+    },
+    {
+        en: 'Salty',
+        ru: 'Соленый',
+    },
+    {
+        en: 'Yes',
+        ru: 'Да',
+    },
+    {
+        en: 'Beforehand',
+        ru: 'Заранее',
+    },
+    {
+        en: 'Faint',
+        ru: 'Падать в обморок',
+    },
+    {
+        en: 'Motorcycle',
+        ru: 'Мотоцикл',
+    },
+    {
+        en: 'Quit',
+        ru: 'Уволиться, бросать',
+    },
+    {
+        en: 'Register',
+        ru: 'Зарегистрироваться',
+    },
+    {
+        en: 'Scholarship',
+        ru: 'Стипендия',
+    },
+    {
+        en: 'Umbrella',
+        ru: 'Зонт',
+    },
+    {
+        en: 'Waiter',
+        ru: 'Официант',
+    },
+    {
+        en: 'Waitress',
+        ru: 'Официантка',
+    },
+    {
+        en: 'Wedding',
+        ru: 'Свадьба',
+    },
+    {
+        en: 'Give up',
+        ru: 'Бросать',
+    },
+    {
+        en: 'Basis',
+        ru: 'Основа',
+    },
+    {
+        en: 'Climb',
+        ru: 'Взобраться',
+    },
 ]
 
 module.exports = words;
