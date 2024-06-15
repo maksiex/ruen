@@ -7423,6 +7423,210 @@ const words = [
         en: 'Climb',
         ru: 'Взобраться',
     },
+    {
+        en: 'Decrease',
+        ru: 'Снижение, снижаться',
+    },
+    {
+        en: 'Delete',
+        ru: 'Удалить',
+    },
+    {
+        en: 'Kick',
+        ru: 'Удар, ударить ногой',
+    },
+    {
+        en: 'Ladder',
+        ru: 'Лестница',
+    },
+    {
+        en: 'Multiply',
+        ru: 'Умножить',
+    },
+    {
+        en: 'Unnecessary',
+        ru: 'Ненужный',
+    },
+    {
+        en: 'Attentively',
+        ru: 'Внимательно',
+    },
+    {
+        en: 'Earthquake',
+        ru: 'Землетрясение',
+    },
+    {
+        en: 'Growth',
+        ru: 'Рост',
+    },
+    {
+        en: 'Hurricane',
+        ru: 'Ураган',
+    },
+    {
+        en: 'Invent',
+        ru: 'Изобретать',
+    },
+    {
+        en: 'Protection',
+        ru: 'Защита',
+    },
+    {
+        en: 'Push',
+        ru: 'Толкать',
+    },
+    {
+        en: 'Stimulate',
+        ru: 'Стимулировать',
+    },
+    {
+        en: 'Subtract',
+        ru: 'Вычитать',
+    },
+    {
+        en: 'Catalogue',
+        ru: 'Каталог',
+    },
+    {
+        en: 'Circumstance',
+        ru: 'Обстоятельство',
+    },
+    {
+        en: 'Hug',
+        ru: 'Обнимать',
+    },
+    {
+        en: 'Possibility',
+        ru: 'Возможность',
+    },
+    {
+        en: 'Stairs',
+        ru: 'Лестница',
+    },
+    {
+        en: 'Suggest',
+        ru: 'Предлагать',
+    },
+    {
+        en: 'Tightly',
+        ru: 'Крепко',
+    },
+    {
+        en: 'Shut up',
+        ru: 'Заткнуться',
+    },
+    {
+        en: 'Allow',
+        ru: 'Позволять',
+    },
+    {
+        en: 'Data',
+        ru: 'Данные',
+    },
+    {
+        en: 'Organize',
+        ru: 'Организовать',
+    },
+    {
+        en: 'Redo',
+        ru: 'Переделать',
+    },
+    {
+        en: 'Shut',
+        ru: 'Закрывать',
+    },
+    {
+        en: 'Trust',
+        ru: 'Доверять',
+    },
+    {
+        en: 'Kid',
+        ru: 'Шутить',
+    },
+    {
+        en: 'Turn',
+        ru: 'Черёд',
+    },
+    {
+        en: 'Set up',
+        ru: 'Создать',
+    },
+    {
+        en: 'Admire',
+        ru: 'Восхищаться',
+    },
+    {
+        en: 'Bonus',
+        ru: 'Бонус',
+    },
+    {
+        en: 'Doubt',
+        ru: 'Сомнение, сомневаться',
+    },
+    {
+        en: 'Friendship',
+        ru: 'Дружба',
+    },
+    {
+        en: 'Immorally',
+        ru: 'Аморально',
+    },
+    {
+        en: 'Quarrel',
+        ru: 'Ссора, ссориться',
+    },
+    {
+        en: 'Set',
+        ru: 'Устанавливать',
+    },
+    {
+        en: 'Sweep',
+        ru: 'Подметать',
+    },
+    {
+        en: 'Useless',
+        ru: 'Бесполезный',
+    },
+    {
+        en: 'Value',
+        ru: 'Ценность, ценить',
+    },
+    {
+        en: 'Visitor',
+        ru: 'Посетитель',
+    },
+    {
+        en: 'Well-known',
+        ru: 'Хорошо известный',
+    },
+    {
+        en: 'Accurately',
+        ru: 'Точно',
+    },
+    {
+        en: 'Briefcase',
+        ru: 'Портфель',
+    },
+    {
+        en: 'Calculate',
+        ru: 'Рассчитать',
+    },
+    {
+        en: 'Carelessly',
+        ru: 'Неосторожно',
+    },
+    {
+        en: 'Catastrophe',
+        ru: 'Катастрофа',
+    },
+    {
+        en: 'Confuse',
+        ru: 'Путать',
+    },
+    {
+        en: 'Despite',
+        ru: 'Несмотря на',
+    },
 ]
 
 module.exports = words;
