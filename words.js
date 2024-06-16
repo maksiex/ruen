@@ -7627,6 +7627,206 @@ const words = [
         en: 'Despite',
         ru: 'Несмотря на',
     },
+    {
+        en: 'Disaster',
+        ru: 'Катастрофа',
+    },
+    {
+        en: 'Even',
+        ru: 'Даже',
+    },
+    {
+        en: 'Notion',
+        ru: 'Понятие',
+    },
+    {
+        en: 'Safely',
+        ru: 'Безопасно',
+    },
+    {
+        en: 'In spite of',
+        ru: 'Несмотря на',
+    },
+    {
+        en: 'Survive',
+        ru: 'Выжить',
+    },
+    {
+        en: 'Sweet',
+        ru: 'Сладкий',
+    },
+    {
+        en: 'Victory',
+        ru: 'Победа',
+    },
+    {
+        en: 'Audience',
+        ru: 'Айдитория',
+    },
+    {
+        en: 'Avoid',
+        ru: 'Избегать',
+    },
+    {
+        en: 'Considerably',
+        ru: 'Значительно',
+    },
+    {
+        en: 'Crash',
+        ru: 'Катастрофа',
+    },
+    {
+        en: 'Hospitality',
+        ru: 'Гостеприимство',
+    },
+    {
+        en: 'Hunger',
+        ru: 'Голод',
+    },
+    {
+        en: 'Notebook',
+        ru: 'Ноутбук',
+    },
+    {
+        en: 'Significantly',
+        ru: 'Значительно',
+    },
+    {
+        en: 'Visa',
+        ru: 'Виза',
+    },
+    {
+        en: 'Accusation',
+        ru: 'Обвинение',
+    },
+    {
+        en: 'Afford',
+        ru: 'Позволить',
+    },
+    {
+        en: 'Angrily',
+        ru: 'Сердито',
+    },
+    {
+        en: 'Appear',
+        ru: 'Появиться',
+    },
+    {
+        en: 'Beard',
+        ru: 'Борода',
+    },
+    {
+        en: 'Both',
+        ru: 'Оба',
+    },
+    {
+        en: 'Cite',
+        ru: 'Цитировать',
+    },
+    {
+        en: 'Concern',
+        ru: 'Касаться',
+    },
+    {
+        en: 'Deny',
+        ru: 'Отрицать',
+    },
+    {
+        en: 'Gas',
+        ru: 'Газ',
+    },
+    {
+        en: 'Guilt',
+        ru: 'Вина',
+    },
+    {
+        en: 'Hunt',
+        ru: 'Охотиться',
+    },
+    {
+        en: 'Influence',
+        ru: 'Влияние',
+    },
+    {
+        en: 'Moustache',
+        ru: 'Усы',
+    },
+    {
+        en: 'Oil',
+        ru: 'Масло, нефть',
+    },
+    {
+        en: 'Shave',
+        ru: 'Бриться',
+    },
+    {
+        en: 'Spell',
+        ru: 'Произносить или писать по буквам',
+    },
+    {
+        en: 'Strongly',
+        ru: 'Сильно',
+    },
+    {
+        en: 'Suburbs',
+        ru: 'Пригород',
+    },
+    {
+        en: 'Supply',
+        ru: 'Поставлять',
+    },
+    {
+        en: 'Trouble',
+        ru: 'Беда',
+    },
+    {
+        en: 'Universe',
+        ru: 'Вселенная',
+    },
+    {
+        en: 'Warn',
+        ru: 'Предупреждать',
+    },
+    {
+        en: 'Wire',
+        ru: 'Провод',
+    },
+    {
+        en: 'Below',
+        ru: 'Ниже',
+    },
+    {
+        en: 'Breathe in',
+        ru: 'Вдыхать',
+    },
+    {
+        en: 'Breathe out',
+        ru: 'Выдыхать',
+    },
+    {
+        en: 'Button',
+        ru: 'Кнопка',
+    },
+    {
+        en: 'Delighted',
+        ru: 'Восхищен, рад',
+    },
+    {
+        en: 'Dig',
+        ru: 'Рыть',
+    },
+    {
+        en: 'Equipment',
+        ru: 'Оборудование',
+    },
+    {
+        en: 'Fox',
+        ru: 'Лиса',
+    },
+    {
+        en: 'Hole',
+        ru: 'Дыра, яма',
+    },
 ]
 
 module.exports = words;
