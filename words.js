@@ -7827,6 +7827,214 @@ const words = [
         en: 'Hole',
         ru: 'Дыра, яма',
     },
+    {
+        en: 'Moon',
+        ru: 'Луна',
+    },
+    {
+        en: 'Peer',
+        ru: 'Сверстник',
+    },
+    {
+        en: 'Scan',
+        ru: 'Сканировать',
+    },
+    {
+        en: 'Exact',
+        ru: 'Точный',
+    },
+    {
+        en: 'Farther',
+        ru: 'Дальше',
+    },
+    {
+        en: 'Furniture',
+        ru: 'Мебель',
+    },
+    {
+        en: 'Further',
+        ru: 'Дальнейший, дальше',
+    },
+    {
+        en: 'Informative',
+        ru: 'Информативный',
+    },
+    {
+        en: 'Least',
+        ru: 'Наименьший',
+    },
+    {
+        en: 'Ours',
+        ru: 'Наш',
+    },
+    {
+        en: 'Paradise',
+        ru: 'Рай',
+    },
+    {
+        en: 'Theirs',
+        ru: 'Их',
+    },
+    {
+        en: 'Eldest',
+        ru: 'Старший',
+    },
+    {
+        en: 'Mine',
+        ru: 'Мой',
+    },
+    {
+        en: 'Previous',
+        ru: 'Предыдущий',
+    },
+    {
+        en: 'Scenario',
+        ru: 'Сценарий',
+    },
+    {
+        en: 'Season',
+        ru: 'Сезон',
+    },
+    {
+        en: 'Yours',
+        ru: 'Твой, ваш',
+    },
+    {
+        en: 'Audio',
+        ru: 'Аудио',
+    },
+    {
+        en: 'Brave',
+        ru: 'Храбрый',
+    },
+    {
+        en: 'Cruel',
+        ru: 'Жестокий',
+    },
+    {
+        en: 'Fearless',
+        ru: 'Бесстрашный',
+    },
+    {
+        en: 'Fool',
+        ru: 'Дурак',
+    },
+    {
+        en: 'Lair',
+        ru: 'Лжец',
+    },
+    {
+        en: 'Theory',
+        ru: 'Теория',
+    },
+    {
+        en: 'Academic',
+        ru: 'Академический',
+    },
+    {
+        en: 'Direct',
+        ru: 'Прямой',
+    },
+    {
+        en: 'Dry',
+        ru: 'Сухой',
+    },
+    {
+        en: 'Fortress',
+        ru: 'Крепость',
+    },
+    {
+        en: 'Gold',
+        ru: 'Золото, золотой',
+    },
+    {
+        en: 'Leather',
+        ru: 'Кожа, кожаный',
+    },
+    {
+        en: 'Medal',
+        ru: 'Медаль',
+    },
+    {
+        en: 'Phenomenon',
+        ru: 'Феномен',
+    },
+    {
+        en: 'Procedure',
+        ru: 'Процедура',
+    },
+    {
+        en: 'Religious',
+        ru: 'Религиозный',
+    },
+    {
+        en: 'Runner',
+        ru: 'Бегун',
+    },
+    {
+        en: 'Silver',
+        ru: 'Серебряный',
+    },
+    {
+        en: 'Standard',
+        ru: 'Стандарт, стандартный',
+    },
+    {
+        en: 'Bitter',
+        ru: 'Горький',
+    },
+    {
+        en: 'Candy',
+        ru: 'Конфета',
+    },
+    {
+        en: 'Creative',
+        ru: 'Креативный',
+    },
+    {
+        en: 'Dead',
+        ru: 'Мертвый',
+    },
+    {
+        en: 'Disappointment',
+        ru: 'Разочарование',
+    },
+    {
+        en: 'Distance',
+        ru: 'Расстояние, дистанция',
+    },
+    {
+        en: 'Educational',
+        ru: 'Образовательный',
+    },
+    {
+        en: 'Forbid',
+        ru: 'Запретить',
+    },
+    {
+        en: 'Located',
+        ru: 'Расположенный',
+    },
+    {
+        en: 'Rare',
+        ru: 'Редкий',
+    },
+    {
+        en: 'Side',
+        ru: 'Сторона',
+    },
+    {
+        en: 'Situated',
+        ru: 'Расположенный',
+    },
+    {
+        en: 'Technical',
+        ru: 'Технический',
+    },
+    {
+        en: 'Terribly',
+        ru: 'Ужасно',
+    },
 ]
 
 module.exports = words;
