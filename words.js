@@ -8035,6 +8035,142 @@ const words = [
         en: 'Terribly',
         ru: 'Ужасно',
     },
+    {
+        en: 'Dear',
+        ru: 'Дорогой',
+    },
+    {
+        en: 'Global',
+        ru: 'Глобальный',
+    },
+    {
+        en: 'Opposite',
+        ru: 'Противоположный',
+    },
+    {
+        en: 'Plastic',
+        ru: 'Пластик',
+    },
+    {
+        en: 'The Soviet Union',
+        ru: 'Советский Союз',
+    },
+    {
+        en: 'Surgery',
+        ru: 'Хирургия',
+    },
+    {
+        en: 'Ugly',
+        ru: 'Уродливый',
+    },
+    {
+        en: 'Various',
+        ru: 'Различный',
+    },
+    {
+        en: 'Meaning',
+        ru: 'Смысл',
+    },
+    {
+        en: 'Broad',
+        ru: 'Широкий',
+    },
+    {
+        en: 'Dirty',
+        ru: 'Грязный',
+    },
+    {
+        en: 'Grey',
+        ru: 'Серый',
+    },
+    {
+        en: 'Hero',
+        ru: 'Герой',
+    },
+    {
+        en: 'Hers',
+        ru: 'Её',
+    },
+    {
+        en: 'Illegal',
+        ru: 'Нелегальный',
+    },
+    {
+        en: 'National',
+        ru: 'Национальный',
+    },
+    {
+        en: 'Ordinary',
+        ru: 'Обычный',
+    },
+    {
+        en: 'Planet',
+        ru: 'Планета',
+    },
+    {
+        en: 'Political',
+        ru: 'Политический',
+    },
+    {
+        en: 'Safe',
+        ru: 'Безопасный',
+    },
+    {
+        en: 'Security',
+        ru: 'Безопасность',
+    },
+    {
+        en: 'Shoulder',
+        ru: 'Плечо',
+    },
+    {
+        en: 'Sin',
+        ru: 'Грех',
+    },
+    {
+        en: 'Total',
+        ru: 'Общий',
+    },
+    {
+        en: 'Trend',
+        ru: 'Тенденция',
+    },
+    {
+        en: 'Patient',
+        ru: 'Терпеливый',
+    },
+    {
+        en: 'Aggressive',
+        ru: 'Агрессивный',
+    },
+    {
+        en: 'Certain',
+        ru: 'Определенный',
+    },
+    {
+        en: 'Character',
+        ru: 'Характер',
+    },
+    {
+        en: 'Climate',
+        ru: 'Климат',
+    },
+    {
+        en: 'Commercial',
+        ru: 'Коммерческий',
+    },
+    {
+        en: 'Recent',
+        ru: 'Недавний',
+    },
+    {
+        en: 'Specific',
+        ru: 'Специфический',
+    },
+    {
+        en: 'Valuable',
+        ru: 'Ценный',
+    },
 ]
 
 module.exports = words;
