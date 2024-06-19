@@ -8171,6 +8171,206 @@ const words = [
         en: 'Valuable',
         ru: 'Ценный',
     },
+    {
+        en: 'Slow',
+        ru: 'Медленный',
+    },
+    {
+        en: 'Active',
+        ru: 'Активный',
+    },
+    {
+        en: 'Announcement',
+        ru: 'Объявление',
+    },
+    {
+        en: 'Approach',
+        ru: 'Подход',
+    },
+    {
+        en: 'Complex',
+        ru: 'Сложный',
+    },
+    {
+        en: 'Cool',
+        ru: 'Прохладный',
+    },
+    {
+        en: 'False',
+        ru: 'Ложь',
+    },
+    {
+        en: 'Feature',
+        ru: 'Особенность, черта',
+    },
+    {
+        en: 'Frequent',
+        ru: 'Частый',
+    },
+    {
+        en: 'Frequently',
+        ru: 'Часто',
+    },
+    {
+        en: 'Guilty',
+        ru: 'Виновный',
+    },
+    {
+        en: 'Honest',
+        ru: 'Честный',
+    },
+    {
+        en: 'Intelligent',
+        ru: 'Умный',
+    },
+    {
+        en: 'Judge',
+        ru: 'Судья, судить',
+    },
+    {
+        en: 'Research',
+        ru: 'Исследование',
+    },
+    {
+        en: 'Scientific',
+        ru: 'Научный',
+    },
+    {
+        en: 'Speed',
+        ru: 'Скорость',
+    },
+    {
+        en: 'Stupid',
+        ru: 'Тупой',
+    },
+    {
+        en: 'Anyone',
+        ru: 'Любой',
+    },
+    {
+        en: 'Clever',
+        ru: 'Умный',
+    },
+    {
+        en: 'Ear',
+        ru: 'Ухо',
+    },
+    {
+        en: 'Exactly',
+        ru: 'Точно',
+    },
+    {
+        en: 'Ought to',
+        ru: 'Следует',
+    },
+    {
+        en: 'Toilet',
+        ru: 'Туалет',
+    },
+    {
+        en: 'Aunt',
+        ru: 'Тетя',
+    },
+    {
+        en: 'Baggage',
+        ru: 'Багаж',
+    },
+    {
+        en: 'Balcony',
+        ru: 'Балкон',
+    },
+    {
+        en: 'Bear',
+        ru: 'Медведь',
+    },
+    {
+        en: 'Chicken',
+        ru: 'Курица',
+    },
+    {
+        en: 'Crocodile',
+        ru: 'Крокодил',
+    },
+    {
+        en: 'Dining room',
+        ru: 'Столовая',
+    },
+    {
+        en: 'Dirt',
+        ru: 'Грязь',
+    },
+    {
+        en: 'Fridge',
+        ru: 'Холодильник',
+    },
+    {
+        en: 'Garage',
+        ru: 'Гараж',
+    },
+    {
+        en: 'Giraffe',
+        ru: 'Жираф',
+    },
+    {
+        en: 'Grandma',
+        ru: 'Бабушка',
+    },
+    {
+        en: 'Lift',
+        ru: 'Лифт, поднимать',
+    },
+    {
+        en: 'Luggage',
+        ru: 'Багаж',
+    },
+    {
+        en: 'Monkey',
+        ru: 'Обезьяна',
+    },
+    {
+        en: 'Pig',
+        ru: 'Свинья',
+    },
+    {
+        en: 'Power',
+        ru: 'Мощность',
+    },
+    {
+        en: 'Printer',
+        ru: 'Принтер',
+    },
+    {
+        en: 'Tiger',
+        ru: 'Тигр',
+    },
+    {
+        en: 'Calculator',
+        ru: 'Калькулятор',
+    },
+    {
+        en: 'Carpet',
+        ru: 'Ковер',
+    },
+    {
+        en: 'Intention',
+        ru: 'Намерение',
+    },
+    {
+        en: 'Literature',
+        ru: 'Литература',
+    },
+    {
+        en: 'Rollerblades',
+        ru: 'Роликовые коньки',
+    },
+    {
+        en: 'Rug',
+        ru: 'Ковер',
+    },
+    {
+        en: 'Similar',
+        ru: 'Похожий',
+    },
 ]
 
 module.exports = words;
