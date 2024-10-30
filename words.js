@@ -9391,6 +9391,206 @@ const words = [
     en: 'Charitable',
         ru: 'Благотворительность',
 },
+    {
+        en: 'Duty',
+        ru: 'Обязанность',
+    },
+    {
+        en: 'Frank',
+        ru: 'Откровенный',
+    },
+    {
+        en: 'Mission',
+        ru: 'Миссия',
+    },
+    {
+        en: 'Weird',
+        ru: 'Странный',
+    },
+    {
+        en: 'Iron',
+        ru: 'Гладить',
+    },
+    {
+        en: 'Cloudy',
+        ru: 'Облачный',
+    },
+    {
+        en: 'Economical',
+        ru: 'Экономный',
+    },
+    {
+        en: 'Though',
+        ru: 'Хотя',
+    },
+    {
+        en: 'Tower',
+        ru: 'Башня',
+    },
+    {
+        en: 'Weapon',
+        ru: 'Оружие',
+    },
+    {
+        en: 'Used',
+        ru: 'Используемые, привык',
+    },
+    {
+        en: 'Approximately',
+        ru: 'Приблизительно',
+    },
+    {
+        en: 'Complicated',
+        ru: 'Сложный',
+    },
+    {
+        en: 'Gallery',
+        ru: 'Галерея',
+    },
+    {
+        en: 'Inevitable',
+        ru: 'Неизбежный',
+    },
+    {
+        en: 'Player',
+        ru: 'Игрок',
+    },
+    {
+        en: 'Sneakers',
+        ru: 'Кроссовки',
+    },
+    {
+        en: 'Artificial',
+        ru: 'Искусственный',
+    },
+    {
+        en: 'Courageous',
+        ru: 'Отважный',
+    },
+    {
+        en: 'Electronic',
+        ru: 'Электронный',
+    },
+    {
+        en: 'Exit',
+        ru: 'Выход',
+    },
+    {
+        en: 'Foolish',
+        ru: 'Глупый, дурацкий',
+    },
+    {
+        en: 'Gadget',
+        ru: 'Гаджет',
+    },
+    {
+        en: 'Historical',
+        ru: 'Исторический',
+    },
+    {
+        en: 'Immediate',
+        ru: 'Немедленный',
+    },
+    {
+        en: 'Loyal',
+        ru: 'Лояльный',
+    },
+    {
+        en: 'Period',
+        ru: 'Период',
+    },
+    {
+        en: 'Physically',
+        ru: 'Физически',
+    },
+    {
+        en: 'Precious',
+        ru: 'Драгоценный',
+    },
+    {
+        en: 'Principle',
+        ru: 'Принцип',
+    },
+    {
+        en: 'Rapid',
+        ru: 'Быстрый',
+    },
+    {
+        en: 'Relation',
+        ru: 'Связь, отношение',
+    },
+    {
+        en: 'Stability',
+        ru: 'Стабильность',
+    },
+    {
+        en: 'Unstable',
+        ru: 'Нестабильный',
+    },
+    {
+        en: 'Annual',
+        ru: 'Ежегодный',
+    },
+    {
+        en: 'Appropriate',
+        ru: 'Соответствующий',
+    },
+    {
+        en: 'Cultural',
+        ru: 'Культурный',
+    },
+    {
+        en: 'Curly',
+        ru: 'Кудрявый',
+    },
+    {
+        en: 'Dreadful',
+        ru: 'Ужасный',
+    },
+    {
+        en: 'Environmental',
+        ru: 'Касающийся окружающей среды',
+    },
+    {
+        en: 'Especially',
+        ru: 'Особенно',
+    },
+    {
+        en: 'Exceed',
+        ru: 'Превосходить',
+    },
+    {
+        en: 'Expectation',
+        ru: 'Ожидание',
+    },
+    {
+        en: 'Flavour',
+        ru: 'Аромат',
+    },
+    {
+        en: 'Heritage',
+        ru: 'Наследие',
+    },
+    {
+        en: 'Impression',
+        ru: 'Впечатление',
+    },
+    {
+        en: 'Impressive',
+        ru: 'Впечатляющий',
+    },
+    {
+        en: 'Maximum',
+        ru: 'Максимальный',
+    },
+    {
+        en: 'Modest',
+        ru: 'Скромный',
+    },
+    {
+        en: 'Old-fashioned',
+        ru: 'Старомодный',
+    },
 ]
 
 module.exports = words;
