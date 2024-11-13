@@ -6405,7 +6405,7 @@ const words = [
     },
     {
         en: 'Congratulate',
-        ru: 'Подздравлять',
+        ru: 'Поздравлять',
     },
     {
         en: 'Consist',
@@ -9591,207 +9591,10538 @@ const words = [
         en: 'Old-fashioned',
         ru: 'Старомодный',
     },
-]
+    {
+        en: 'Per cent',
+            ru: 'Проценты',
+    },
+    {
+        en: 'Productive',
+            ru: 'Продуктивный',
+    },
+    {
+        en: 'Punctual',
+            ru: 'Пунктуальный',
+    },
+    {
+        en: 'Relatively',
+            ru: 'Относительно',
+    },
+    {
+        en: 'Surface',
+            ru: 'Поверхность',
+    },
+    {
+        en: 'Surprisingly',
+            ru: 'Удивительно',
+    },
+    {
+        en: 'Tidy',
+            ru: 'Аккуратный',
+    },
+    {
+        en: 'Turnover',
+            ru: 'Оборот',
+    },
+    {
+        en: 'The United Nations',
+            ru: 'Объединенные нации',
+    },
+    {
+        en: 'Unlikely',
+            ru: 'Маловероятно',
+    },
+    {
+        en: 'User',
+            ru: 'Пользователь',
+    },
+    {
+        en: 'Fine',
+            ru: 'Штраф',
+    },
+    {
+        en: 'Arrogant',
+            ru: 'Высокомерный',
+    },
+    {
+        en: 'Careless',
+            ru: 'Неосторожный',
+    },
+    {
+        en: 'Childish',
+            ru: 'Детский',
+    },
+    {
+        en: 'Extreme',
+            ru: 'Экстремальный',
+    },
+    {
+        en: 'Helpful',
+            ru: 'Полезный',
+    },
+    {
+        en: 'Made-up',
+            ru: 'Выдуманный',
+    },
+    {
+        en: 'Native',
+            ru: 'Родной',
+    },
+    {
+        en: 'Rather',
+            ru: 'Довольно',
+    },
+    {
+        en: 'Sensible',
+            ru: 'Разумный',
+    },
+    {
+        en: 'Suggestion',
+            ru: 'Предложение',
+    },
+    {
+        en: 'Unnatural',
+            ru: 'Неестесвенный',
+    },
+    {
+        en: 'Bizarre',
+            ru: 'Странный',
+    },
+    {
+        en: 'Emotional',
+            ru: 'Эмоциональный',
+    },
+    {
+        en: 'Equal',
+            ru: 'Равный',
+    },
+    {
+        en: 'External',
+            ru: 'Внешний',
+    },
+    {
+        en: 'Function',
+            ru: 'Функция',
+    },
+    {
+        en: 'Gigantic',
+            ru: 'Гигантский',
+    },
+    {
+        en: 'Inactive',
+            ru: 'Неактинвный',
+    },
+    {
+        en: 'Manner',
+            ru: 'Манера',
+    },
+    {
+        en: 'Manufacture',
+            ru: 'Производство',
+    },
+    {
+        en: 'Mysterious',
+            ru: 'Загадочный',
+    },
+    {
+        en: 'Painful',
+            ru: 'Болезненный',
+    },
+    {
+        en: 'Sincere',
+            ru: 'Искренний',
+    },
+    {
+        en: 'Source',
+            ru: 'Источник',
+    },
+    {
+        en: 'Temporarily',
+            ru: 'Временно',
+    },
+    {
+        en: 'Unreliable',
+            ru: 'Ненадежный',
+    },
+    {
+        en: 'Face',
+            ru: 'Сталкиваться',
+    },
+    {
+        en: 'Chemical',
+            ru: 'Химический',
+    },
+    {
+        en: 'Determined',
+            ru: 'Решительный',
+    },
+    {
+        en: 'Dull',
+            ru: 'Скучный, унылый',
+    },
+    {
+        en: 'Elegant',
+            ru: 'Элегантный',
+    },
+    {
+        en: 'Element',
+            ru: 'Элемент',
+    },
+    {
+        en: 'Impatient',
+            ru: 'Нетерпеливый',
+    },
+    {
+        en: 'Rational',
+            ru: 'Рациональный',
+    },
+    {
+        en: 'Realistic',
+            ru: 'Реалистичный',
+    },
+    {
+        en: 'Ripe',
+            ru: 'Спелый',
+    },
+    {
+        en: 'Sharp',
+            ru: 'Острый',
+    },
+    {
+        en: 'Skillful',
+            ru: 'Умелый',
+    },
+    {
+        en: 'Belief',
+            ru: 'Вера',
+    },
+    {
+        en: 'Border',
+            ru: 'Граница',
+    },
+    {
+        en: 'Buyer',
+            ru: 'Покупатель',
+    },
+    {
+        en: 'Classic',
+            ru: 'Классический',
+    },
+    {
+        en: 'Contradict',
+            ru: 'Противоречить',
+    },
+    {
+        en: 'Current',
+            ru: 'Текущий',
+    },
+    {
+        en: 'Extraordinary',
+            ru: 'Необычный',
+    },
+    {
+        en: 'Gifted',
+            ru: 'Одаренный',
+    },
+    {
+        en: 'Electrical',
+            ru: 'Электрический',
+    },
+    {
+        en: 'Heater',
+            ru: 'Нагреватель',
+    },
+    {
+        en: 'Highlighter',
+            ru: 'Маркер',
+    },
+    {
+        en: 'Improvement',
+            ru: 'Улучшение',
+    },
+    {
+        en: 'Moral',
+            ru: 'Моральный',
+    },
+    {
+        en: 'Neglect',
+            ru: 'Пренебрегать',
+    },
+    {
+        en: 'Slight',
+            ru: 'Незначительный',
+    },
+    {
+        en: 'Spiritual',
+            ru: 'Духовный',
+    },
+    {
+        en: 'Thankful',
+            ru: 'Благодарный',
+    },
+    {
+        en: 'Unpopular',
+            ru: 'Непопулярный',
+    },
+    {
+        en: 'Unwilling',
+            ru: 'Не желающий',
+    },
+    {
+        en: 'Acceptable',
+            ru: 'Приемлемый',
+    },
+    {
+        en: 'Available',
+            ru: 'Доступный',
+    },
+    {
+        en: 'Bunch',
+            ru: 'Гроздь',
+    },
+    {
+        en: 'Clinical',
+            ru: 'Клинический',
+    },
+    {
+        en: 'Enormous',
+            ru: 'Огромный',
+    },
+    {
+        en: 'Horrible',
+            ru: 'Ужасный',
+    },
+    {
+        en: 'Legal',
+            ru: 'Легальный',
+    },
+    {
+        en: 'Metre',
+            ru: 'Метр',
+    },
+    {
+        en: 'Naive',
+            ru: 'Наивный',
+    },
+    {
+        en: 'Objective',
+            ru: 'Объективный',
+    },
+    {
+        en: 'Overtime',
+            ru: 'Сверхурочно',
+    },
+    {
+        en: 'Pale',
+            ru: 'Бледный',
+    },
+    {
+        en: 'Philosophical',
+            ru: 'Философский',
+    },
+    {
+        en: 'Rose',
+            ru: 'Роза',
+    },
+    {
+        en: 'Row',
+            ru: 'Ряд',
+    },
+    {
+        en: 'Square',
+            ru: 'Квадрат, квадратный',
+    },
+    {
+        en: 'State',
+            ru: 'Штат',
+    },
+    {
+        en: 'Waist',
+            ru: 'Талия',
+    },
+    {
+        en: 'Calm',
+            ru: 'Спокойный',
+    },
+    {
+        en: 'Cautious',
+            ru: 'Осторожный',
+    },
+    {
+        en: 'Consequence',
+            ru: 'Сдедствие',
+    },
+    {
+        en: 'Exclusive',
+            ru: 'Эксклюзивный',
+    },
+    {
+        en: 'Fair',
+            ru: 'Справедливый',
+    },
+    {
+        en: 'Faithful',
+            ru: 'Верный',
+    },
+    {
+        en: 'Instrument',
+            ru: 'Инструмент',
+    },
+    {
+        en: 'Jet',
+            ru: 'Самолет',
+    },
+    {
+        en: 'Musical',
+            ru: 'Музыкальный',
+    },
+    {
+        en: 'Practically',
+            ru: 'Практически',
+    },
+    {
+        en: 'Primary',
+            ru: 'Первоначальный',
+    },
+    {
+        en: 'Property',
+            ru: 'Собственность',
+    },
+    {
+        en: 'Range',
+            ru: 'Ассортимент, спектр',
+    },
+    {
+        en: 'Secure',
+            ru: 'Безопасный',
+    },
+    {
+        en: 'Treatment',
+            ru: 'Лечение, обращение',
+    },
+    {
+        en: 'Uncertain',
+            ru: 'Неуверенный',
+    },
+    {
+        en: 'Unemotional',
+            ru: 'Безэмоциональный',
+    },
+    {
+        en: 'Uninterested',
+            ru: 'Незаинтересованный',
+    },
+    {
+        en: 'Arrangement',
+            ru: 'Договоренность',
+    },
+    {
+        en: 'Contain',
+            ru: 'Содержать',
+    },
+    {
+        en: 'Convinced',
+            ru: 'Убежден',
+    },
+    {
+        en: 'Exception',
+            ru: 'Исключение',
+    },
+    {
+        en: 'Exciting',
+            ru: 'Захватывающий',
+    },
+    {
+        en: 'Organism',
+            ru: 'Организм',
+    },
+    {
+        en: 'Overall',
+            ru: 'В целом, общий',
+    },
+    {
+        en: 'Particular',
+            ru: 'Особенный',
+    },
+    {
+        en: 'Passive',
+            ru: 'Пассивный',
+    },
+    {
+        en: 'Reasonable',
+            ru: 'Разумный',
+    },
+    {
+        en: 'Romantic',
+            ru: 'Романтичный',
+    },
+    {
+        en: 'Silent',
+            ru: 'Бесшумный',
+    },
+    {
+        en: 'Unfair',
+            ru: 'Несправедливый',
+    },
+    {
+        en: 'Wavy',
+            ru: 'Волнисный',
+    },
+    {
+        en: 'Wild',
+            ru: 'Дикий',
+    },
+    {
+        en: 'Willing',
+            ru: 'Желающий',
+    },
+    {
+        en: 'Aspect',
+            ru: 'Аспект',
+    },
+    {
+        en: 'Awesome',
+            ru: 'Потрясающий',
+    },
+    {
+        en: 'Brief',
+            ru: 'Краткий',
+    },
+    {
+        en: 'Essential',
+            ru: 'Необходимый',
+    },
+    {
+        en: 'Illogical',
+            ru: 'Нелогичный',
+    },
+    {
+        en: 'Irritate',
+            ru: 'Раздражать',
+    },
+    {
+        en: 'Knowledgeable',
+            ru: 'Знающий',
+    },
+    {
+        en: 'Logical',
+            ru: 'Логический',
+    },
+    {
+        en: 'Skin',
+            ru: 'Кожа',
+    },
+    {
+        en: 'Smooth',
+            ru: 'Гладкий',
+    },
+    {
+        en: 'Thoughtful',
+            ru: 'Задумчивый',
+    },
+    {
+        en: 'Unfriendly',
+            ru: 'Недружелюбный',
+    },
+    {
+        en: 'Unsure',
+            ru: 'Неуверенный',
+    },
+    {
+        en: 'Wet',
+            ru: 'Мокрый',
+    },
+    {
+        en: 'Attentive',
+            ru: 'Внимательный',
+    },
+    {
+        en: 'Broad-minded',
+            ru: 'С широким кругозором',
+    },
+    {
+        en: 'Competent',
+            ru: 'Компетентный',
+    },
+    {
+        en: 'Decisive',
+            ru: 'Решающий',
+    },
+    {
+        en: 'Embarrassed',
+            ru: 'Смущенный',
+    },
+    {
+        en: 'Handsome',
+            ru: 'Красивый',
+    },
+    {
+        en: 'Incompetent',
+            ru: 'Некомпетентный',
+    },
+    {
+        en: 'Individual',
+        ru: 'Индивидуальный',
+    },
+    {
+        en: 'Internal',
+            ru: 'Внутренний',
+    },
+    {
+        en: 'Practical',
+        ru: 'Практический',
+    },
+    {
+        en: 'Psychological',
+        ru: 'Психологический',
+    },
+    {
+        en: 'Quick',
+        ru: 'Быстрый',
+    },
+    {
+        en: 'Self-confident',
+            ru: 'Самоуверенный',
+    },
+    {
+        en: 'Shy',
+            ru: 'Застенчивый',
+    },
+    {
+        en: 'Sociable',
+            ru: 'Общительный',
+    },
+    {
+        en: 'Thick',
+            ru: 'Толстый',
+    },
+    {
+        en: 'Wooden',
+            ru: 'Деревянный',
+    },
+    {
+        en: 'According to',
+        ru: 'В соответствии с',
+    },
+    {
+        en: 'Favour',
+        ru: 'Одолжение',
+    },
+    {
+        en: 'Ironing',
+        ru: 'Глажка',
+    },
+    {
+        en: 'Nails',
+        ru: 'Ногти',
+    },
+    {
+        en: 'Necessarily',
+        ru: 'Обязательно',
+    },
+    {
+        en: 'Reservation',
+        ru: 'Бронирование',
+    },
+    {
+        en: 'Rightly',
+        ru: 'Правильно',
+    },
+    {
+        en: 'Analyst',
+        ru: 'Аналитик',
+    },
+    {
+        en: 'Appointment',
+        ru: 'Встреча',
+    },
+    {
+        en: 'Chores',
+        ru: 'Домашние дела',
+    },
+    {
+        en: 'Favourable',
+        ru: 'Благоприятный',
+    },
+    {
+        en: 'Fuss',
+        ru: 'Суета',
+    },
+    {
+        en: 'Homeless',
+        ru: 'Бездомный',
+    },
+    {
+        en: 'Lecturer',
+        ru: 'Лектор',
+    },
+    {
+        en: 'Motto',
+        ru: 'Девиз',
+    },
+    {
+        en: 'Observation',
+        ru: 'Наблюдение',
+    },
+    {
+        en: 'Prediction',
+        ru: 'Предсказание',
+    },
+    {
+        en: 'Storm',
+        ru: 'Шторм, буря',
+    },
+    {
+        en: 'Arrival',
+        ru: 'Прибытие',
+    },
+    {
+        en: 'Bookmark',
+        ru: 'Закладка, добавлять в закладки',
+    },
+    {
+        en: 'Distantly',
+        ru: 'Отделенно',
+    },
+    {
+        en: 'Enlarge',
+        ru: 'Увеличить',
+    },
+    {
+        en: 'Oversleep',
+        ru: 'Проспать',
+    },
+    {
+        en: 'Publicly',
+        ru: 'Публично',
+    },
+    {
+        en: 'Separate',
+        ru: 'Отдельный',
+    },
+    {
+        en: 'Tiptoe',
+        ru: 'Ходить на цыпочках',
+    },
+    {
+        en: 'Widen',
+        ru: 'Расширять',
+    },
+    {
+        en: 'Adult',
+        ru: 'Взрослый',
+    },
+    {
+        en: 'Athletic',
+        ru: 'Атлетический',
+    },
+    {
+        en: 'Bankruptcy',
+        ru: 'Банкротство',
+    },
+    {
+        en: 'Air conditioning',
+        ru: 'Кондиционер',
+    },
+    {
+        en: 'Heat',
+        ru: 'Жара',
+    },
+    {
+        en: 'Severe',
+        ru: 'Суровый',
+    },
+    {
+        en: 'Verge',
+        ru: 'Грань',
+    },
+    {
+        en: 'Virtual',
+        ru: 'Виртуальный',
+    },
+    {
+        en: 'Deliberately',
+        ru: 'Нарочно',
+    },
+    {
+        en: 'Equally',
+        ru: 'Равно',
+    },
+    {
+        en: 'Fashion',
+        ru: 'Мода',
+    },
+    {
+        en: 'Hardly',
+        ru: 'Едва',
+    },
+    {
+        en: 'Honestly',
+        ru: 'Честно',
+    },
+    {
+        en: 'Hopefully',
+        ru: 'С надеждой',
+    },
+    {
+        en: 'Injured',
+        ru: 'Пострадавший',
+    },
+    {
+        en: 'Mainly',
+        ru: 'В основном',
+    },
+    {
+        en: 'Occasionally',
+        ru: 'Изредка',
+    },
+    {
+        en: 'Prevent',
+        ru: 'Предотвращать',
+    },
+    {
+        en: 'Primarily',
+        ru: 'В первую очередь',
+    },
+    {
+        en: 'Shortly',
+        ru: 'Короче',
+    },
+    {
+        en: 'Similarly',
+        ru: 'Подобным образом',
+    },
+    {
+        en: 'Currently',
+        ru: 'В настоящее время',
+    },
+    {
+        en: 'Effectively',
+        ru: 'Эффективно',
+    },
+    {
+        en: 'Employment',
+        ru: 'Трудоустройство',
+    },
+    {
+        en: 'Frankly',
+        ru: 'Откровенно',
+    },
+    {
+        en: 'Naturally',
+        ru: 'Естественно',
+    },
+    {
+        en: 'Personally',
+        ru: 'Лично',
+    },
+    {
+        en: 'Possibly',
+        ru: 'Возможно',
+    },
+    {
+        en: 'Significant',
+        ru: 'Значительный',
+    },
+    {
+        en: 'Smoothly',
+        ru: 'Гладко',
+    },
+    {
+        en: 'Unavailable',
+        ru: 'Недоступный',
+    },
+    {
+        en: 'Deeply',
+        ru: 'Глубоко',
+    },
+    {
+        en: 'Educated',
+        ru: 'Образованный',
+    },
+    {
+        en: 'Highly',
+        ru: 'Очень, высоко',
+    },
+    {
+        en: 'Indeed',
+        ru: 'В самом деле',
+    },
+    {
+        en: 'Nearly',
+        ru: 'Почти',
+    },
+    {
+        en: 'Nevertheless',
+        ru: 'Тем не менее',
+    },
+    {
+        en: 'Score',
+        ru: 'Балл',
+    },
+    {
+        en: 'Sensation',
+        ru: 'Сенсация',
+    },
+    {
+        en: 'Slightly',
+        ru: 'Слегка',
+    },
+    {
+        en: 'Toothache',
+        ru: 'Зубная боль',
+    },
+    {
+        en: 'Undoubtedly',
+        ru: 'Несомненно',
+    },
+    {
+        en: 'Wrongly',
+        ru: 'Неправильно',
+    },
+    {
+        en: 'Disapprove',
+        ru: 'Не одобрять',
+    },
+    {
+        en: 'Discomfort',
+        ru: 'Дискомфорт',
+    },
+    {
+        en: 'Endless',
+        ru: 'Бесконечный',
+    },
+    {
+        en: 'Handwriting',
+        ru: 'Почерк',
+    },
+    {
+        en: 'Harmless',
+        ru: 'Безвредный',
+    },
+    {
+        en: 'Illegible',
+        ru: 'Неразборчивый',
+    },
+    {
+        en: 'Impolite',
+        ru: 'Невежливый',
+    },
+    {
+        en: 'Inaccurate',
+        ru: 'Неточный',
+    },
+    {
+        en: 'Indecisive',
+        ru: 'Нерешительный',
+    },
+    {
+        en: 'Indifferent',
+        ru: 'Безразличный',
+    },
+    {
+        en: 'Inefficient',
+        ru: 'Неэффективный',
+    },
+    {
+        en: 'Invaluable',
+        ru: 'Бесценный',
+    },
+    {
+        en: 'Irreplaceable',
+        ru: 'Незаменимый',
+    },
+    {
+        en: 'Irresponsible',
+        ru: 'Безответственный',
+    },
+    {
+        en: 'Misunderstand',
+        ru: 'Неправильно понять',
+    },
+    {
+        en: 'Misunderstanding',
+        ru: 'Недопонимание',
+    },
+    {
+        en: 'Signature',
+        ru: 'Подпись',
+    },
+    {
+        en: 'Suffering',
+        ru: 'Страдание',
+    },
+    {
+        en: 'Unaware',
+        ru: 'Не осведомлен',
+    },
+    {
+        en: 'Unimaginable',
+        ru: 'Невообразимый',
+    },
+    {
+        en: 'Unwillingly',
+        ru: 'Неохотно',
+    },
+    {
+        en: 'Pretend',
+        ru: 'Притворяться',
+    },
+    {
+        en: 'Go on',
+        ru: 'Продолжать',
+    },
+    {
+        en: 'Look up to',
+        ru: 'Уважать',
+    },
+    {
+        en: 'Make up for',
+        ru: 'Компенсировать',
+    },
+    {
+        en: 'Throw away',
+        ru: 'Выбросить',
+    },
+    {
+        en: 'Take up',
+        ru: 'Начать заниматься',
+    },
+    {
+        en: 'Look into',
+        ru: 'Исследовать',
+    },
+    {
+        en: 'Flick through',
+        ru: 'Пролистать',
+    },
+    {
+        en: 'Figure out',
+        ru: 'Понимать',
+    },
+    {
+        en: 'Break up',
+        ru: 'Расставаться',
+    },
+    {
+        en: 'Be back',
+        ru: 'Вернуться',
+    },
+    {
+        en: 'See off',
+        ru: 'Провожать',
+    },
+    {
+        en: 'Call off',
+        ru: 'Отменить',
+    },
+    {
+        en: 'Leave out',
+        ru: 'Исключать, отпускать',
+    },
+    {
+        en: 'Ask out',
+        ru: 'Пригласить на свидание',
+    },
+    {
+        en: 'Basics',
+        ru: 'Основы',
+    },
+    {
+        en: 'Fuel',
+        ru: 'Топливо',
+    },
+    {
+        en: 'Catch up with',
+        ru: 'Поспеть за',
+    },
+    {
+        en: 'Keep up with',
+        ru: 'Поспеть за',
+    },
+    {
+        en: 'Be over',
+        ru: 'Закончить',
+    },
+    {
+        en: 'Carry on',
+        ru: 'Продолжать',
+    },
+    {
+        en: 'Come across',
+        ru: 'Сталкиваться, встречать',
+    },
+    {
+        en: 'Run out of',
+        ru: 'Закончиться',
+    },
+    {
+        en: 'Look down on',
+        ru: 'Смотреть свысока',
+    },
+    {
+        en: 'Get on',
+        ru: 'Поживать, сесть',
+    },
+    {
+        en: 'Get along with',
+        ru: 'Ладить',
+    },
+    {
+        en: 'Get on with',
+        ru: 'Ладить',
+    },
+    {
+        en: 'Get in',
+        ru: 'Сесть',
+    },
+    {
+        en: 'Get down to',
+        ru: 'Приступить к',
+    },
+    {
+        en: 'Get down',
+        ru: 'Расстраивать',
+    },
+    {
+        en: 'Find out',
+        ru: 'Выяснить',
+    },
+    {
+        en: 'Do about',
+        ru: 'Делать с',
+    },
+    {
+        en: 'Adventure',
+        ru: 'Приключение',
+    },
+    {
+        en: 'Coupon',
+        ru: 'Купон',
+    },
+    {
+        en: 'Fault',
+        ru: 'Вина',
+    },
+    {
+        en: 'Note',
+        ru: 'Отмечать',
+    },
+    {
+        en: 'Retirement',
+        ru: 'Выход не пенсию',
+    },
+    {
+        en: 'Schoolwork',
+        ru: 'Школьное задание',
+    },
+    {
+        en: 'Uncle',
+        ru: 'Дядя',
+    },
+    {
+        en: 'Come from',
+        ru: 'Родом из',
+    },
+    {
+        en: 'Bring up',
+        ru: 'Воспитывать',
+    },
+    {
+        en: 'Fill in',
+        ru: 'Заполнить',
+    },
+    {
+        en: 'Lag behind',
+        ru: 'Отставать',
+    },
+    {
+        en: 'Look after',
+        ru: 'Присматривать за, ухаживать за',
+    },
+    {
+        en: 'Come in',
+        ru: 'Зайти',
+    },
+    {
+        en: 'Take after',
+        ru: 'Похож на',
+    },
+    {
+        en: 'Look ahead',
+        ru: 'Смотреть вперед',
+    },
+    {
+        en: 'Look back',
+        ru: 'Оглядываться, вспоминать',
+    },
+    {
+        en: 'Look forward to',
+        ru: 'Ждать с нетерпением',
+    },
+    {
+        en: 'Look in',
+        ru: 'Заглядывать',
+    },
+    {
+        en: 'Look out',
+        ru: 'Выглянуть, осторожно',
+    },
+    {
+        en: 'Watch out',
+        ru: 'Осторожно, берегись',
+    },
+    {
+        en: 'Come back',
+        ru: 'Возвращаться',
+    },
+    {
+        en: 'Get at',
+        ru: 'Предлагать, иметь в виду',
+    },
+    {
+        en: 'Get back',
+        ru: 'Возвращаться',
+    },
+    {
+        en: 'Look through',
+        ru: 'Просматривать',
+    },
+    {
+        en: 'Boxing',
+        ru: 'Бокс',
+    },
+    {
+        en: 'Electricity',
+        ru: 'Электричество',
+    },
+    {
+        en: 'Forced',
+        ru: 'Вынужден',
+    },
+    {
+        en: 'Industry',
+        ru: 'Отрасль, промышелнность',
+    },
+    {
+        en: 'Occasion',
+        ru: 'Случай',
+    },
+    {
+        en: 'Proposal',
+        ru: 'Предложение',
+    },
+    {
+        en: 'Underestimate',
+        ru: 'Недооценивать',
+    },
+    {
+        en: 'Let down',
+        ru: 'Подводить',
+    },
+    {
+        en: 'Put off',
+        ru: 'Откладывать',
+    },
+    {
+        en: 'Drop out',
+        ru: 'Бросить',
+    },
+    {
+        en: 'Think over',
+        ru: 'Обдумывать',
+    },
+    {
+        en: 'Talk over',
+        ru: 'Обсудить',
+    },
+    {
+        en: 'Put up with',
+        ru: 'Смириться с',
+    },
+    {
+        en: 'Get ahead',
+        ru: 'Продвинуться',
+    },
+    {
+        en: 'Get round',
+        ru: 'Обойти',
+    },
+    {
+        en: 'Get around',
+        ru: 'Обойти',
+    },
+    {
+        en: 'Cut off',
+        ru: 'Отключать, отрезать',
+    },
+    {
+        en: 'Put up',
+        ru: 'Повесить, поднять',
+    },
+    {
+        en: 'Put on',
+        ru: 'Надевать',
+    },
+    {
+        en: 'Go by',
+        ru: 'Проходить',
+    },
+    {
+        en: 'Go in for',
+        ru: 'Заниматься',
+    },
+    {
+        en: 'Go off',
+        ru: 'Портиться',
+    },
+    {
+        en: 'Go away',
+        ru: 'Уезжать',
+    },
+    {
+        en: 'Go out',
+        ru: 'Выходить',
+    },
+    {
+        en: 'Banknote',
+        ru: 'Банкнота',
+    },
+    {
+        en: 'Brigade',
+        ru: 'Бригада',
+    },
+    {
+        en: 'Crowd',
+        ru: 'Толпа',
+    },
+    {
+        en: 'Facility',
+        ru: 'Удобство',
+    },
+    {
+        en: 'Failure',
+        ru: 'Провал',
+    },
+    {
+        en: 'Firefighter',
+        ru: 'Пожарный',
+    },
+    {
+        en: 'Flu',
+        ru: 'Грипп',
+    },
+    {
+        en: 'Inattentive',
+        ru: 'Невнимательность',
+    },
+    {
+        en: 'Inexperience',
+        ru: 'Неопытность',
+    },
+    {
+        en: 'Investigation',
+        ru: 'Расследование',
+    },
+    {
+        en: 'Laziness',
+        ru: 'Лень',
+    },
+    {
+        en: 'Operator',
+        ru: 'Оператор',
+    },
+    {
+        en: 'Savings',
+        ru: 'Сбережения',
+    },
+    {
+        en: 'Tiredness',
+        ru: 'Усталость',
+    },
+    {
+        en: 'Unprofessionalism',
+        ru: 'Непрофессионализм',
+    },
+    {
+        en: 'Get into',
+        ru: 'Проникать в, смотреть в',
+    },
+    {
+        en: 'Cheer up',
+        ru: 'Взбодриться',
+    },
+    {
+        en: 'Get by',
+        ru: 'Обходиться',
+    },
+    {
+        en: 'Get over',
+        ru: 'Справиться, выздороветь',
+    },
+    {
+        en: 'Get away',
+        ru: 'Убежать, скрыться',
+    },
+    {
+        en: 'Cut down',
+        ru: 'Вырубать',
+    },
+    {
+        en: 'Break in',
+        ru: 'Врываться, вломиться',
+    },
+    {
+        en: 'Break into',
+        ru: 'Вломиться в, врываться в',
+    },
+    {
+        en: 'Carry out',
+        ru: 'Проводить',
+    },
+    {
+        en: 'Make up',
+        ru: 'Выдумать, решить',
+    },
+    {
+        en: 'Make out',
+        ru: 'Понимать',
+    },
+    {
+        en: 'Put down to',
+        ru: 'Списывать на',
+    },
+    {
+        en: 'Put forward',
+        ru: 'Выдвигать',
+    },
+    {
+        en: 'Put out',
+        ru: 'Тушить',
+    },
+    {
+        en: 'Put through',
+        ru: 'Соединять, связаться',
+    },
+    {
+        en: 'Give away',
+        ru: 'Отдавать',
+    },
+    {
+        en: 'Cut down on',
+        ru: 'Сократить',
+    },
+    {
+        en: 'Stand up',
+        ru: 'Встать',
+    },
+    {
+        en: 'Annoy',
+        ru: 'Раздражать',
+    },
+    {
+        en: 'Competitor',
+        ru: 'Конкурент',
+    },
+    {
+        en: 'Corporation',
+        ru: 'Корпорация',
+    },
+    {
+        en: 'Objectively',
+        ru: 'Объективно',
+    },
+    {
+        en: 'Dress down',
+        ru: 'Одеваться неформально',
+    },
+    {
+        en: 'Calm down',
+        ru: 'Успокоиться',
+    },
+    {
+        en: 'Cool down',
+        ru: 'Остыть',
+    },
+    {
+        en: 'Check in',
+        ru: 'Зарегистрироваться',
+    },
+    {
+        en: 'Check out',
+        ru: 'Выселяться',
+    },
+    {
+        en: 'Dress up',
+        ru: 'Наряжаться, одеваться',
+    },
+    {
+        en: 'Put down',
+        ru: 'Записывать, критиковать',
+    },
+    {
+        en: 'Back up',
+        ru: 'Поддержать, сохранить',
+    },
+    {
+        en: 'Deal with',
+        ru: 'Иметь дело с',
+    },
+    {
+        en: 'Take over',
+        ru: 'Поглотить',
+    },
+    {
+        en: 'Put aside',
+        ru: 'Откладывать',
+    },
+    {
+        en: 'Put away',
+        ru: 'Убирать',
+    },
+    {
+        en: 'Give away',
+        ru: 'Вернуть',
+    },
+    {
+        en: 'Move forward',
+        ru: 'Двигаться вперед',
+    },
+    {
+        en: 'Call for',
+        ru: 'Требовать',
+    },
+    {
+        en: 'Close down',
+        ru: 'Закрыть',
+    },
+    {
+        en: 'Come along',
+        ru: 'Идти вместе',
+    },
+    {
+        en: 'Break out',
+        ru: 'Рзаразиться',
+    },
+    {
+        en: 'Bring down',
+        ru: 'Снизить',
+    },
+    {
+        en: 'Bring about',
+        ru: 'Вызывать',
+    },
+    {
+        en: 'Take back',
+        ru: 'Забрать',
+    },
+    {
+        en: 'Brighten up',
+        ru: 'Просветлеть, скрашивать',
+    },
+    {
+        en: 'Come on',
+        ru: 'Ну же',
+    },
+    {
+        en: 'Do up',
+        ru: 'Застегивать, ремонтировать',
+    },
+    {
+        en: 'Go back',
+        ru: 'Возвращаться',
+    },
+    {
+        en: 'Come through',
+        ru: 'Проходить',
+    },
+    {
+        en: 'Give off',
+        ru: 'Выделять, издавать',
+    },
+    {
+        en: 'Eat out',
+        ru: 'Питаться вне дома',
+    },
+    {
+        en: 'Bring forward',
+        ru: 'Выдвинуть',
+    },
+    {
+        en: 'Go against',
+        ru: 'Идти против',
+    },
+    {
+        en: 'Move on',
+        ru: 'Двигаться дальше',
+    },
+    {
+        en: 'Take in',
+        ru: 'Обмануть',
+    },
+    {
+        en: 'Open up',
+        ru: 'Раскрывать',
+    },
+    {
+        en: 'Stand up for',
+        ru: 'Встать на защиту',
+    },
+    {
+        en: 'Come to',
+        ru: 'Прийти к',
+    },
+    {
+        en: 'Go under',
+        ru: 'Разориться',
+    },
+    {
+        en: 'Give out',
+        ru: 'Раздавать',
+    },
+    {
+        en: 'Stay up',
+        ru: 'Не ложиться спать',
+    },
+    {
+        en: 'Shut down',
+        ru: 'Закрывать',
+    },
+    {
+        en: 'Come up against',
+        ru: 'Натокнуться',
+    },
+    {
+        en: 'End up',
+        ru: 'Оканчиваться',
+    },
+    {
+        en: 'Start up',
+        ru: 'Создавать, начинать',
+    },
+    {
+        en: 'Go ahead',
+        ru: 'Идти вперед',
+    },
+    {
+        en: 'Give in',
+        ru: 'Уступить',
+    },
+    {
+        en: 'See through',
+        ru: 'Видеть насквозь',
+    },
+    {
+        en: 'Go after',
+        ru: 'Следовать',
+    },
+    {
+        en: 'Bring back',
+        ru: 'Вернуть',
+    },
+    {
+        en: 'Come out',
+        ru: 'Выходить',
+    },
+    {
+        en: 'End in',
+        ru: 'Закончиться',
+    },
+    {
+        en: 'Blow up',
+        ru: 'Взрывать, надувать',
+    },
+    {
+        en: 'Get through',
+        ru: 'Пройти через',
+    },
+    {
+        en: 'Brighten',
+        ru: 'Украшать',
+    },
+    {
+        en: 'Committee',
+        ru: 'Комитет',
+    },
+    {
+        en: 'Height',
+        ru: 'Рост',
+    },
+    {
+        en: 'Leaflet',
+        ru: 'Листовка',
+    },
+    {
+        en: 'Profound',
+        ru: 'Глубокий',
+    },
+    {
+        en: 'Pullover',
+        ru: 'Свитер',
+    },
+    {
+        en: 'Shoelaces',
+        ru: 'Шнурки',
+    },
+    {
+        en: 'Tough',
+        ru: 'Жесткий',
+    },
+    {
+        en: 'Absorbed',
+        ru: 'Поглощенный',
+    },
+    {
+        en: 'Abstain',
+        ru: 'Воздерживаться',
+    },
+    {
+        en: 'Astonish',
+        ru: 'Удивлять, изумлять',
+    },
+    {
+        en: 'Boast',
+        ru: 'Хвастаться',
+    },
+    {
+        en: 'Compatible',
+        ru: 'Совместимый',
+    },
+    {
+        en: 'Content',
+        ru: 'Содержание',
+    },
+    {
+        en: 'Engrossed',
+        ru: 'Поглощен',
+    },
+    {
+        en: 'Flour',
+        ru: 'Мука',
+    },
+    {
+        en: 'Inclined',
+        ru: 'Склонен',
+    },
+    {
+        en: 'Soap opera',
+        ru: 'Мыльная опера',
+    },
+    {
+        en: 'Perseverance',
+        ru: 'Настойчивость',
+    },
+    {
+        en: 'Punctuality',
+        ru: 'Пунктуальность',
+    },
+    {
+        en: 'Renew',
+        ru: 'Возобнавлять',
+    },
+    {
+        en: 'Shipping',
+        ru: 'Отправка',
+    },
+    {
+        en: 'Subscription',
+        ru: 'Подписка',
+    },
+    {
+        en: 'Tied',
+        ru: 'Завязанный',
+    },
+    {
+        en: 'Underpay',
+        ru: 'Недоплачивать',
+    },
+    {
+        en: 'Upcoming',
+        ru: 'Предстоящий',
+    },
+    {
+        en: 'Violence',
+        ru: 'Насилие',
+    },
+    {
+        en: 'Advertisement',
+        ru: 'Рекламное объявление',
+    },
+    {
+        en: 'Anybody',
+        ru: 'Кто-нибудь',
+    },
+    {
+        en: 'Assistant',
+        ru: 'Помощь',
+    },
+    {
+        en: 'Contribution',
+        ru: 'Вклад',
+    },
+    {
+        en: 'Cooperation',
+        ru: 'Сотрудничество',
+    },
+    {
+        en: 'Cuisine',
+        ru: 'Кухня',
+    },
+    {
+        en: 'Envy',
+        ru: 'Зависть',
+    },
+    {
+        en: 'FruitFul',
+        ru: 'Плодотворный',
+    },
+    {
+        en: 'Jealousy',
+        ru: 'Ревность',
+    },
+    {
+        en: 'Meaningless',
+        ru: 'Бессмысленный',
+    },
+    {
+        en: 'Obsessed',
+        ru: 'Одержимый',
+    },
+    {
+        en: 'Occupied',
+        ru: 'Занятый',
+    },
+    {
+        en: 'Prosperity',
+        ru: 'Процветание',
+    },
+    {
+        en: 'Reform',
+        ru: 'Реформа',
+    },
+    {
+        en: 'Relationship',
+        ru: 'Отношения',
+    },
+    {
+        en: 'Resistance',
+        ru: 'Сопротивление',
+    },
+    {
+        en: 'Substantial',
+        ru: 'Существенный',
+    },
+    {
+        en: 'Sympathy',
+        ru: 'Симпатия, сочувствие',
+    },
+    {
+        en: 'Undervalue',
+        ru: 'Недооценивать',
+    },
+    {
+        en: 'Unjustly',
+        ru: 'Несправедливо',
+    },
+    {
+        en: 'Wave',
+        ru: 'Волна',
+    },
+    {
+        en: 'Wit',
+        ru: 'Остроумие',
+    },
+    {
+        en: 'Affair',
+        ru: 'Дело',
+    },
+    {
+        en: 'Antibiotic',
+        ru: 'Антибиотик',
+    },
+    {
+        en: 'Chaos',
+        ru: 'Хаос',
+    },
+    {
+        en: 'Compensate',
+        ru: 'Компенсировать',
+    },
+    {
+        en: 'Earnings',
+        ru: 'Заработок',
+    },
+    {
+        en: 'Housing',
+        ru: 'Жилье',
+    },
+    {
+        en: 'Interfere',
+        ru: 'Вмешиваться',
+    },
+    {
+        en: 'Luxury',
+        ru: 'Роскошный',
+    },
+    {
+        en: 'Miraculous',
+        ru: 'Чудесный',
+    },
+    {
+        en: 'Observe',
+        ru: 'Наблюдать',
+    },
+    {
+        en: 'Population',
+        ru: 'Численность',
+    },
+    {
+        en: 'Production',
+        ru: 'Производство',
+    },
+    {
+        en: 'Stare',
+        ru: 'Пялиться',
+    },
+    {
+        en: 'Superior',
+        ru: 'Превосходный',
+    },
+    {
+        en: 'Temper',
+        ru: 'Характер',
+    },
+    {
+        en: 'Unemployed',
+        ru: 'Безработный',
+    },
+    {
+        en: 'Unemployment',
+        ru: 'Безработица',
+    },
+    {
+        en: 'Unprecedentedly',
+        ru: 'Беспрецедентно',
+    },
+    {
+        en: 'Apparent',
+        ru: 'Очевидный',
+    },
+    {
+        en: 'Demonstrate',
+        ru: 'Демонстрировать',
+    },
+    {
+        en: 'Documentary',
+        ru: 'Документальный фильм',
+    },
+    {
+        en: 'Honestly',
+        ru: 'Честность',
+    },
+    {
+        en: 'Inconvenience',
+        ru: 'Неудобство',
+    },
+    {
+        en: 'Loneliness',
+        ru: 'Одиночество',
+    },
+    {
+        en: 'Movement',
+        ru: 'Движение',
+    },
+    {
+        en: 'Restrict',
+        ru: 'Ограничивать',
+    },
+    {
+        en: 'Terrified',
+        ru: 'Напуган',
+    },
+    {
+        en: 'Towards',
+        ru: 'По направлению',
+    },
+    {
+        en: 'Viewer',
+        ru: 'Зритель',
+    },
+    {
+        en: 'Benefit',
+        ru: 'Выгода',
+    },
+    {
+        en: 'Beware',
+        ru: 'Остерегаться',
+    },
+    {
+        en: 'Ceaseless',
+        ru: 'Непрестанный',
+    },
+    {
+        en: 'Confidential',
+        ru: 'Конфиденциальный',
+    },
+    {
+        en: 'Creativity',
+        ru: 'Креативность',
+    },
+    {
+        en: 'Depth',
+        ru: 'Глубина',
+    },
+    {
+        en: 'Erudition',
+        ru: 'Эрудиция',
+    },
+    {
+        en: 'Fragrance',
+        ru: 'Аромат',
+    },
+    {
+        en: 'Garlic',
+        ru: 'Чеснок',
+    },
+    {
+        en: 'Hasty',
+        ru: 'Поспешный',
+    },
+    {
+        en: 'Impressed',
+        ru: 'Впечатлен',
+    },
+    {
+        en: 'Incredible',
+        ru: 'Невероятный',
+    },
+    {
+        en: 'Panoramic',
+        ru: 'Панорамный',
+    },
+    {
+        en: 'Perfume',
+        ru: 'Духи',
+    },
+    {
+        en: 'Protect',
+        ru: 'Защищать',
+    },
+    {
+        en: 'Raspberry',
+        ru: 'Малина',
+    },
+    {
+        en: 'Slippery',
+        ru: 'Скользкий',
+    },
+    {
+        en: 'Strength',
+        ru: 'Сила',
+    },
+    {
+        en: 'Truly',
+        ru: 'Действительно',
+    },
+    {
+        en: 'Bin',
+        ru: 'Мусорный бак',
+    },
+    {
+        en: 'Bravery',
+        ru: 'Храбрость',
+    },
+    {
+        en: 'Determination',
+        ru: 'Решительность',
+    },
+    {
+        en: 'Detrimental',
+        ru: 'Вредный',
+    },
+    {
+        en: 'Devoted',
+        ru: 'Посвященный',
+    },
+    {
+        en: 'Genuinely',
+        ru: 'Искренне',
+    },
+    {
+        en: 'Habit',
+        ru: 'Привычка',
+    },
+    {
+        en: 'Noticeable',
+        ru: 'Заметный',
+    },
+    {
+        en: 'Rubbish',
+        ru: 'Мусор',
+    },
+    {
+        en: 'Somewhat',
+        ru: 'Отчасти',
+    },
+    {
+        en: 'Well-being',
+        ru: 'Благополучие',
+    },
+    {
+        en: 'Action',
+        ru: 'Действие',
+    },
+    {
+        en: 'Adjacent',
+        ru: 'Примыкающий',
+    },
+    {
+        en: 'Argument',
+        ru: 'Аргумент',
+    },
+    {
+        en: 'Assumption',
+        ru: 'Предложение',
+    },
+    {
+        en: 'Based',
+        ru: 'Основан',
+    },
+    {
+        en: 'Considerable',
+        ru: 'Значительный',
+    },
+    {
+        en: 'Deprive',
+        ru: 'Лишать',
+    },
+    {
+        en: 'Hail',
+        ru: 'Град',
+    },
+    {
+        en: 'Liberty',
+        ru: 'Свобода',
+    },
+    {
+        en: 'Persist',
+        ru: 'Упорствовать',
+    },
+    {
+        en: 'Prayer',
+        ru: 'Молитва',
+    },
+    {
+        en: 'Privilege',
+        ru: 'Привилегия',
+    },
+    {
+        en: 'Rumour',
+        ru: 'Слух',
+    },
+    {
+        en: 'Solely',
+        ru: 'Исключительно',
+    },
+    {
+        en: 'Unproven',
+        ru: 'Недоказанный',
+    },
+    {
+        en: 'Worthy',
+        ru: 'Достойный',
+    },
+    {
+        en: 'Abundance',
+        ru: 'Изобилие',
+    },
+    {
+        en: 'Associated',
+        ru: 'Связанный',
+    },
+    {
+        en: 'Brand',
+        ru: 'Бренд',
+    },
+    {
+        en: 'Contribute',
+        ru: 'Пожертвовать',
+    },
+    {
+        en: 'Covered',
+        ru: 'Покрытый',
+    },
+    {
+        en: 'Equipped',
+        ru: 'Оборудованный',
+    },
+    {
+        en: 'Fund',
+        ru: 'Фонд',
+    },
+    {
+        en: 'Initial',
+        ru: 'Начальный',
+    },
+    {
+        en: 'Parking',
+        ru: 'Парковка',
+    },
+    {
+        en: 'Photography',
+        ru: 'Фотография',
+    },
+    {
+        en: 'Prognosis',
+        ru: 'Прогноз',
+    },
+    {
+        en: 'Projector',
+        ru: 'Проектор',
+    },
+    {
+        en: 'Reluctance',
+        ru: 'Нежелание',
+    },
+    {
+        en: 'Tight',
+        ru: 'Плотно',
+    },
+    {
+        en: 'Unforeseen',
+        ru: 'Непредвиденный',
+    },
+    {
+        en: 'Utterly',
+        ru: 'Совершенно',
+    },
+    {
+        en: 'Safety',
+        ru: 'Безопасность',
+    },
+    {
+        en: 'Adaptation',
+        ru: 'Адаптация',
+    },
+    {
+        en: 'Amazement',
+        ru: 'Изумление',
+    },
+    {
+        en: 'Analysis',
+        ru: 'Анализ',
+    },
+    {
+        en: 'Attach',
+        ru: 'Прикреплять',
+    },
+    {
+        en: 'Bet',
+        ru: 'Держать пари',
+    },
+    {
+        en: 'Bureaucracy',
+        ru: 'Бюрократия',
+    },
+    {
+        en: 'Cease',
+        ru: 'Прекратить',
+    },
+    {
+        en: 'Compassion',
+        ru: 'Сострадание',
+    },
+    {
+        en: 'Concerned',
+        ru: 'Обеспокоен',
+    },
+    {
+        en: 'Corruption',
+        ru: 'Коррупция',
+    },
+    {
+        en: 'Disobedience',
+        ru: 'Непослушание',
+    },
+    {
+        en: 'Distinguish',
+        ru: 'Отличать',
+    },
+    {
+        en: 'Eventually',
+        ru: 'В конце концов',
+    },
+    {
+        en: 'Inequality',
+        ru: 'Неравенство',
+    },
+    {
+        en: 'Marvel',
+        ru: 'Восхищаться',
+    },
+    {
+        en: 'Object',
+        ru: 'Объект',
+    },
+    {
+        en: 'Objection',
+        ru: 'Возражение',
+    },
+    {
+        en: 'Rapidity',
+        ru: 'Быстрота',
+    },
+    {
+        en: 'Teaching',
+        ru: 'Преподавание',
+    },
+    {
+        en: 'Unsurprisingly',
+        ru: 'Неудивительно',
+    },
+    {
+        en: 'Wisdom',
+        ru: 'Мудрость',
+    },
+    {
+        en: 'Characteristic',
+        ru: 'Характерная черта',
+    },
+    {
+        en: 'Dismissal',
+        ru: 'Увольнение',
+    },
+    {
+        en: 'Distinguishing',
+        ru: 'Отличительный',
+    },
+    {
+        en: 'Doubtful',
+        ru: 'Сомнительный',
+    },
+    {
+        en: 'Prone',
+        ru: 'Склонный',
+    },
+    {
+        en: 'Scandal',
+        ru: 'Скандал',
+    },
+    {
+        en: 'Bribery',
+        ru: 'Взточничество',
+    },
+    {
+        en: 'Discourage',
+        ru: 'Отговаривать',
+    },
+    {
+        en: 'Dressed',
+        ru: 'Одетый',
+    },
+    {
+        en: 'Excitement',
+        ru: 'Волнение',
+    },
+    {
+        en: 'Filled',
+        ru: 'Заполненный',
+    },
+    {
+        en: 'Intent',
+        ru: 'Намерение',
+    },
+    {
+        en: 'Involved',
+        ru: 'Вовлеченный',
+    },
+    {
+        en: 'Joy',
+        ru: 'Радость',
+    },
+    {
+        en: 'Lady',
+        ru: 'Леди',
+    },
+    {
+        en: 'Limit',
+        ru: 'Предел',
+    },
+    {
+        en: 'Partial',
+        ru: 'Частичный',
+    },
+    {
+        en: 'Puzzled',
+        ru: 'Озадаченный',
+    },
+    {
+        en: 'Sphere',
+        ru: 'Сфера',
+    },
+    {
+        en: 'Tears',
+        ru: 'Слезы',
+    },
+    {
+        en: 'Theft',
+        ru: 'Кража',
+    },
+    {
+        en: 'Anger',
+        ru: 'Злость',
+    },
+    {
+        en: 'Betray',
+        ru: 'Предавать',
+    },
+    {
+        en: 'Cast',
+        ru: 'Бросать',
+    },
+    {
+        en: 'Consequent',
+        ru: 'Последующий',
+    },
+    {
+        en: 'Court',
+        ru: 'Суд',
+    },
+    {
+        en: 'Flooded',
+        ru: 'Заваленный',
+    },
+    {
+        en: 'Glance',
+        ru: 'Взгляд',
+    },
+    {
+        en: 'Incompetence',
+        ru: 'Некомпетентность',
+    },
+    {
+        en: 'Net',
+        ru: 'Сеть',
+    },
+    {
+        en: 'Request',
+        ru: 'Запрос',
+    },
+    {
+        en: 'Tremble',
+        ru: 'Дрожать',
+    },
+    {
+        en: 'Uncontrollably',
+        ru: 'Бесконтрольно',
+    },
+    {
+        en: 'Antique',
+        ru: 'Античный',
+    },
+    {
+        en: 'Awareness',
+        ru: 'Осознание',
+    },
+    {
+        en: 'Budget',
+        ru: 'Бюджет',
+    },
+    {
+        en: 'Campaign',
+        ru: 'Кампания',
+    },
+    {
+        en: 'Cruelty',
+        ru: 'Жестокость',
+    },
+    {
+        en: 'Dedicate',
+        ru: 'Посвящать',
+    },
+    {
+        en: 'Detailed',
+        ru: 'Детальный',
+    },
+    {
+        en: 'Furnished',
+        ru: 'Обставленный',
+    },
+    {
+        en: 'Imprisonment',
+        ru: 'Тюремное заключение',
+    },
+    {
+        en: 'Junk',
+        ru: 'Нездоровый',
+    },
+    {
+        en: 'Needy',
+        ru: 'Нуждающийся',
+    },
+    {
+        en: 'Pension',
+        ru: 'Пенсия',
+    },
+    {
+        en: 'Raise',
+        ru: 'Повысить, повышение',
+    },
+    {
+        en: 'Reliant',
+        ru: 'Уверенный',
+    },
+    {
+        en: 'Reluctant',
+        ru: 'Неохотный',
+    },
+    {
+        en: 'Seriousness',
+        ru: 'Серьезность',
+    },
+    {
+        en: 'Serve',
+        ru: 'Обслуживать',
+    },
+    {
+        en: 'Thorough',
+        ru: 'Тщательный',
+    },
+    {
+        en: 'Volunteer',
+        ru: 'Доброволец',
+    },
+    {
+        en: 'Art',
+        ru: 'Искусство',
+    },
+    {
+        en: 'Defeat',
+        ru: 'Поражение',
+    },
+    {
+        en: 'Dissatisfaction',
+        ru: 'Неудовлетворенность',
+    },
+    {
+        en: 'Equivalent',
+        ru: 'Эквивалент',
+    },
+    {
+        en: 'Incident',
+        ru: 'Инцидент',
+    },
+    {
+        en: 'Opposed',
+        ru: 'Против',
+    },
+    {
+        en: 'Prepared',
+        ru: 'Подготовленный',
+    },
+    {
+        en: 'Thirst',
+        ru: 'Жажда',
+    },
+    {
+        en: 'Upbringing',
+        ru: 'Воспитание',
+    },
+    {
+        en: 'Acquire',
+        ru: 'Приобретать',
+    },
+    {
+        en: 'Condemn',
+        ru: 'Осуждать',
+    },
+    {
+        en: 'Debate',
+        ru: 'Обсуждение',
+    },
+    {
+        en: 'Eager',
+        ru: 'Стремящийся, желающий',
+    },
+    {
+        en: 'Guidance',
+        ru: 'Руководство',
+    },
+    {
+        en: 'Hint',
+        ru: 'Намек',
+    },
+    {
+        en: 'Innocence',
+        ru: 'Невинность',
+    },
+    {
+        en: 'Necessity',
+        ru: 'Необходимость',
+    },
+    {
+        en: 'Newsletter',
+        ru: 'Новостная рассылка',
+    },
+    {
+        en: 'Passion',
+        ru: 'Страсть',
+    },
+    {
+        en: 'Peace',
+        ru: 'Мир',
+    },
+    {
+        en: 'Position',
+        ru: 'Позиция',
+    },
+    {
+        en: 'Prudence',
+        ru: 'Благоразумие',
+    },
+    {
+        en: 'Qualified',
+        ru: 'Квалифицированный',
+    },
+    {
+        en: 'Subscribed',
+        ru: 'Подписан',
+    },
+    {
+        en: 'Tone',
+        ru: 'Тон',
+    },
+    {
+        en: 'Vice versa',
+        ru: 'Наоборот',
+    },
+    {
+        en: 'Accompany',
+        ru: 'Сопровождать',
+    },
+    {
+        en: 'Cartoon',
+        ru: 'Мультфильм',
+    },
+    {
+        en: 'Champion',
+        ru: 'Чемпион',
+    },
+    {
+        en: 'Commission',
+        ru: 'Комиссия',
+    },
+    {
+        en: 'Disco',
+        ru: 'Дискотека',
+    },
+    {
+        en: 'Dishwasher',
+        ru: 'Посудомоечная машина',
+    },
+    {
+        en: 'Divorce',
+        ru: 'Развод',
+    },
+    {
+        en: 'Error',
+        ru: 'Ошибка',
+    },
+    {
+        en: 'Traffic jam',
+        ru: 'Пробка',
+    },
+    {
+        en: 'Photographer',
+        ru: 'Фотограф',
+    },
+    {
+        en: 'Playground',
+        ru: 'Игровая площадка',
+    },
+    {
+        en: 'Precaution',
+        ru: 'Предосторожность',
+    },
+    {
+        en: 'Stuck',
+        ru: 'Застрять',
+    },
+    {
+        en: 'Traffic',
+        ru: 'Движение',
+    },
+    {
+        en: 'Consideration',
+        ru: 'Рассмотрение',
+    },
+    {
+        en: 'Consult',
+        ru: 'Консультировать',
+    },
+    {
+        en: 'Eradicate',
+        ru: 'Искоренить',
+    },
+    {
+        en: 'Fee',
+        ru: 'Взнос',
+    },
+    {
+        en: 'Hastily',
+        ru: 'Поспешно',
+    },
+    {
+        en: 'Illiteracy',
+        ru: 'Неграмотность',
+    },
+    {
+        en: 'Minimize',
+        ru: 'Минимизировать',
+    },
+    {
+        en: 'Refrigerator',
+        ru: 'Холодильник',
+    },
+    {
+        en: 'Spelling',
+        ru: 'Правописание',
+    },
+    {
+        en: 'Timetable',
+        ru: 'Расписание',
+    },
+    {
+        en: 'Troops',
+        ru: 'Войска',
+    },
+    {
+        en: 'Washing machine',
+        ru: 'Стиральная машина',
+    },
+    {
+        en: 'Access',
+        ru: 'Доступ',
+    },
+    {
+        en: 'Beyond',
+        ru: 'За',
+    },
+    {
+        en: 'Generally',
+        ru: 'В общем',
+    },
+    {
+        en: 'Irrelevant',
+        ru: 'Неуместный',
+    },
+    {
+        en: 'Reckon',
+        ru: 'Считать',
+    },
+    {
+        en: 'Regardless',
+        ru: 'Regardless',
+    },
+    {
+        en: 'self-education',
+        ru: 'Самообразование',
+    },
+    {
+        en: 'Coincidence',
+        ru: 'Совпадение',
+    },
+    {
+        en: 'Firstly',
+        ru: 'Во-первых',
+    },
+    {
+        en: 'Fluency',
+        ru: 'Беглость',
+    },
+    {
+        en: 'Overestimate',
+        ru: 'Переоценивать',
+    },
+    {
+        en: 'Ridiculously',
+        ru: 'Смехотворно',
+    },
+    {
+        en: 'Secondly',
+        ru: 'Во-вторых',
+    },
+    {
+        en: 'Sincerely',
+        ru: 'Искренне',
+    },
+    {
+        en: 'Crucial',
+        ru: 'Ключевой',
+    },
+    {
+        en: 'Illusion',
+        ru: 'Иллюзия',
+    },
+    {
+        en: 'Unsuccessful',
+        ru: 'Неудачный',
+    },
+    {
+        en: 'Worthwhile',
+        ru: 'Стоит',
+    },
+    {
+        en: 'Definite',
+        ru: 'Определенный',
+    },
+    {
+        en: 'Moreover',
+        ru: 'Более того',
+    },
+    {
+        en: 'Part-time',
+        ru: 'Неполный рабочий день',
+    },
+    {
+        en: 'Popularity',
+        ru: 'Популярность',
+    },
+    {
+        en: 'Sensibly',
+        ru: 'Разумно',
+    },
+    {
+        en: 'Admit',
+        ru: 'Признавать',
+    },
+    {
+        en: 'Advertising',
+        ru: 'Реклама',
+    },
+    {
+        en: 'Beneficial',
+        ru: 'Выгодный',
+    },
+    {
+        en: 'Criteria',
+        ru: 'Критерий',
+    },
+    {
+        en: 'Definition',
+        ru: 'Определение',
+    },
+    {
+        en: 'Desirable',
+        ru: 'Желательный',
+    },
+    {
+        en: 'Desire',
+        ru: 'Желание',
+    },
+    {
+        en: 'Entertainment',
+        ru: 'Развлечение',
+    },
+    {
+        en: 'Invention',
+        ru: 'Изобретение',
+    },
+    {
+        en: 'Investment',
+        ru: 'Инвестиция',
+    },
+    {
+        en: 'License',
+        ru: 'Лицензия',
+    },
+    {
+        en: 'Lover',
+        ru: 'Любовник',
+    },
+    {
+        en: 'Monotonous',
+        ru: 'Монотонный',
+    },
+    {
+        en: 'Perceive',
+        ru: 'Воспринимать',
+    },
+    {
+        en: 'Radically',
+        ru: 'Радикально',
+    },
+    {
+        en: 'Relate',
+        ru: 'Относиться',
+    },
+    {
+        en: 'Barrier',
+        ru: 'Барьер',
+    },
+    {
+        en: 'Distract',
+        ru: 'Отвлекать',
+    },
+    {
+        en: 'Ecologist',
+        ru: 'Эколог',
+    },
+    {
+        en: 'Entirely',
+        ru: 'Совсем',
+    },
+    {
+        en: 'Global warming',
+        ru: 'Глобальное потепление',
+    },
+    {
+        en: 'Nutrition',
+        ru: 'Питание',
+    },
+    {
+        en: 'Overweight',
+        ru: 'Избыточный вес',
+    },
+    {
+        en: 'Pose',
+        ru: 'Представляет',
+    },
+    {
+        en: 'Psychology',
+        ru: 'Психология',
+    },
+    {
+        en: 'Self-development',
+        ru: 'Саморазвитие',
+    },
+    {
+        en: 'Stunning',
+        ru: 'Потрясяющий',
+    },
+    {
+        en: 'Swimmer',
+        ru: 'Пловец',
+    },
+    {
+        en: 'Technological',
+        ru: 'Технологический',
+    },
+    {
+        en: 'Theoretically',
+        ru: 'Теоретически',
+    },
+    {
+        en: 'Widespread',
+        ru: 'Широко распространенный',
+    },
+    {
+        en: 'Basically',
+        ru: 'В принципе',
+    },
+    {
+        en: 'Controversial',
+        ru: 'Спорный',
+    },
+    {
+        en: 'Deceptive',
+        ru: 'Обманчивый',
+    },
+    {
+        en: 'Disability',
+        ru: 'Инвалидность',
+    },
+    {
+        en: 'Drop',
+        ru: 'Бросать, оставлять',
+    },
+    {
+        en: 'Excuse',
+        ru: 'Оправдание',
+    },
+    {
+        en: 'Fascinating',
+        ru: 'Очаровательный',
+    },
+    {
+        en: 'Probability',
+        ru: 'Вероятность',
+    },
+    {
+        en: 'Tool',
+        ru: 'Инструмент',
+    },
+    {
+        en: 'Yeah',
+        ru: 'Да',
+    },
+    {
+        en: 'Background',
+        ru: 'Фон',
+    },
+    {
+        en: 'Collocation',
+        ru: 'Словосочетание',
+    },
+    {
+        en: 'Concerning',
+        ru: 'Касающийся',
+    },
+    {
+        en: 'Contraction',
+        ru: 'Сокращение',
+    },
+    {
+        en: 'Digest',
+        ru: 'Переваривать',
+    },
+    {
+        en: 'Enjoyable',
+        ru: 'Приятный',
+    },
+    {
+        en: 'Exaggeration',
+        ru: 'Преувеличение',
+    },
+    {
+        en: 'Idiom',
+        ru: 'Идиома',
+    },
+    {
+        en: 'Load',
+        ru: 'Загружать',
+    },
+    {
+        en: 'Mass media',
+        ru: 'СМИ',
+    },
+    {
+        en: 'Nationality',
+        ru: 'Национальность',
+    },
+    {
+        en: 'Needless',
+        ru: 'Излишне',
+    },
+    {
+        en: 'Non-native speaker',
+        ru: 'Не носитель языка',
+    },
+    {
+        en: 'Phrasal verb',
+        ru: 'Фразовый глагол',
+    },
+    {
+        en: 'Precise',
+        ru: 'Точный',
+    },
+    {
+        en: 'Precisely',
+        ru: 'Точно',
+    },
+    {
+        en: 'Priority',
+        ru: 'Приоритет',
+    },
+    {
+        en: 'Shopaholic',
+        ru: 'Шопоголик',
+    },
+    {
+        en: 'Undeniable',
+        ru: 'Бесспорный',
+    },
+    {
+        en: 'Adapted',
+        ru: 'Адаптированный',
+    },
+    {
+        en: 'Agenda',
+        ru: 'Повестка дня',
+    },
+    {
+        en: 'Ahead',
+        ru: 'Впереди',
+    },
+    {
+        en: 'Clarify',
+        ru: 'Прояснить',
+    },
+    {
+        en: 'Comparison',
+        ru: 'Сравнение',
+    },
+    {
+        en: 'Ideally',
+        ru: 'В идеале',
+    },
+    {
+        en: 'Japanese',
+        ru: 'Японский',
+    },
+    {
+        en: 'Justly',
+        ru: 'Справедливо',
+    },
+    {
+        en: 'Miracle',
+        ru: 'Чудо',
+    },
+    {
+        en: 'Problematic',
+        ru: 'Проблематичный',
+    },
+    {
+        en: 'Programming',
+        ru: 'Программировние',
+    },
+    {
+        en: 'Punishment',
+        ru: 'Наказание',
+    },
+    {
+        en: 'Simplified',
+        ru: 'Упрощенный',
+    },
+    {
+        en: 'Tendency',
+        ru: 'Тенденция',
+    },
+    {
+        en: 'Understandable',
+        ru: 'Понятный',
+    },
+    {
+        en: 'Weakness',
+        ru: 'Слабость',
+    },
+    {
+        en: 'Adjective',
+        ru: 'Прилагательное',
+    },
+    {
+        en: 'Adverb',
+        ru: 'Наречие',
+    },
+    {
+        en: 'Bluntly',
+        ru: 'Прямо, резко',
+    },
+    {
+        en: 'Cloud',
+        ru: 'Облако',
+    },
+    {
+        en: 'Commonly',
+        ru: 'Часто',
+    },
+    {
+        en: 'Competitive',
+        ru: 'Конкурентный',
+    },
+    {
+        en: 'Consequently',
+        ru: 'Следовательно',
+    },
+    {
+        en: 'Contrast',
+        ru: 'Отличие',
+    },
+    {
+        en: 'Disagreement',
+        ru: 'Разногласие',
+    },
+    {
+        en: 'Employer',
+        ru: 'Работодатель',
+    },
+    {
+        en: 'Evidence',
+        ru: 'Свидетельство',
+    },
+    {
+        en: 'Furthermore',
+        ru: 'Более того',
+    },
+    {
+        en: 'Influential',
+        ru: 'Влиятельный',
+    },
+    {
+        en: 'Kindergarten',
+        ru: 'Дееский сад',
+    },
+    {
+        en: 'Limited',
+        ru: 'Ограниченный',
+    },
+    {
+        en: 'Linking words',
+        ru: 'Связывающие слова',
+    },
+    {
+        en: 'Lion',
+        ru: 'Лев',
+    },
+    {
+        en: 'Mildly',
+        ru: 'Мягко',
+    },
+    {
+        en: 'Minus',
+        ru: 'Минус',
+    },
+    {
+        en: 'Mouth',
+        ru: 'Рот',
+    },
+    {
+        en: 'Noun',
+        ru: 'Существительное',
+    },
+    {
+        en: 'In a nutshell',
+        ru: 'В двух словах',
+    },
+    {
+        en: 'Plus',
+        ru: 'Плюс',
+    },
+    {
+        en: 'Space',
+        ru: 'Пространство',
+    },
+    {
+        en: 'Stuff',
+        ru: 'Вещи',
+    },
+    {
+        en: 'Tip',
+        ru: 'Совет',
+    },
+    {
+        en: 'Unlucky',
+        ru: 'Неудачный',
+    },
+    {
+        en: 'Unnoticed',
+        ru: 'Незамеченный',
+    },
+    {
+        en: 'Wisely',
+        ru: 'Мудро',
+    },
+    {
+        en: 'Debt',
+        ru: 'Долг',
+    },
+    {
+        en: 'Embarrassing',
+        ru: 'Неловкий',
+    },
+    {
+        en: 'Enrol',
+        ru: 'Записаться',
+    },
+    {
+        en: 'Mortgage',
+        ru: 'Ипотека',
+    },
+    {
+        en: 'Optimist',
+        ru: 'Оптимист',
+    },
+    {
+        en: 'Prove',
+        ru: 'Доказывать',
+    },
+    {
+        en: 'Revise',
+        ru: 'Пересматривать',
+    },
+    {
+        en: 'Visible',
+        ru: 'Видимый',
+    },
+    {
+        en: 'Bracelet',
+        ru: 'Браслет',
+    },
+    {
+        en: 'Certificate',
+        ru: 'Сертификат',
+    },
+    {
+        en: 'Correction',
+        ru: 'Исправление',
+    },
+    {
+        en: 'Disgusting',
+        ru: 'Отвратительный',
+    },
+    {
+        en: 'Full-time',
+        ru: 'На полную занятость',
+    },
+    {
+        en: 'Helicopter',
+        ru: 'Вертолет',
+    },
+    {
+        en: 'Mattress',
+        ru: 'Матрас',
+    },
+    {
+        en: 'Personnel',
+        ru: 'Персонал',
+    },
+    {
+        en: 'Proper',
+        ru: 'Правильный',
+    },
+    {
+        en: 'Review',
+        ru: 'Обзор',
+    },
+    {
+        en: 'Souvenir',
+        ru: 'Сувенир',
+    },
+    {
+        en: 'Sympathetic',
+        ru: 'Сочувствующий',
+    },
+    {
+        en: 'Tremendous',
+        ru: 'Огромный',
+    },
+    {
+        en: 'Waterfall',
+        ru: 'Водопад',
+    },
+    {
+        en: 'Accessory',
+        ru: 'Аксессуар',
+    },
+    {
+        en: 'Amount',
+        ru: 'Количество',
+    },
+    {
+        en: 'Appliance',
+        ru: 'Прибор',
+    },
+    {
+        en: 'Blogging',
+        ru: 'Блоггинг',
+    },
+    {
+        en: 'Bound to',
+        ru: 'Обязательно, обречен на',
+    },
+    {
+        en: 'Compensation',
+        ru: 'Компенсация',
+    },
+    {
+        en: 'Fairly',
+        ru: 'Довольно',
+    },
+    {
+        en: 'Harsh',
+        ru: 'Суровый',
+    },
+    {
+        en: 'Knit',
+        ru: 'Вязать',
+    },
+    {
+        en: 'Likely',
+        ru: 'Скорее всего',
+    },
+    {
+        en: 'Qualification',
+        ru: 'Квалификация',
+    },
+    {
+        en: 'Revolutionary',
+        ru: 'Революционный',
+    },
+    {
+        en: 'Simultaneously',
+        ru: 'Одновременно',
+    },
+    {
+        en: 'Wealthy',
+        ru: 'Состоятельный',
+    },
+    {
+        en: 'Afterwards',
+        ru: 'После этого',
+    },
+    {
+        en: 'Investigate',
+        ru: 'Исследовать',
+    },
+    {
+        en: 'Responsibility',
+        ru: 'Обязанность',
+    },
+    {
+        en: 'Subscriber',
+        ru: 'Подписчик',
+    },
+    {
+        en: 'Tense',
+        ru: 'Время',
+    },
+    {
+        en: 'Title',
+        ru: 'Заголовок',
+    },
+    {
+        en: 'Turkey',
+        ru: 'Турция',
+    },
+    {
+        en: 'Unpredictable',
+        ru: 'Непредсказуемый',
+    },
+    {
+        en: 'Stay',
+        ru: 'Пребывание',
+    },
+    {
+        en: 'Historic',
+        ru: 'Исторический',
+    },
+    {
+        en: 'Conscious',
+        ru: 'Осознающий',
+    },
+    {
+        en: 'Delivery',
+        ru: 'Доставка',
+    },
+    {
+        en: 'Efficiency',
+        ru: 'Эффективность',
+    },
+    {
+        en: 'Electric',
+        ru: 'Электрический',
+    },
+    {
+        en: 'Exhibition',
+        ru: 'Выставка',
+    },
+    {
+        en: 'Marvellous',
+        ru: 'Великолепный',
+    },
+    {
+        en: 'Sheet',
+        ru: 'Лист',
+    },
+    {
+        en: 'Transfer',
+        ru: 'Переводить',
+    },
+    {
+        en: 'Moving',
+        ru: 'Трогательный',
+    },
+    {
+        en: 'Applaud',
+        ru: 'Аплодировать',
+    },
+    {
+        en: 'Atrocious',
+        ru: 'Отвратительный',
+    },
+    {
+        en: 'Band',
+        ru: 'Группа',
+    },
+    {
+        en: 'Basket',
+        ru: 'Корзина',
+    },
+    {
+        en: 'Bless',
+        ru: 'Благословлять',
+    },
+    {
+        en: 'Ceremony',
+        ru: 'Церемония',
+    },
+    {
+        en: 'Christian',
+        ru: 'Христианин',
+    },
+    {
+        en: 'Christianity',
+        ru: 'Христианство',
+    },
+    {
+        en: 'Cock',
+        ru: 'Петух',
+    },
+    {
+        en: 'Convert',
+        ru: 'Конвертировать, преобразовать',
+    },
+    {
+        en: 'Cow',
+        ru: 'Корова',
+    },
+    {
+        en: 'Dare',
+        ru: 'Осмеливаться',
+    },
+    {
+        en: 'Dinosaur',
+        ru: 'Динозавр',
+    },
+    {
+        en: 'Duck',
+        ru: 'Утка',
+    },
+    {
+        en: 'Farmer',
+        ru: 'Фермер',
+    },
+    {
+        en: 'Fifth',
+        ru: 'Пятый',
+    },
+    {
+        en: 'Fishing',
+        ru: 'Рыбалка',
+    },
+    {
+        en: 'Goose',
+        ru: 'Гусь',
+    },
+    {
+        en: 'Goat',
+        ru: 'Козел',
+    },
+    {
+        en: 'Guide',
+        ru: 'Сопровождать, направлять',
+    },
+    {
+        en: 'Hen',
+        ru: 'Курица',
+    },
+    {
+        en: 'Humiliate',
+        ru: 'Унижать',
+    },
+    {
+        en: 'Idolize',
+        ru: 'Боготворить',
+    },
+    {
+        en: 'Initially',
+        ru: 'Первоначально',
+    },
+    {
+        en: 'Insult',
+        ru: 'Оскорблять',
+    },
+    {
+        en: 'Item',
+        ru: 'Пункт',
+    },
+    {
+        en: 'Kilometre',
+        ru: 'Километр',
+    },
+    {
+        en: 'Madness',
+        ru: 'Безумие',
+    },
+    {
+        en: 'Miraculously',
+        ru: 'Чудом',
+    },
+    {
+        en: 'Optimize',
+        ru: 'Оптимизировать',
+    },
+    {
+        en: 'Percentage',
+        ru: 'Процент',
+    },
+    {
+        en: 'Reflect',
+        ru: 'Отражать',
+    },
+    {
+        en: 'Rugby',
+        ru: 'Рэгби',
+    },
+    {
+        en: 'Sheep',
+        ru: 'Овца',
+    },
+    {
+        en: 'Truck',
+        ru: 'Грузовик',
+    },
+    {
+        en: 'Whatever',
+        ru: 'Что бы ни',
+    },
+    {
+        en: 'Whisper',
+        ru: 'Шептать',
+    },
+    {
+        en: 'Adopt',
+        ru: 'Усыновить, удочерить',
+    },
+    {
+        en: 'Arrange',
+        ru: 'Договориться',
+    },
+    {
+        en: 'Besides',
+        ru: 'Кроме того',
+    },
+    {
+        en: 'Bookcase',
+        ru: 'Книжный шкаф',
+    },
+    {
+        en: 'Brain',
+        ru: 'Мозг',
+    },
+    {
+        en: 'CD',
+        ru: 'Компакт-диск',
+    },
+    {
+        en: 'Civil',
+        ru: 'Гражданский',
+    },
+    {
+        en: 'Confess',
+        ru: 'Признаваться',
+    },
+    {
+        en: 'Convey',
+        ru: 'Передавать, доносить',
+    },
+    {
+        en: 'Eighth',
+        ru: 'Восьмой',
+    },
+    {
+        en: 'Explore',
+        ru: 'Исследовать',
+    },
+    {
+        en: 'Finance',
+        ru: 'Финансы',
+    },
+    {
+        en: 'Goal',
+        ru: 'Цель',
+    },
+    {
+        en: 'Granddaughter',
+        ru: 'Внучка',
+    },
+    {
+        en: 'Grandson',
+        ru: 'Внук',
+    },
+    {
+        en: 'Inclusive',
+        ru: 'Включено',
+    },
+    {
+        en: 'Legitimate',
+        ru: 'Законный',
+    },
+    {
+        en: 'Male',
+        ru: 'Мужской',
+    },
+    {
+        en: 'Minimum',
+        ru: 'Минимум, минимальный',
+    },
+    {
+        en: 'Mommy',
+        ru: 'Мамочка',
+    },
+    {
+        en: 'Paste',
+        ru: 'Вставить',
+    },
+    {
+        en: 'Pink',
+        ru: 'Розовый',
+    },
+    {
+        en: 'Prescribe',
+        ru: 'Прописать',
+    },
+    {
+        en: 'Ruble',
+        ru: 'Рубль',
+    },
+    {
+        en: 'Sand',
+        ru: 'Песок',
+    },
+    {
+        en: 'Sore',
+        ru: 'Больной, воспаленный',
+    },
+    {
+        en: 'Spread',
+        ru: 'Распространяться',
+    },
+    {
+        en: 'Structure',
+        ru: 'Структура',
+    },
+    {
+        en: 'Target',
+        ru: 'Цель',
+    },
+    {
+        en: 'Throat',
+        ru: 'Горло',
+    },
+    {
+        en: 'Tear',
+        ru: 'Рвать',
+    },
+    {
+        en: 'Undo',
+        ru: 'Расстегнуть',
+    },
+    {
+        en: 'Wanna',
+        ru: 'Хотеть',
+    },
+    {
+        en: 'Beetroot',
+        ru: 'Свекла',
+    },
+    {
+        en: 'Bend',
+        ru: 'Сгибать',
+    },
+    {
+        en: 'Carrot',
+        ru: 'Морковь',
+    },
+    {
+        en: 'Connect',
+        ru: 'Соединять',
+    },
+    {
+        en: 'Crew',
+        ru: 'Экипаж',
+    },
+    {
+        en: 'Declare',
+        ru: 'Объявлять',
+    },
+    {
+        en: 'Decorate',
+        ru: 'Украшать',
+    },
+    {
+        en: 'Dialogue',
+        ru: 'Диалог',
+    },
+    {
+        en: 'Encourage',
+        ru: 'Поощрять, воодушевлять',
+    },
+    {
+        en: 'Eraser',
+        ru: 'Ластик',
+    },
+    {
+        en: 'Fraud',
+        ru: 'Мошенничество',
+    },
+    {
+        en: 'Google',
+        ru: 'Гуглить, искать в интернете',
+    },
+    {
+        en: 'Involve',
+        ru: 'Вовлекать',
+    },
+    {
+        en: 'Location',
+        ru: 'Расположение',
+    },
+    {
+        en: 'Mix',
+        ru: 'Смешивать',
+    },
+    {
+        en: 'Moderately',
+        ru: 'Умеренно',
+    },
+    {
+        en: 'Moderation',
+        ru: 'Умеренность',
+    },
+    {
+        en: 'Onion',
+        ru: 'Лук',
+    },
+    {
+        en: 'Overtake',
+        ru: 'Обгонять',
+    },
+    {
+        en: 'Panic',
+        ru: 'Паника, паниковать',
+    },
+    {
+        en: 'Permit',
+        ru: 'Разрешать',
+    },
+    {
+        en: 'Prosecute',
+        ru: 'Преследовать в судебном порядке',
+    },
+    {
+        en: 'Rob',
+        ru: 'Грабить',
+    },
+    {
+        en: 'Rub',
+        ru: 'Стирать',
+    },
+    {
+        en: 'Select',
+        ru: 'Выбирать',
+    },
+    {
+        en: 'Shoot',
+        ru: 'Стрелять',
+    },
+    {
+        en: 'Bible',
+        ru: 'Библия',
+    },
+    {
+        en: 'Complete',
+        ru: 'Соревноваться',
+    },
+    {
+        en: 'Cucumber',
+        ru: 'Огурец',
+    },
+    {
+        en: 'Diligence',
+        ru: 'Старательность',
+    },
+    {
+        en: 'Dozen',
+        ru: 'Дюжина',
+    },
+    {
+        en: 'Erase',
+        ru: 'Стирать',
+    },
+    {
+        en: 'Expand',
+        ru: 'Расширять',
+    },
+    {
+        en: 'Extend',
+        ru: 'Тянуться',
+    },
+    {
+        en: 'Fulfil',
+        ru: 'Выполнять',
+    },
+    {
+        en: 'Modesty',
+        ru: 'Скромность',
+    },
+    {
+        en: 'Neck',
+        ru: 'Шея',
+    },
+    {
+        en: 'Obtain',
+        ru: 'Получать',
+    },
+    {
+        en: 'Peninsula',
+        ru: 'Полуостров',
+    },
+    {
+        en: 'Postcard',
+        ru: 'Открытка',
+    },
+    {
+        en: 'Profoundly',
+        ru: 'Глубоко',
+    },
+    {
+        en: 'Rapidly',
+        ru: 'Быстро',
+    },
+    {
+        en: 'Readiness',
+        ru: 'Готовность',
+    },
+    {
+        en: 'Relevant',
+        ru: 'Актуальный',
+    },
+    {
+        en: 'Remove',
+        ru: 'Удалять',
+    },
+    {
+        en: 'Resell',
+        ru: 'Перепродавать',
+    },
+    {
+        en: 'Righteous',
+        ru: 'Праведный',
+    },
+    {
+        en: 'Scarf',
+        ru: 'Шарф',
+    },
+    {
+        en: 'Surround',
+        ru: 'Окружать',
+    },
+    {
+        en: 'Tomato',
+        ru: 'Помидор',
+    },
+    {
+        en: 'United',
+        ru: 'Удиный, объединенный',
+    },
+    {
+        en: 'Wheel',
+        ru: 'Колесо',
+    },
+    {
+        en: 'Worship',
+        ru: 'Поклоняться',
+    },
+    {
+        en: 'Idealize',
+        ru: 'Идеализировать',
+    },
+    {
+        en: 'Bench',
+        ru: 'Скамья',
+    },
+    {
+        en: 'Emphasize',
+        ru: 'Подчеркнуть',
+    },
+    {
+        en: 'Fry',
+        ru: 'Жарить',
+    },
+    {
+        en: 'Including',
+        ru: 'Включая',
+    },
+    {
+        en: 'Inefficiency',
+        ru: 'Неэффективность',
+    },
+    {
+        en: 'Liquid',
+        ru: 'Жидкость',
+    },
+    {
+        en: 'Merry',
+        ru: 'Счастливый',
+    },
+    {
+        en: 'Nation',
+        ru: 'Нация',
+    },
+    {
+        en: 'Platform',
+        ru: 'Платформа',
+    },
+    {
+        en: 'Seventh',
+        ru: 'Седьмой',
+    },
+    {
+        en: 'Significance',
+        ru: 'Значимость',
+    },
+    {
+        en: 'Sixth',
+        ru: 'Шестой',
+    },
+    {
+        en: 'Soap',
+        ru: 'Мыло',
+    },
+    {
+        en: 'Unkind',
+        ru: 'Недобрый',
+    },
+    {
+        en: 'Unluckily',
+        ru: 'К несчастью',
+    },
+    {
+        en: 'Virtually',
+        ru: 'Фактически',
+    },
+    {
+        en: 'Wage',
+        ru: 'Зарплата',
+    },
+    {
+        en: 'Fire',
+        ru: 'Увольнять',
+    },
+    {
+        en: 'Agent',
+        ru: 'Агент',
+    },
+    {
+        en: 'Conclude',
+        ru: 'Заключать',
+    },
+    {
+        en: 'Hill',
+        ru: 'Холм',
+    },
+    {
+        en: 'Madam',
+        ru: 'Мадам',
+    },
+    {
+        en: 'Media',
+        ru: 'СМИ',
+    },
+    {
+        en: 'Muscles',
+        ru: 'Мышцы',
+    },
+    {
+        en: 'Nineteenth',
+        ru: 'Девятнадцатый',
+    },
+    {
+        en: 'Notify',
+        ru: 'Уведомлять',
+    },
+    {
+        en: 'Occur',
+        ru: 'Происходить',
+    },
+    {
+        en: 'Patriot',
+        ru: 'Патриот',
+    },
+    {
+        en: 'Presidential',
+        ru: 'Президентский',
+    },
+    {
+        en: 'Pull',
+        ru: 'Тащить',
+    },
+    {
+        en: 'Regard',
+        ru: 'Считать',
+    },
+    {
+        en: 'Reporter',
+        ru: 'Репортер',
+    },
+    {
+        en: 'Resist',
+        ru: 'Сопротивляться',
+    },
+    {
+        en: 'Status',
+        ru: 'Статус',
+    },
+    {
+        en: 'Submit',
+        ru: 'Подавать',
+    },
+    {
+        en: 'Telephone',
+        ru: 'Телефон',
+    },
+    {
+        en: 'Temptation',
+        ru: 'Искушение',
+    },
+    {
+        en: 'Terminate',
+        ru: 'Заканчивать',
+    },
+    {
+        en: 'Terrific',
+        ru: 'Потрясающий',
+    },
+    {
+        en: 'Wow',
+        ru: 'Ух ты',
+    },
+    {
+        en: 'Water',
+        ru: 'Поливать',
+    },
+    {
+        en: 'Activity',
+        ru: 'Деятельность',
+    },
+    {
+        en: 'Authority',
+        ru: 'Власть',
+    },
+    {
+        en: 'Broadcast',
+        ru: 'Тренслировать',
+    },
+    {
+        en: 'Chewing gum',
+        ru: 'Жевательная резинка',
+    },
+    {
+        en: 'Curious',
+        ru: 'Любопытный',
+    },
+    {
+        en: 'Diary',
+        ru: 'Дневник',
+    },
+    {
+        en: 'Exclude',
+        ru: 'Исключать',
+    },
+    {
+        en: 'Grammatical',
+        ru: 'Грамматический',
+    },
+    {
+        en: 'Honey',
+        ru: 'Мёд',
+    },
+    {
+        en: 'Identity',
+        ru: 'Идентифицировать',
+    },
+    {
+        en: 'Imitate',
+        ru: 'Имитировать',
+    },
+    {
+        en: 'Inappropriate',
+        ru: 'Несоответствующий',
+    },
+    {
+        en: 'Mislead',
+        ru: 'Ввести в заблуждение',
+    },
+    {
+        en: 'Modify',
+        ru: 'Модифицировать',
+    },
+    {
+        en: 'Motherland',
+        ru: 'Родина',
+    },
+    {
+        en: 'Muslim',
+        ru: 'Мусульманин',
+    },
+    {
+        en: 'Oven',
+        ru: 'Духовка',
+    },
+    {
+        en: 'Pan',
+        ru: 'Кастрюля',
+    },
+    {
+        en: 'Per',
+        ru: 'В',
+    },
+    {
+        en: 'Pour',
+        ru: 'Наливать',
+    },
+    {
+        en: 'Prize',
+        ru: 'Приз',
+    },
+    {
+        en: 'Propose',
+        ru: 'Предложить',
+    },
+    {
+        en: 'Reader',
+        ru: 'Читатель',
+    },
+    {
+        en: 'Splitting',
+        ru: 'Сильный, раскалывающий',
+    },
+    {
+        en: 'Swear',
+        ru: 'Клясться, ругаться',
+    },
+    {
+        en: 'Twentieth',
+        ru: 'Двадцатый',
+    },
+    {
+        en: 'Twentieth',
+        ru: 'Двадцатый',
+    },
+    {
+        en: 'Wherever',
+        ru: 'Где бы ни',
+    },
+    {
+        en: 'Yawn',
+        ru: 'Зевать',
+    },
+    {
+        en: 'Aeroplane',
+        ru: 'Самолет',
+    },
+    {
+        en: 'Approvingly',
+        ru: 'Одобрительно',
+    },
+    {
+        en: 'Backpack',
+        ru: 'Рюкзак',
+    },
+    {
+        en: 'Candle',
+        ru: 'Свеча',
+    },
+    {
+        en: 'Cheerfully',
+        ru: 'Весело',
+    },
+    {
+        en: 'Cooperate',
+        ru: 'Сотрудничать',
+    },
+    {
+        en: 'Correspondence',
+        ru: 'Переписка',
+    },
+    {
+        en: 'Fourth',
+        ru: 'Четвертый',
+    },
+    {
+        en: 'Hesitate',
+        ru: 'Колебаться',
+    },
+    {
+        en: 'Imply',
+        ru: 'Означать',
+    },
+    {
+        en: 'Justify',
+        ru: 'Оправдывать',
+    },
+    {
+        en: 'King',
+        ru: 'Король',
+    },
+    {
+        en: 'Knell',
+        ru: 'Опускаться на колени',
+    },
+    {
+        en: 'Maintain',
+        ru: 'Поддерживать',
+    },
+    {
+        en: 'Ninth',
+        ru: 'Девятый',
+    },
+    {
+        en: 'Nod',
+        ru: 'Кивать',
+    },
+    {
+        en: 'Rush',
+        ru: 'Спешить',
+    },
+    {
+        en: 'Sacrifice',
+        ru: 'Жертвовать',
+    },
+    {
+        en: 'Sadden',
+        ru: 'Печалить',
+    },
+    {
+        en: 'Scale',
+        ru: 'Весы',
+    },
+    {
+        en: 'Scare',
+        ru: 'Пугать',
+    },
+    {
+        en: 'Tenth',
+        ru: 'Десятый',
+    },
+    {
+        en: 'Unnaturally',
+        ru: 'Неестественно',
+    },
+    {
+        en: 'Violate',
+        ru: 'Нарушать',
+    },
+    {
+        en: 'Means',
+        ru: 'Средства',
+    },
+    {
+        en: 'Rule',
+        ru: 'Править',
+    },
+    {
+        en: 'Clothing',
+        ru: 'Одежда',
+    },
+    {
+        en: 'Bone',
+        ru: 'Кость',
+    },
+    {
+        en: 'Coast',
+        ru: 'Берег',
+    },
+    {
+        en: 'Congress',
+        ru: 'Конгресс',
+    },
+    {
+        en: 'Convince',
+        ru: 'Убеждать',
+    },
+    {
+        en: 'Cough',
+        ru: 'Кашель',
+    },
+    {
+        en: 'Development',
+        ru: 'Развитие',
+    },
+    {
+        en: 'Exclaim',
+        ru: 'Восклицать',
+    },
+    {
+        en: 'Federal',
+        ru: 'Федеральный',
+    },
+    {
+        en: 'Formula',
+        ru: 'Формула',
+    },
+    {
+        en: 'Gonna',
+        ru: 'Собираться',
+    },
+    {
+        en: 'Indicate',
+        ru: 'Указывать',
+    },
+    {
+        en: 'Lean',
+        ru: 'Наклоняться',
+    },
+    {
+        en: 'Omelette',
+        ru: 'Омлет',
+    },
+    {
+        en: 'Promotion',
+        ru: 'Продвижение',
+    },
+    {
+        en: 'Recognize',
+        ru: 'Узнавать',
+    },
+    {
+        en: 'Refugee',
+        ru: 'Беженец',
+    },
+    {
+        en: 'Semester',
+        ru: 'Семестр',
+    },
+    {
+        en: 'Signal',
+        ru: 'Сигнал',
+    },
+    {
+        en: 'Transform',
+        ru: 'Превращаться',
+    },
+    {
+        en: 'Vomit',
+        ru: 'Рвать, тошнить',
+    },
+    {
+        en: 'Wood',
+        ru: 'Дерево',
+    },
+    {
+        en: 'Talk show',
+        ru: 'Ток-шоу',
+    },
+    {
+        en: 'Agility',
+        ru: 'Ловкость',
+    },
+    {
+        en: 'Association',
+        ru: 'Ассоциация',
+    },
+    {
+        en: 'Berry',
+        ru: 'Ягода',
+    },
+    {
+        en: 'Bomb',
+        ru: 'Бомба',
+    },
+    {
+        en: 'Camp',
+        ru: 'Лагерь',
+    },
+    {
+        en: 'Category',
+        ru: 'Категория',
+    },
+    {
+        en: 'Clown',
+        ru: 'Клоун',
+    },
+    {
+        en: 'Collection',
+        ru: 'Коллекция',
+    },
+    {
+        en: 'Combine',
+        ru: 'Совмещать',
+    },
+    {
+        en: 'Communication',
+        ru: 'Общение',
+    },
+    {
+        en: 'Confiscate',
+        ru: 'Конфисковать',
+    },
+    {
+        en: 'Defend',
+        ru: 'Защищать',
+    },
+    {
+        en: 'Endurance',
+        ru: 'Выносливость',
+    },
+    {
+        en: 'Establish',
+        ru: 'Основывать, создавать',
+    },
+    {
+        en: 'Expire',
+        ru: 'Истекать',
+    },
+    {
+        en: 'Explode',
+        ru: 'Взрывать',
+    },
+    {
+        en: 'Female',
+        ru: 'Женский',
+    },
+    {
+        en: 'Flash',
+        ru: 'Вспышка',
+    },
+    {
+        en: 'Force',
+        ru: 'Вынуждать',
+    },
+    {
+        en: 'Gather',
+        ru: 'Собирать',
+    },
+    {
+        en: 'Geography',
+        ru: 'География',
+    },
+    {
+        en: 'Humiliating',
+        ru: 'Унизительный',
+    },
+    {
+        en: 'Insert',
+        ru: 'Вставлять',
+    },
+    {
+        en: 'Locate',
+        ru: 'Разместить',
+    },
+    {
+        en: 'Mushroom',
+        ru: 'Гриб',
+    },
+    {
+        en: 'Nick',
+        ru: 'Ник',
+    },
+    {
+        en: 'Obey',
+        ru: 'Подчиняться',
+    },
+    {
+        en: 'Okay',
+        ru: 'Окей',
+    },
+    {
+        en: 'Practice',
+        ru: 'Практика',
+    },
+    {
+        en: 'Promote',
+        ru: 'Продвигать',
+    },
+    {
+        en: 'Railway station',
+        ru: 'Железнодорожная станция',
+    },
+    {
+        en: 'Resign',
+        ru: 'Уходить в отставку',
+    },
+    {
+        en: 'Shake',
+        ru: 'Трясти',
+    },
+    {
+        en: 'Specifically',
+        ru: 'Специально',
+    },
+    {
+        en: 'Speechless',
+        ru: 'Немой',
+    },
+    {
+        en: 'Stretching',
+        ru: 'Растяжка',
+    },
+    {
+        en: 'Technique',
+        ru: 'Техника',
+    },
+    {
+        en: 'Terrorism',
+        ru: 'Терроризм',
+    },
+    {
+        en: 'Trial',
+        ru: 'Пробный',
+    },
+    {
+        en: 'Vast',
+        ru: 'Оромный, обширный',
+    },
+    {
+        en: 'Zebra',
+        ru: 'Зебра',
+    },
+    {
+        en: 'End',
+        ru: 'Заканчивать, кончаться',
+    },
+    {
+        en: 'Pick up',
+        ru: 'Осваивать',
+    },
+    {
+        en: 'Face up to',
+        ru: 'Принять, смириться с',
+    },
+    {
+        en: 'Come up with',
+        ru: 'Прийти в голову',
+    },
+    {
+        en: 'Liven up',
+        ru: 'Оживить',
+    },
+    {
+        en: 'Pick up on',
+        ru: 'Улавливать',
+    },
+    {
+        en: 'Pull in',
+        ru: 'Зарабатывать, привлекать',
+    },
+    {
+        en: 'Own up',
+        ru: 'Признаться',
+    },
+    {
+        en: 'Get back to',
+        ru: 'Вернуться к',
+    },
+    {
+        en: 'Dawn on',
+        ru: 'Осенить',
+    },
+    {
+        en: 'Cling to',
+        ru: 'Цепляться за',
+    },
+    {
+        en: 'Take to',
+        ru: 'Начинать',
+    },
+    {
+        en: 'Bank on',
+        ru: 'Полагаться на',
+    },
+    {
+        en: 'Lay off',
+        ru: 'Увольнять',
+    },
+    {
+        en: 'Feel up to',
+        ru: 'Хотеть',
+    },
+    {
+        en: 'Mull over',
+        ru: 'обдумывать',
+    },
+    {
+        en: 'Churn out',
+        ru: 'Выпускать (о продукции)',
+    },
+    {
+        en: 'Accomplishment',
+        ru: 'Достижение',
+    },
+    {
+        en: 'Anxiety',
+        ru: 'Тревога',
+    },
+    {
+        en: 'Deceit',
+        ru: 'Обман',
+    },
+    {
+        en: 'Drastic',
+        ru: 'Решительный',
+    },
+    {
+        en: 'Gradually',
+        ru: 'Постепенно',
+    },
+    {
+        en: 'Identical',
+        ru: 'Идентичный',
+    },
+    {
+        en: 'Instantly',
+        ru: 'Мгновенно',
+    },
+    {
+        en: 'Nervousness',
+        ru: 'Нервозность',
+    },
+    {
+        en: 'Prolific',
+        ru: 'Продовитый',
+    },
+    {
+        en: 'Undeniably',
+        ru: 'Бесспорно',
+    },
+    {
+        en: 'Look up',
+        ru: 'Налаживать',
+    },
+    {
+        en: 'Back down',
+        ru: 'Отступать',
+    },
+    {
+        en: 'Live up to',
+        ru: 'Оправдать',
+    },
+    {
+        en: 'Account for',
+        ru: 'Объяснять',
+    },
+    {
+        en: 'Brush up on',
+        ru: 'Освежать в памяти',
+    },
+    {
+        en: 'Spark off',
+        ru: 'Вызывать',
+    },
+    {
+        en: 'Come down to',
+        ru: 'Сводиться к',
+    },
+    {
+        en: 'Boil down to',
+        ru: 'Сводиться к',
+    },
+    {
+        en: 'Carried away',
+        ru: 'Увлечен',
+    },
+    {
+        en: 'Occur to',
+        ru: 'Приходить в голову',
+    },
+    {
+        en: 'Fall through',
+        ru: 'Провалиться',
+    },
+    {
+        en: 'Slog away',
+        ru: 'Усердно трудиться',
+    },
+    {
+        en: 'Gobble up',
+        ru: 'Проглотить, сожрать',
+    },
+    {
+        en: 'Turn down',
+        ru: 'Отклонить, убавить',
+    },
+    {
+        en: 'Iron out',
+        ru: 'Уладить, сгладить',
+    },
+    {
+        en: 'Astonishment',
+        ru: 'Удивление',
+    },
+    {
+        en: 'Balanced',
+        ru: 'Сбалансированный',
+    },
+    {
+        en: 'Biscuit',
+        ru: 'Печенье',
+    },
+    {
+        en: 'Disappearance',
+        ru: 'Исчезновение',
+    },
+    {
+        en: 'Fatty',
+        ru: 'Жирный',
+    },
+    {
+        en: 'Heated',
+        ru: 'Жаркий',
+    },
+    {
+        en: 'Inability',
+        ru: 'Неспособность',
+    },
+    {
+        en: 'Missing',
+        ru: 'Отсутствующий',
+    },
+    {
+        en: 'Overheat',
+        ru: 'Перегреваться',
+    },
+    {
+        en: 'Ringer',
+        ru: 'Звонок',
+    },
+    {
+        en: 'Spendings',
+        ru: 'Траты',
+    },
+    {
+        en: 'Strike',
+        ru: 'Поражать, удар',
+    },
+    {
+        en: 'Unlocked',
+        ru: 'Не запертая',
+    },
+    {
+        en: 'Unsolved',
+        ru: 'Нерешенный',
+    },
+    {
+        en: 'Via',
+        ru: 'Через',
+    },
+    {
+        en: 'Pour down',
+        ru: 'Льет, льет дождь',
+    },
+    {
+        en: 'Plug info',
+        ru: 'Включить в, подключить к',
+    },
+    {
+        en: 'Plug in',
+        ru: 'Подключить к сети',
+    },
+    {
+        en: 'Write off',
+        ru: 'Списать',
+    },
+    {
+        en: 'Put across',
+        ru: 'Донести',
+    },
+    {
+        en: 'Get across',
+        ru: 'Донести',
+    },
+    {
+        en: 'Bump into',
+        ru: 'Наткнуться на',
+    },
+    {
+        en: 'Run across',
+        ru: 'Наткнуться на',
+    },
+    {
+        en: 'Clamp down',
+        ru: 'Подавить, расправиться с',
+    },
+    {
+        en: 'Crack down',
+        ru: 'Подавить, расправиться с',
+    },
+    {
+        en: 'Run through',
+        ru: 'Пробежаться по',
+    },
+    {
+        en: 'Hold up',
+        ru: 'Застрять',
+    },
+    {
+        en: 'Work out',
+        ru: 'Заниматься, понять',
+    },
+    {
+        en: 'Dwell on',
+        ru: 'Останавливаться на',
+    },
+    {
+        en: 'Doze off',
+        ru: 'Задремать',
+    },
+    {
+        en: 'Nod off',
+        ru: 'Задремать',
+    },
+    {
+        en: 'Run up against',
+        ru: 'Сталкнуться с',
+    },
+    {
+        en: 'Battery',
+        ru: 'Батарея',
+    },
+    {
+        en: 'Vacuum cleaner',
+        ru: 'Пылесос',
+    },
+    {
+        en: 'Evasion',
+        ru: 'Уклонение',
+    },
+    {
+        en: 'Fierce',
+        ru: 'Свирепый',
+    },
+    {
+        en: 'Fog',
+        ru: 'Туман',
+    },
+    {
+        en: 'Former',
+        ru: 'Бывший',
+    },
+    {
+        en: 'Hairdryer',
+        ru: 'Фен',
+    },
+    {
+        en: 'Immigration',
+        ru: 'Иммиграция',
+    },
+    {
+        en: 'Obstacle',
+        ru: 'Препятствие',
+    },
+    {
+        en: 'Protestor',
+        ru: 'Протестующий',
+    },
+    {
+        en: 'Riot',
+        ru: 'Беспорядок',
+    },
+    {
+        en: 'Soak',
+        ru: 'Промокать',
+    },
+    {
+        en: 'Socket',
+        ru: 'Розетка',
+    },
+    {
+        en: 'Tackle',
+        ru: 'Решать',
+    },
+    {
+        en: 'Toaster',
+        ru: 'Тостер',
+    },
+    {
+        en: 'Fall apart',
+        ru: 'Развалиться',
+    },
+    {
+        en: 'Hold back',
+        ru: 'Сдерживать',
+    },
+    {
+        en: 'Hack into',
+        ru: 'Взломать',
+    },
+    {
+        en: 'Speed up',
+        ru: 'Ускорить',
+    },
+    {
+        en: 'Stick to',
+        ru: 'Придерживаться',
+    },
+    {
+        en: 'Hold on',
+        ru: 'Ждать',
+    },
+    {
+        en: 'Polish up',
+        ru: 'Усовершенствовать',
+    },
+    {
+        en: 'Go over',
+        ru: 'Повторить, пройти',
+    },
+    {
+        en: 'Settle down',
+        ru: 'Остепениться',
+    },
+    {
+        en: 'Anticipation',
+        ru: 'Предвкушение',
+    },
+    {
+        en: 'Central',
+        ru: 'Центральный',
+    },
+    {
+        en: 'Database',
+        ru: 'База данных',
+    },
+    {
+        en: 'Gang',
+        ru: 'Банда',
+    },
+    {
+        en: 'Junction',
+        ru: 'Перекресток',
+    },
+    {
+        en: 'Preference',
+        ru: 'Предпочтение',
+    },
+    {
+        en: 'Registration',
+        ru: 'Регистрация',
+    },
+    {
+        en: 'Sunshine',
+        ru: 'СОлнечный свет',
+    },
+    {
+        en: 'Unlimited',
+        ru: 'Безгарничный',
+    },
+    {
+        en: 'Unprofitable',
+        ru: 'Убыточный, неприбыльный',
+    },
+    {
+        en: 'Willpower',
+        ru: 'Сила воли',
+    },
+    {
+        en: 'Look in',
+        ru: 'Заглянуть к',
+    },
+    {
+        en: 'Deprive of',
+        ru: 'Лишать',
+    },
+    {
+        en: 'Sell out',
+        ru: 'Распродавать',
+    },
+    {
+        en: 'Buy up',
+        ru: 'Скупать',
+    },
+    {
+        en: 'Wear out',
+        ru: 'Изматываться, изнашиваться',
+    },
+    {
+        en: 'Use up',
+        ru: 'Израсходовать',
+    },
+    {
+        en: 'Show off',
+        ru: 'Выпендриваться',
+    },
+    {
+        en: 'Take on',
+        ru: 'Нанимать',
+    },
+    {
+        en: 'Rip off',
+        ru: 'Грабить',
+    },
+    {
+        en: 'Measure up',
+        ru: 'Соответствовать',
+    },
+    {
+        en: 'Note down',
+        ru: 'Записать',
+    },
+    {
+        en: 'Keep off',
+        ru: 'Воздерживаться от, не ходить по',
+    },
+    {
+        en: 'Die down',
+        ru: 'Утихать',
+    },
+    {
+        en: 'Applause',
+        ru: 'Аплодисменты',
+    },
+    {
+        en: 'Breakthrough',
+        ru: 'Прорыв',
+    },
+    {
+        en: 'Daylight',
+        ru: 'Дневной свет',
+    },
+    {
+        en: 'Eagerly',
+        ru: 'Охотно',
+    },
+    {
+        en: 'Efficiently',
+        ru: 'Эффективно',
+    },
+    {
+        en: 'Gossip',
+        ru: 'Сплетня',
+    },
+    {
+        en: 'Grass',
+        ru: 'Трава',
+    },
+    {
+        en: 'Imprison',
+        ru: 'Заключать в тюрьму',
+    },
+    {
+        en: 'Inspiring',
+        ru: 'Вдозновляющий',
+    },
+    {
+        en: 'Mask',
+        ru: 'Маска',
+    },
+    {
+        en: 'Persistent',
+        ru: 'Настойчивый',
+    },
+    {
+        en: 'Premiere',
+        ru: 'Премьера',
+    },
+    {
+        en: 'Pursuit',
+        ru: 'Погоня',
+    },
+    {
+        en: 'Reckless',
+        ru: 'Безрассудный',
+    },
+    {
+        en: 'Rip-off',
+        ru: 'Грабеж',
+    },
+    {
+        en: 'Sadly',
+        ru: 'Грустно',
+    },
+    {
+        en: 'Trainee',
+        ru: 'Стажер',
+    },
+    {
+        en: 'Carry out',
+        ru: 'Выполнять',
+    },
+    {
+        en: 'Drop off',
+        ru: 'Задремать',
+    },
+    {
+        en: 'Copy down',
+        ru: 'Переписать',
+    },
+    {
+        en: 'Cut up',
+        ru: 'Разрезать',
+    },
+    {
+        en: 'Clear up',
+        ru: 'Убрать',
+    },
+    {
+        en: 'Drop in',
+        ru: 'Зайти, глянуть',
+    },
+    {
+        en: 'Call in',
+        ru: 'Зайти, заглянуть',
+    },
+    {
+        en: 'Call on',
+        ru: 'Навещать',
+    },
+    {
+        en: 'Grow out of',
+        ru: 'Вырасти из',
+    },
+    {
+        en: 'Hand out',
+        ru: 'Раздавать',
+    },
+    {
+        en: 'Cut in',
+        ru: 'Перебивать, прервывать',
+    },
+    {
+        en: 'Bring off',
+        ru: 'Успешно выполнять',
+    },
+    {
+        en: 'Black out',
+        ru: 'Терять сознание',
+    },
+    {
+        en: 'Pass out',
+        ru: 'Терять сознание',
+    },
+    {
+        en: 'Anytime',
+        ru: 'В любое время',
+    },
+    {
+        en: 'Blood',
+        ru: 'Кровь',
+    },
+    {
+        en: 'Breakdown',
+        ru: 'Срыв',
+    },
+    {
+        en: 'Brink',
+        ru: 'Грань',
+    },
+    {
+        en: 'CEO',
+        ru: 'Генеральный директор',
+    },
+    {
+        en: 'Clutter',
+        ru: 'Хлам',
+    },
+    {
+        en: 'Helper',
+        ru: 'Помощник',
+    },
+    {
+        en: 'Pot',
+        ru: 'Кастрюля',
+    },
+    {
+        en: 'Tragic',
+        ru: 'Трагический',
+    },
+    {
+        en: 'Whenever',
+        ru: 'Всякий раз, когда',
+    },
+    {
+        en: 'Wonderfully',
+        ru: 'Замечательно',
+    },
+    {
+        en: 'Worksheet',
+        ru: 'Рабочий материал',
+    },
+    {
+        en: 'Clean up',
+        ru: 'Убираться',
+    },
+    {
+        en: 'Be into',
+        ru: 'Интересоваться',
+    },
+    {
+        en: 'Fall behind',
+        ru: 'Отставать',
+    },
+    {
+        en: 'Catch up',
+        ru: 'Догнать',
+    },
+    {
+        en: 'Hand in',
+        ru: 'Подавать',
+    },
+    {
+        en: 'Read up on',
+        ru: 'Читать дополнительный материал',
+    },
+    {
+        en: 'Draw up',
+        ru: 'Составлять',
+    },
+    {
+        en: 'Knock off',
+        ru: 'Заканчивать, прерываться',
+    },
+    {
+        en: 'Slack off',
+        ru: 'Расслабляться, снижать темп работы',
+    },
+    {
+        en: 'Weigh up',
+        ru: 'Взвесить',
+    },
+    {
+        en: 'Come up',
+        ru: 'Подойти, происходить',
+    },
+    {
+        en: 'Call back',
+        ru: 'Перезвонить',
+    },
+    {
+        en: 'Annoyance',
+        ru: 'Раздражение',
+    },
+    {
+        en: 'Berserk',
+        ru: 'Бешеный',
+    },
+    {
+        en: 'Pros and cons',
+        ru: 'За и против',
+    },
+    {
+        en: 'Deadline',
+        ru: 'Крайний срок',
+    },
+    {
+        en: 'Deceive',
+        ru: 'Обманывать',
+    },
+    {
+        en: 'Inseparable',
+        ru: 'Неотъемлемый',
+    },
+    {
+        en: 'Option',
+        ru: 'Вариант',
+    },
+    {
+        en: 'Persuasive',
+        ru: 'Убедительный',
+    },
+    {
+        en: 'Resignation',
+        ru: 'Отставка',
+    },
+    {
+        en: 'Straight',
+        ru: 'Прямой',
+    },
+    {
+        en: 'Update',
+        ru: 'Обновление',
+    },
+    {
+        en: 'Yoga',
+        ru: 'Йога',
+    },
+    {
+        en: 'Sort out',
+        ru: 'Уладить',
+    },
+    {
+        en: 'Bail out',
+        ru: 'Выручить',
+    },
+    {
+        en: 'Do up',
+        ru: 'Чинить, ремонтировать',
+    },
+    {
+        en: 'Pop into',
+        ru: 'Заскочить в',
+    },
+    {
+        en: 'Splash out',
+        ru: 'Сорить деньгами, тратиться',
+    },
+    {
+        en: 'Fall for',
+        ru: 'Влюбиться, попадать',
+    },
+    {
+        en: 'Take out',
+        ru: 'Выносить, вынимать',
+    },
+    {
+        en: 'Mop up',
+        ru: 'Вытирать',
+    },
+    {
+        en: 'Cloth',
+        ru: 'Тряпка',
+    },
+    {
+        en: 'Garbage',
+        ru: 'Мусор',
+    },
+    {
+        en: 'Lad',
+        ru: 'Парень',
+    },
+    {
+        en: 'Originally',
+        ru: 'Изначально',
+    },
+    {
+        en: 'Persistence',
+        ru: 'Настойчивость',
+    },
+    {
+        en: 'Rural',
+        ru: 'Сельский',
+    },
+    {
+        en: 'Seatbelt',
+        ru: 'Ремень безопасности',
+    },
+    {
+        en: 'Spilt',
+        ru: 'Разлитый',
+    },
+    {
+        en: 'Trash',
+        ru: 'Мусор',
+    },
+    {
+        en: 'Trick',
+        ru: 'Трюк',
+    },
+    {
+        en: 'Unsatisfactory',
+        ru: 'Неудовлетворительный',
+    },
+    {
+        en: 'Look down',
+        ru: 'Смотреть свысока',
+    },
+    {
+        en: 'Write down',
+        ru: 'Записывать',
+    },
+    {
+        en: 'Aversion',
+        ru: 'Отвращение',
+    },
+    {
+        en: 'Blank',
+        ru: 'Бланк',
+    },
+    {
+        en: 'Cooperative',
+        ru: 'Сговорчивые, совместные',
+    },
+    {
+        en: 'Dawn',
+        ru: 'Рассвет',
+    },
+    {
+        en: 'Jog',
+        ru: 'Пробежка',
+    },
+    {
+        en: 'Let in',
+        ru: 'Впускать',
+    },
+    {
+        en: 'Add up to',
+        ru: 'Способствовать',
+    },
+    {
+        en: 'Hold out',
+        ru: 'Протягивать, питать',
+    },
+    {
+        en: 'Knock down',
+        ru: 'Сбить с ног',
+    },
+    {
+        en: 'Turn out',
+        ru: 'Оказаться',
+    },
+    {
+        en: 'Turn in',
+        ru: 'Лечь спать',
+    },
+    {
+        en: 'Turn on',
+        ru: 'Включить',
+    },
+    {
+        en: 'Run into',
+        ru: 'Столкнуться',
+    },
+    {
+        en: 'Run off',
+        ru: 'Сбежать',
+    },
+    {
+        en: 'Turn up',
+        ru: 'Сделать громче',
+    },
+    {
+        en: 'Ad',
+        ru: 'Рекламное объявление',
+    },
+    {
+        en: 'Bankrupt',
+        ru: 'Банкрот',
+    },
+    {
+        en: 'Commute',
+        ru: 'Ехать, добираться',
+    },
+    {
+        en: 'Delight',
+        ru: 'Восторг',
+    },
+    {
+        en: 'Ensure',
+        ru: 'Убедиться',
+    },
+    {
+        en: 'Freezing',
+        ru: 'Холодно, ледяной',
+    },
+    {
+        en: 'Opponent',
+        ru: 'Соперник',
+    },
+    {
+        en: 'Unbearable',
+        ru: 'Невыносимый',
+    },
+    {
+        en: 'Safe',
+        ru: 'Сейф',
+    },
+    {
+        en: 'Pay back',
+        ru: 'Выплатить',
+    },
+    {
+        en: 'Look out',
+        ru: 'Быть осторожным, выглядывать',
+    },
+    {
+        en: 'Broke in',
+        ru: 'Вломиться',
+    },
+    {
+        en: 'Fall out',
+        ru: 'Ссориться',
+    },
+    {
+        en: 'Come across as',
+        ru: 'Казаться',
+    },
+    {
+        en: 'Piece together',
+        ru: 'Собрать воедино',
+    },
+    {
+        en: 'Look out for',
+        ru: 'Следить, наблюдать',
+    },
+    {
+        en: 'Mix up',
+        ru: 'Путать',
+    },
+    {
+        en: 'Pass away',
+        ru: 'Скончаться',
+    },
+    {
+        en: 'Detective',
+        ru: 'Детектив',
+    },
+    {
+        en: 'Graduation',
+        ru: 'Окончание',
+    },
+    {
+        en: 'Handy',
+        ru: 'Удобный',
+    },
+    {
+        en: 'Intervene',
+        ru: 'Вмешиваться',
+    },
+    {
+        en: 'Loan',
+        ru: 'Кредит',
+    },
+    {
+        en: 'Mystery',
+        ru: 'Загадка',
+    },
+    {
+        en: 'Pickpocket',
+        ru: 'Карманник',
+    },
+    {
+        en: 'Shyness',
+        ru: 'Застенчивость',
+    },
+    {
+        en: 'Show up',
+        ru: 'Появляться',
+    },
+    {
+        en: 'Set off',
+        ru: 'Отправляться',
+    },
+    {
+        en: 'Get together',
+        ru: 'Собираться',
+    },
+    {
+        en: 'Tell off',
+        ru: 'Отчитать',
+    },
+    {
+        en: 'Try on',
+        ru: 'Примерять',
+    },
+    {
+        en: 'Go through',
+        ru: 'Проходить через',
+    },
+    {
+        en: 'Get out',
+        ru: 'Убрать, избавиться от',
+    },
+    {
+        en: 'Speak up',
+        ru: 'Говорить громче',
+    },
+    {
+        en: 'Barely',
+        ru: 'Едва',
+    },
+    {
+        en: 'Bully',
+        ru: 'Издеваться',
+    },
+    {
+        en: 'Lunchtime',
+        ru: 'Время обеда',
+    },
+    {
+        en: 'Microphone',
+        ru: 'Микрофон',
+    },
+    {
+        en: 'Predict',
+        ru: 'Предсказать',
+    },
+    {
+        en: 'Warning',
+        ru: 'Предупреждение',
+    },
+    {
+        en: 'Go on',
+        ru: 'Идти дальше',
+    },
+    {
+        en: 'Burst into',
+        ru: 'Разразиться',
+    },
+    {
+        en: 'Get in',
+        ru: 'Входить, попадать в',
+    },
+    {
+        en: 'Burn down',
+        ru: 'Сгореть, сжигать',
+    },
+    {
+        en: 'Turn into',
+        ru: 'Превратиться в',
+    },
+    {
+        en: 'Burst out',
+        ru: 'Разразиться',
+    },
+    {
+        en: 'Stand out',
+        ru: 'Выделяться',
+    },
+    {
+        en: 'Freak out',
+        ru: 'Сходить с ума',
+    },
+    {
+        en: 'Hang up',
+        ru: 'Вешать трубку',
+    },
+    {
+        en: 'Hang on',
+        ru: 'Ждать',
+    },
+    {
+        en: 'Fairy tail',
+        ru: 'Сказка',
+    },
+    {
+        en: 'Adorable',
+        ru: 'Очаровательная',
+    },
+    {
+        en: 'Businesswoman',
+        ru: 'Деловая женщина',
+    },
+    {
+        en: 'Cute',
+        ru: 'Милый',
+    },
+    {
+        en: 'Invader',
+        ru: 'Захватчик',
+    },
+    {
+        en: 'Judgment',
+        ru: 'Суждение',
+    },
+    {
+        en: 'Laughter',
+        ru: 'Смех',
+    },
+    {
+        en: 'Prisoner',
+        ru: 'Заключенный',
+    },
+    {
+        en: 'Tiny',
+        ru: 'Крошечный',
+    },
+    {
+        en: 'Worldwide',
+        ru: 'Мировой',
+    },
+    {
+        en: 'Knock out',
+        ru: 'Нокаутировать, вырубить',
+    },
+    {
+        en: 'Break off',
+        ru: 'Разорвать',
+    },
+    {
+        en: 'Run over',
+        ru: 'Сбить, пробежаться',
+    },
+    {
+        en: 'Do without',
+        ru: 'Обойтись',
+    },
+    {
+        en: 'Sum up',
+        ru: 'Подводить итог',
+    },
+    {
+        en: 'Throw up',
+        ru: 'Рвать',
+    },
+    {
+        en: 'Move in',
+        ru: 'Въехать',
+    },
+    {
+        en: 'Call round',
+        ru: 'Заходить',
+    },
+    {
+        en: 'Jot down',
+        ru: 'Записать',
+    },
+    {
+        en: 'Warm up',
+        ru: 'Разогреть, разминаться',
+    },
+    {
+        en: 'Hang around',
+        ru: 'Слоняться',
+    },
+    {
+        en: 'Act up',
+        ru: 'Капризничать',
+    },
+    {
+        en: 'Go together',
+        ru: 'Сочетаться',
+    },
+    {
+        en: 'Do over',
+        ru: 'Переделать, сделать заново',
+    },
+    {
+        en: 'See to',
+        ru: 'Позаботиться',
+    },
+    {
+        en: 'Blouse',
+        ru: 'Блузка',
+    },
+    {
+        en: 'Breath',
+        ru: 'Дыхание',
+    },
+    {
+        en: 'Diplomatic',
+        ru: 'Дипломатический',
+    },
+    {
+        en: 'Distant',
+        ru: 'Отдаленный',
+    },
+    {
+        en: 'Engagement',
+        ru: 'Помолвка',
+    },
+    {
+        en: 'Formality',
+        ru: 'Формальность',
+    },
+    {
+        en: 'Lorry',
+        ru: 'Грузовик',
+    },
+    {
+        en: 'Poison',
+        ru: 'Яд',
+    },
+    {
+        en: 'Upstairs',
+        ru: 'Вверх по лестнице',
+    },
+    {
+        en: 'Youth',
+        ru: 'Молодежь',
+    },
+    {
+        en: 'Will',
+        ru: 'Воля',
+    },
+    {
+        en: 'Go ahead with',
+        ru: 'Приступить',
+    },
+    {
+        en: 'Answer back',
+        ru: 'Грубить',
+    },
+    {
+        en: 'Leap at',
+        ru: 'Ухватиться за',
+    },
+    {
+        en: 'Leave aside',
+        ru: 'Оставить в стороне',
+    },
+    {
+        en: 'Move out',
+        ru: 'Съезжать',
+    },
+    {
+        en: 'Bring in',
+        ru: 'Привлечь',
+    },
+    {
+        en: 'Meet up',
+        ru: 'Встретиться',
+    },
+    {
+        en: 'Drop by',
+        ru: 'Заходить',
+    },
+    {
+        en: 'Run down',
+        ru: 'Сбить',
+    },
+    {
+        en: 'Hang about',
+        ru: 'Слоняться без дела',
+    },
+    {
+        en: 'Head for',
+        ru: 'Направляться',
+    },
+    {
+        en: 'Come round',
+        ru: 'Заходить, заглянуть',
+    },
+    {
+        en: 'Advisor',
+        ru: 'Консультант',
+    },
+    {
+        en: 'Aside',
+        ru: 'В сторону',
+    },
+    {
+        en: 'Cyclist',
+        ru: 'Велосипедист',
+    },
+    {
+        en: 'Disadvantaged',
+        ru: 'Малообеспеченный',
+    },
+    {
+        en: 'Highway',
+        ru: 'Шоссе',
+    },
+    {
+        en: 'Pride',
+        ru: 'Гордость',
+    },
+    {
+        en: 'Unsurprising',
+        ru: 'Неудивительный',
+    },
+    {
+        en: 'Stand up for',
+        ru: 'Отстаивать',
+    },
+    {
+        en: 'Turn back',
+        ru: 'Повернуть назад',
+    },
+    {
+        en: 'Set out',
+        ru: 'Отправиться',
+    },
+    {
+        en: 'Mess around',
+        ru: 'Бездельничать',
+    },
+    {
+        en: 'Wind up',
+        ru: 'Оказаться',
+    },
+    {
+        en: 'Stay in',
+        ru: 'Оставаться дома',
+    },
+    {
+        en: 'Rub out',
+        ru: 'Стереть',
+    },
+    {
+        en: 'Stay out',
+        ru: 'Отсутствовать, гулять',
+    },
+    {
+        en: 'Think ahead',
+        ru: 'Думать наперед',
+    },
+    {
+        en: 'Get off',
+        ru: 'Сойти, выйти',
+    },
+    {
+        en: 'Sign out',
+        ru: 'Выписаться',
+    },
+    {
+        en: 'Move on to',
+        ru: 'Перейти к',
+    },
+    {
+        en: 'Read out',
+        ru: 'Зачитывать',
+    },
+    {
+        en: 'Scribble down',
+        ru: 'Впопыхах записать',
+    },
+    {
+        en: 'Sign up',
+        ru: 'Записаться',
+    },
+    {
+        en: 'Bottle up',
+        ru: 'Сдерживать, скрывать',
+    },
+    {
+        en: 'Hatred',
+        ru: 'Ненависть',
+    },
+    {
+        en: 'Hostility',
+        ru: 'Враждебность',
+    },
+    {
+        en: 'Journey',
+        ru: 'Путешествие',
+    },
+    {
+        en: 'Resentment',
+        ru: 'Обида, возмущение',
+    },
+    {
+        en: 'Stain',
+        ru: 'Пятно',
+    },
+    {
+        en: 'Sunrise',
+        ru: 'Рассвет',
+    },
+    {
+        en: 'Teen',
+        ru: 'Подросток',
+    },
+    {
+        en: 'Traveller',
+        ru: 'Путешественник',
+    },
+    {
+        en: 'Be up to',
+        ru: 'Решать',
+    },
+    {
+        en: 'Sign in',
+        ru: 'Зарегистрироваться, войти в систему',
+    },
+    {
+        en: 'Let out',
+        ru: 'Выпускать',
+    },
+    {
+        en: 'Pay off',
+        ru: 'Окупаться',
+    },
+    {
+        en: 'Plan ahead',
+        ru: 'Планировать заранее',
+    },
+    {
+        en: 'Fill out',
+        ru: 'Заполнить',
+    },
+    {
+        en: 'Heat up',
+        ru: 'Нагревать, подогревать',
+    },
+    {
+        en: 'Shop around',
+        ru: 'Присмотерться, подыскивать',
+    },
+    {
+        en: 'Try out',
+        ru: 'Опробовать',
+    },
+    {
+        en: 'Taken aback',
+        ru: 'Ошеломлен',
+    },
+    {
+        en: 'Dwell upon',
+        ru: 'Останавливаться на',
+    },
+    {
+        en: 'Mess about',
+        ru: 'Бездельничать',
+    },
+    {
+        en: 'Keep on',
+        ru: 'Продолжать',
+    },
+    {
+        en: 'Go with',
+        ru: 'Сочетаться',
+    },
+    {
+        en: 'Laze around',
+        ru: 'Бездельничать',
+    },
+    {
+        en: 'Move up to',
+        ru: 'Придвинуться',
+    },
+    {
+        en: 'Switch on',
+        ru: 'Включить',
+    },
+    {
+        en: 'Pick at',
+        ru: 'Придираться',
+    },
+    {
+        en: 'Comfortably',
+        ru: 'Удобно',
+    },
+    {
+        en: 'Declaration',
+        ru: 'Декларация',
+    },
+    {
+        en: 'Directness',
+        ru: 'Прямота',
+    },
+    {
+        en: 'Instruct',
+        ru: 'Инструктировать',
+    },
+    {
+        en: 'Long-term',
+        ru: 'Долгосрочный',
+    },
+    {
+        en: 'Microwave',
+        ru: 'Микроволновая печь',
+    },
+    {
+        en: 'Pill',
+        ru: 'Таблетка',
+    },
+    {
+        en: 'Planning',
+        ru: 'Планирование',
+    },
+    {
+        en: 'Reception',
+        ru: 'Стойка регистрации',
+    },
+    {
+        en: 'Upon',
+        ru: 'На',
+    },
+    {
+        en: 'Vary',
+        ru: 'Варьироваться',
+    },
+    {
+        en: 'Fool about',
+        ru: 'Валять дурака, дурачиться',
+    },
+    {
+        en: 'Zoom in',
+        ru: 'Увеличить изображение',
+    },
+    {
+        en: 'Zoom out',
+        ru: 'Уменьшить изображение',
+    },
+    {
+        en: 'Hear from',
+        ru: 'Слышать от, получать вести от',
+    },
+    {
+        en: 'Grow on',
+        ru: 'Нравиться все больше',
+    },
+    {
+        en: 'Ring back',
+        ru: 'Перезвонить',
+    },
+    {
+        en: 'Ask around',
+        ru: 'Спрашивать вокруг',
+    },
+    {
+        en: 'Keep away from',
+        ru: 'Держаться подальше от',
+    },
+    {
+        en: 'Phone back',
+        ru: 'Перезвонить',
+    },
+    {
+        en: 'Eat in',
+        ru: 'Питаться дома',
+    },
+    {
+        en: 'Tear up',
+        ru: 'Разрывать',
+    },
+    {
+        en: 'Boot up',
+        ru: 'Загружать',
+    },
+    {
+        en: 'Laze about',
+        ru: 'Бездельничать',
+    },
+    {
+        en: 'Lie down',
+        ru: 'Прилечь',
+    },
+    {
+        en: 'Tidy up',
+        ru: 'Убирать',
+    },
+    {
+        en: 'Call by',
+        ru: 'Зайти',
+    },
+    {
+        en: 'Ardent',
+        ru: 'Ярый',
+    },
+    {
+        en: 'Despair',
+        ru: 'Отчаяние',
+    },
+    {
+        en: 'Edge',
+        ru: 'Край',
+    },
+    {
+        en: 'Examination',
+        ru: 'Экзамен',
+    },
+    {
+        en: 'Fabulously',
+        ru: 'Баснословно',
+    },
+    {
+        en: 'Meaningful',
+        ru: 'Осмысленный',
+    },
+    {
+        en: 'Observer',
+        ru: 'Наблюдатель',
+    },
+    {
+        en: 'Onlooker',
+        ru: 'Наблюдатель',
+    },
+    {
+        en: 'Phenomenally',
+        ru: 'Феноменально',
+    },
+    {
+        en: 'Notice',
+        ru: 'Уведомление',
+    },
+    {
+        en: 'Look over',
+        ru: 'Просматривать',
+    },
+    {
+        en: 'Beat up',
+        ru: 'Избивать',
+    },
+    {
+        en: 'Cross out',
+        ru: 'Вычеркнуть',
+    },
+    {
+        en: 'Keep up',
+        ru: 'Продолжать',
+    },
+    {
+        en: 'Change into',
+        ru: 'Превратиться в',
+    },
+    {
+        en: 'Bo back on',
+        ru: 'Отказаться от',
+    },
+    {
+        en: 'See after',
+        ru: 'Присматривать за',
+    },
+    {
+        en: 'Destination',
+        ru: 'Место назначения',
+    },
+    {
+        en: 'Deteriorate',
+        ru: 'Ухудшаться, портиться',
+    },
+    {
+        en: 'Inexplicable',
+        ru: 'Необъяснимый',
+    },
+    {
+        en: 'Reject',
+        ru: 'Отклонять',
+    },
+    {
+        en: 'Restriction',
+        ru: 'Ограничение',
+    },
+    {
+        en: 'For the sake',
+        ru: 'Ради',
+    },
+    {
+        en: 'Spot',
+        ru: 'Замечать',
+    },
+    {
+        en: 'Fall down',
+        ru: 'Упасть',
+    },
+    {
+        en: 'Bear with',
+        ru: 'Потерпеть',
+    },
+    {
+        en: 'Help out',
+        ru: 'Выручать',
+    },
+    {
+        en: 'Wash up',
+        ru: 'Мыть посуду',
+    },
+    {
+        en: 'Slip up',
+        ru: 'Ошибиться',
+    },
+    {
+        en: 'Branch out',
+        ru: 'Разветвляться',
+    },
+    {
+        en: 'Send out',
+        ru: 'Рассылать',
+    },
+    {
+        en: 'Balloon',
+        ru: 'Воздушный шар',
+    },
+    {
+        en: 'CV',
+        ru: 'Резюме',
+    },
+    {
+        en: 'Electronics',
+        ru: 'Электроника',
+    },
+    {
+        en: 'Fake',
+        ru: 'Подделка',
+    },
+    {
+        en: 'Grab',
+        ru: 'Схватить',
+    },
+    {
+        en: 'Pavement',
+        ru: 'Тротуар',
+    },
+    {
+        en: 'Prepayment',
+        ru: 'Предоплата',
+    },
+    {
+        en: 'Rotten',
+        ru: 'Гнилой',
+    },
+    {
+        en: 'Scent',
+        ru: 'Запах',
+    },
+    {
+        en: 'Straightaway',
+        ru: 'Немедленно сразу',
+    },
+    {
+        en: 'Stumble',
+        ru: 'Спотыкаться',
+    },
+    {
+        en: 'Unfamiliar',
+        ru: 'Незнакомый',
+    },
+    {
+        en: 'Within',
+        ru: 'В течение',
+    },
+    {
+        en: 'Acknowledge',
+        ru: 'Признавать',
+    },
+    {
+        en: 'Distinctly',
+        ru: 'Отчетливо',
+    },
+    {
+        en: 'Immense',
+        ru: 'Огромный',
+    },
+    {
+        en: 'Impact',
+        ru: 'Влияние, влиять',
+    },
+    {
+        en: 'Pronounce',
+        ru: 'Произносить',
+    },
+    {
+        en: 'Puzzle',
+        ru: 'Загадка',
+    },
+    {
+        en: 'Repeatedly',
+        ru: 'Повторно',
+    },
+    {
+        en: 'Requirement',
+        ru: 'Требование',
+    },
+    {
+        en: 'Schoolchildren',
+        ru: 'Школьники',
+    },
+    {
+        en: 'Strategy',
+        ru: 'Стратегия',
+    },
+    {
+        en: 'Untouched',
+        ru: 'Нетронутый',
+    },
+    {
+        en: 'Examine',
+        ru: 'Обследовать',
+    },
+    {
+        en: 'Victim',
+        ru: 'Жертва',
+    },
+    {
+        en: 'Review',
+        ru: 'Пересмотреть',
+    },
+    {
+        en: 'Depress',
+        ru: 'Угнетать',
+    },
+    {
+        en: 'Prolong',
+        ru: 'Продлить',
+    },
+    {
+        en: 'Skilfully',
+        ru: 'Искусно',
+    },
+    {
+        en: 'Ungrateful',
+        ru: 'Неблагодарный',
+    },
+    {
+        en: 'Amateur',
+        ru: 'Любитель',
+    },
+    {
+        en: 'Breathtaking',
+        ru: 'Захватывающий',
+    },
+    {
+        en: 'Impatiently',
+        ru: 'Нетерпеливо',
+    },
+    {
+        en: 'Low-paid',
+        ru: 'Низкооплачиваемый',
+    },
+    {
+        en: 'Overseas',
+        ru: 'За рубежом',
+    },
+    {
+        en: 'Picturesque',
+        ru: 'Живописный',
+    },
+    {
+        en: 'Scarcely',
+        ru: 'Едва',
+    },
+    {
+        en: 'Spill',
+        ru: 'Проливать',
+    },
+    {
+        en: 'Well-behaved',
+        ru: 'Воспитанный',
+    },
+    {
+        en: 'Prime minister',
+        ru: 'Премьер-министр',
+    },
+    {
+        en: 'Indecisively',
+        ru: 'Нерешительно',
+    },
+    {
+        en: 'Offensively',
+        ru: 'Оскорбительно',
+    },
+    {
+        en: 'Pointless',
+        ru: 'Бессмысленно',
+    },
+    {
+        en: 'Reinvent',
+        ru: 'Изобретать заново',
+    },
+    {
+        en: 'Scream',
+        ru: 'Закричать',
+    },
+    {
+        en: 'Stage',
+        ru: 'Этап',
+    },
+    {
+        en: 'Systematically',
+        ru: 'Систематически',
+    },
+    {
+        en: 'Worthless',
+        ru: 'Бесполезно',
+    },
+    {
+        en: 'Accomplished',
+        ru: 'Искусный',
+    },
+    {
+        en: 'Banquet',
+        ru: 'Банкет',
+    },
+    {
+        en: 'Blissfully',
+        ru: 'Блаженно',
+    },
+    {
+        en: 'Composer',
+        ru: 'Композитор',
+    },
+    {
+        en: 'Dreadfully',
+        ru: 'Ужасно',
+    },
+    {
+        en: 'Enterprise',
+        ru: 'Предприятие',
+    },
+    {
+        en: 'Hugely',
+        ru: 'Весьма',
+    },
+    {
+        en: 'Illustrate',
+        ru: 'Иллюстрировать',
+    },
+    {
+        en: 'Miserable',
+        ru: 'Несчастный',
+    },
+    {
+        en: 'Negotiation',
+        ru: 'Переговоры',
+    },
+    {
+        en: 'Niche',
+        ru: 'Ниша',
+    },
+    {
+        en: 'Schooldays',
+        ru: 'Школьные годы',
+    },
+    {
+        en: 'Vaguely',
+        ru: 'Смутно',
+    },
+    {
+        en: 'Appalled',
+        ru: 'Потрясен',
+    },
+    {
+        en: 'Confession',
+        ru: 'Признание',
+    },
+    {
+        en: 'Devastated',
+        ru: 'Опустошенный',
+    },
+    {
+        en: 'Eternally',
+        ru: 'Вечно',
+    },
+    {
+        en: 'Exceptionally',
+        ru: 'Исключительно',
+    },
+    {
+        en: 'Painfully',
+        ru: 'Болезненно',
+    },
+    {
+        en: 'Patently',
+        ru: 'Совершенно',
+    },
+    {
+        en: 'Probable',
+        ru: 'Вероятный',
+    },
+    {
+        en: 'Readily',
+        ru: 'Легко',
+    },
+    {
+        en: 'Widely',
+        ru: 'Широко',
+    },
+    {
+        en: 'Astoundingly',
+        ru: 'Поразительно',
+    },
+    {
+        en: 'Chronic',
+        ru: 'Хронический',
+    },
+    {
+        en: 'Contaminated',
+        ru: 'Загрязненный',
+    },
+    {
+        en: 'Critical',
+        ru: 'Критический',
+    },
+    {
+        en: 'Desperately',
+        ru: 'Отчаянно',
+    },
+    {
+        en: 'Excessively',
+        ru: 'Чрезмерно',
+    },
+    {
+        en: 'Extraordinarily',
+        ru: 'Необычно',
+    },
+    {
+        en: 'Fantastically',
+        ru: 'Фантастически',
+    },
+    {
+        en: 'Guitarist',
+        ru: 'Гитарист',
+    },
+    {
+        en: 'Incomprehensible',
+        ru: 'Непостижимый',
+    },
+    {
+        en: 'Landscape',
+        ru: 'Пейзаж',
+    },
+    {
+        en: 'Naughty',
+        ru: 'Непослушный',
+    },
+    {
+        en: 'Plot',
+        ru: 'Сюжет',
+    },
+    {
+        en: 'Priced',
+        ru: 'Оцененный',
+    },
+    {
+        en: 'Remarkably',
+        ru: 'Замечательно',
+    },
+    {
+        en: 'Snake',
+        ru: 'Змея',
+    },
+    {
+        en: 'Strikingly',
+        ru: 'Поразительно',
+    },
+    {
+        en: 'Terrifically',
+        ru: 'Ужасно',
+    },
+    {
+        en: 'Uncommonly',
+        ru: 'Необыкновенно',
+    },
+    {
+        en: 'Unqualified',
+        ru: 'Неквалифицированный',
+    },
+    {
+        en: 'Unusually',
+        ru: 'Необычно',
+    },
+    {
+        en: 'Accepted',
+        ru: 'Принятый, признанный',
+    },
+    {
+        en: 'Commercially',
+        ru: 'Коммерчески',
+    },
+    {
+        en: 'Comparatively',
+        ru: 'Сравнительно',
+    },
+    {
+        en: 'Contagious',
+        ru: 'Заразный',
+    },
+    {
+        en: 'Debated',
+        ru: 'Обсуждаемый',
+    },
+    {
+        en: 'Densely',
+        ru: 'Густо, плотно',
+    },
+    {
+        en: 'Enormously',
+        ru: 'Чрезвычайно',
+    },
+    {
+        en: 'Fiercely',
+        ru: 'Жестко',
+    },
+    {
+        en: 'Genetically',
+        ru: 'Генетически',
+    },
+    {
+        en: 'Hotly',
+        ru: 'Грячо',
+    },
+    {
+        en: 'Immensely',
+        ru: 'Чрезвычайно',
+    },
+    {
+        en: 'Memorable',
+        ru: 'Памятный',
+    },
+    {
+        en: 'Merely',
+        ru: 'Просто',
+    },
+    {
+        en: 'Modified',
+        ru: 'Модифицированный',
+    },
+    {
+        en: 'Outlook',
+        ru: 'Взгляд',
+    },
+    {
+        en: 'Populated',
+        ru: 'Населенный',
+    },
+    {
+        en: 'Relaxed',
+        ru: 'Расслабленный',
+    },
+    {
+        en: 'Respected',
+        ru: 'Уважаемый',
+    },
+    {
+        en: 'Severely',
+        ru: 'Сильно',
+    },
+    {
+        en: 'Straightforward',
+        ru: 'Прямой',
+    },
+    {
+        en: 'Superficial',
+        ru: 'Поверхностный',
+    },
+    {
+        en: 'Throughout',
+        ru: 'Во всём',
+    },
+    {
+        en: 'Unconvincing',
+        ru: 'Неубедительный',
+    },
+    {
+        en: 'Viable',
+        ru: 'Жизнеспособный',
+    },
+    {
+        en: 'Astounding',
+        ru: 'Поразительный',
+    },
+    {
+        en: 'Comedy',
+        ru: 'Комедия',
+    },
+    {
+        en: 'Dazzling',
+        ru: 'Ослепительный',
+    },
+    {
+        en: 'Filthy',
+        ru: 'Грязный',
+    },
+    {
+        en: 'Gorgeous',
+        ru: 'Великолепный',
+    },
+    {
+        en: 'Hilarious',
+        ru: 'Веселый',
+    },
+    {
+        en: 'Impeccable',
+        ru: 'Безупречный',
+    },
+    {
+        en: 'Starving',
+        ru: 'Голодный',
+    },
+    {
+        en: 'Terrifying',
+        ru: 'Ужасающий',
+    },
+    {
+        en: 'Thrilled',
+        ru: 'Взволнованный',
+    },
+    {
+        en: 'Tranquillity',
+        ru: 'Спокойствие',
+    },
+    {
+        en: 'Trivial',
+        ru: 'Тривиальный',
+    },
+    {
+        en: 'Virtue',
+        ru: 'Добродетель',
+    },
+    {
+        en: 'Apart',
+        ru: 'Помимо',
+    },
+    {
+        en: 'Appeal',
+        ru: 'Привлекать',
+    },
+    {
+        en: 'Confusion',
+        ru: 'Путаница',
+    },
+    {
+        en: 'Gardener',
+        ru: 'Садовник',
+    },
+    {
+        en: 'Haste',
+        ru: 'Спешка',
+    },
+    {
+        en: 'Knitting',
+        ru: 'Вязание',
+    },
+    {
+        en: 'Proverb',
+        ru: 'Пословица',
+    },
+    {
+        en: 'Relieve',
+        ru: 'Облегчать',
+    },
+    {
+        en: 'Sewing',
+        ru: 'Шитье',
+    },
+    {
+        en: 'Tricky',
+        ru: 'Каверзный',
+    },
+    {
+        en: 'Unanimously',
+        ru: 'Единогласно',
+    },
+    {
+        en: 'Volunteering',
+        ru: 'Волонтерство',
+    },
+    {
+        en: 'Affectionate',
+        ru: 'Любящий',
+    },
+    {
+        en: 'Ambiguous',
+        ru: 'Двусмысленный',
+    },
+    {
+        en: 'Amusing',
+        ru: 'Забавный',
+    },
+    {
+        en: 'Civilisation',
+        ru: 'Цивилизация',
+    },
+    {
+        en: 'Instability',
+        ru: 'Нестабильность',
+    },
+    {
+        en: 'Interpretation',
+        ru: 'Интерпретация',
+    },
+    {
+        en: 'Mild',
+        ru: 'Мягкий',
+    },
+    {
+        en: 'Misconception',
+        ru: 'Заблуждение',
+    },
+    {
+        en: 'Modestly',
+        ru: 'Скромно',
+    },
+    {
+        en: 'Overwhelmed',
+        ru: 'Потрясенный',
+    },
+    {
+        en: 'Piracy',
+        ru: 'Пиратство',
+    },
+    {
+        en: 'Sheer',
+        ru: 'Пустой',
+    },
+    {
+        en: 'Spicy',
+        ru: 'Острый',
+    },
+    {
+        en: 'Toast',
+        ru: 'Тоаст',
+    },
+    {
+        en: 'Trustworthy',
+        ru: 'Надежный',
+    },
+    {
+        en: 'Balance',
+        ru: 'Баланс',
+    },
+    {
+        en: 'Believer',
+        ru: 'Верующий',
+    },
+    {
+        en: 'Endangered',
+        ru: 'Исчезающий',
+    },
+    {
+        en: 'Eyesight',
+        ru: 'Зрение',
+    },
+    {
+        en: 'Friendliness',
+        ru: 'Дружелюбие',
+    },
+    {
+        en: 'Humble',
+        ru: 'Скромный, смиренный',
+    },
+    {
+        en: 'Inextricably',
+        ru: 'Неразрывно',
+    },
+    {
+        en: 'Itself',
+        ru: 'Само',
+    },
+    {
+        en: 'Mass',
+        ru: 'Массовый',
+    },
+    {
+        en: 'Mental',
+        ru: 'Психический',
+    },
+    {
+        en: 'Nonsense',
+        ru: 'Чушь, вздор',
+    },
+    {
+        en: 'Openness',
+        ru: 'Открытость',
+    },
+    {
+        en: 'Overlook',
+        ru: 'Упускают из виду',
+    },
+    {
+        en: 'Overrated',
+        ru: 'Переоцененный',
+    },
+    {
+        en: 'Paragraph',
+        ru: 'Абзац',
+    },
+    {
+        en: 'Perspective',
+        ru: 'Точка зрения',
+    },
+    {
+        en: 'Prank',
+        ru: 'Розыгрыш',
+    },
+    {
+        en: 'Roughly',
+        ru: 'Грубо',
+    },
+    {
+        en: 'Sentimental',
+        ru: 'Сентиментальный',
+    },
+    {
+        en: 'Species',
+        ru: 'Вид, виды',
+    },
+    {
+        en: 'Spit',
+        ru: 'Плевать',
+    },
+    {
+        en: 'Superb',
+        ru: 'Превосходный',
+    },
+    {
+        en: 'Track',
+        ru: 'Отслеживать, трек, дорожка',
+    },
+    {
+        en: 'Vitality',
+        ru: 'Жизненно',
+    },
+    {
+        en: 'Weekly',
+        ru: 'Еженедельно',
+    },
+    {
+        en: 'Relative',
+        ru: 'Относительный',
+    },
+    {
+        en: 'Appealing',
+        ru: 'Привлекательный',
+    },
+    {
+        en: 'Assessment',
+        ru: 'Оценка',
+    },
+    {
+        en: 'Assume',
+        ru: 'Предполагать',
+    },
+    {
+        en: 'Awkward',
+        ru: 'Неловкий',
+    },
+    {
+        en: 'Compulsory',
+        ru: 'Принудительный, обязательный',
+    },
+    {
+        en: 'Discrimination',
+        ru: 'Дискриминация',
+    },
+    {
+        en: 'Disregard',
+        ru: 'Пренебрежение',
+    },
+    {
+        en: 'Drastically',
+        ru: 'Резко, радикально',
+    },
+    {
+        en: 'Real estate',
+        ru: 'Недвижимость',
+    },
+    {
+        en: 'Exploitation',
+        ru: 'Эксплуатация',
+    },
+    {
+        en: 'Gender',
+        ru: 'Пол',
+    },
+    {
+        en: 'Genuineness',
+        ru: 'Подлинность',
+    },
+    {
+        en: 'Insulting',
+        ru: 'Оскорбительный',
+    },
+    {
+        en: 'Labour',
+        ru: 'Рабочая сила',
+    },
+    {
+        en: 'Overpriced',
+        ru: 'Переоцененный',
+    },
+    {
+        en: 'Pleasantly',
+        ru: 'Приятно',
+    },
+    {
+        en: 'Presume',
+        ru: 'Предполагать',
+    },
+    {
+        en: 'Responsibility',
+        ru: 'Ответственно',
+    },
+    {
+        en: 'Rhetorical',
+        ru: 'Риторический',
+    },
+    {
+        en: 'Ruthless',
+        ru: 'Безжалостный',
+    },
+    {
+        en: 'Subjective',
+        ru: 'Субъективный',
+    },
+    {
+        en: 'Surpass',
+        ru: 'Превзойти',
+    },
+    {
+        en: 'Unavoidable',
+        ru: 'Неизбежный',
+    },
+    {
+        en: 'Underline',
+        ru: 'Подчеркнуть',
+    },
+    {
+        en: 'Relieved',
+        ru: 'Рад',
+    },
+    {
+        en: 'Anyhow',
+        ru: 'Во всяком случае',
+    },
+    {
+        en: 'Colossal',
+        ru: 'Колоссфльный',
+    },
+    {
+        en: 'Commitment',
+        ru: 'Приверженность',
+    },
+    {
+        en: 'Dedication',
+        ru: '',
+    },
+    {
+        en: 'Edition',
+        ru: 'Издание',
+    },
+    {
+        en: 'Emphasis',
+        ru: 'Акцент',
+    },
+    {
+        en: 'Frustrating',
+        ru: 'Разочаровывающий',
+    },
+    {
+        en: 'Gentleman',
+        ru: 'Джентльмен',
+    },
+    {
+        en: 'Outdated',
+        ru: 'Устаревший',
+    },
+    {
+        en: 'Painstaking',
+        ru: 'Кропотливый',
+    },
+    {
+        en: 'Relief',
+        ru: 'Облегчение',
+    },
+    {
+        en: 'Scheme',
+        ru: 'Схема',
+    },
+    {
+        en: 'Seemingly',
+        ru: 'Казалось бы',
+    },
+    {
+        en: 'Ventilation',
+        ru: 'Вентиляция',
+    },
+    {
+        en: 'Wholly',
+        ru: 'Совершенно',
+    },
+    {
+        en: 'Drawback',
+        ru: 'Недостаток',
+    },
+    {
+        en: 'Inaccuracy',
+        ru: 'Неточность',
+    },
+    {
+        en: 'Interestingly',
+        ru: 'Интересно',
+    },
+    {
+        en: 'Irresistible',
+        ru: 'Непреодолимый',
+    },
+    {
+        en: 'Meantime',
+        ru: 'Тем временем',
+    },
+    {
+        en: 'Meanwhile',
+        ru: 'Между тем',
+    },
+    {
+        en: 'Minor',
+        ru: 'Незначительный',
+    },
+    {
+        en: 'Mispronounce',
+        ru: 'Неправильно произносить',
+    },
+    {
+        en: 'Neighbourhood',
+        ru: 'Соседство',
+    },
+    {
+        en: 'Seminar',
+        ru: 'Семинар',
+    },
+    {
+        en: 'Therefore',
+        ru: 'Поэтому',
+    },
+    {
+        en: 'Thinking',
+        ru: 'Мышление',
+    },
+    {
+        en: 'Unwise',
+        ru: 'Неразумный',
+    },
+    {
+        en: 'Unwisely',
+        ru: 'Неразумно',
+    },
+    {
+        en: 'Well-informed',
+        ru: 'Хорошо информированный',
+    },
+    {
+        en: 'Abundantly',
+        ru: 'Совершенно, обильно',
+    },
+    {
+        en: 'Applicant',
+        ru: 'Претендент',
+    },
+    {
+        en: 'Competence',
+        ru: 'Компетентность',
+    },
+    {
+        en: 'Compromise',
+        ru: 'Компромисс',
+    },
+    {
+        en: 'Crystal',
+        ru: 'Кристальный',
+    },
+    {
+        en: 'Dominate',
+        ru: 'Доминировать',
+    },
+    {
+        en: 'Foresee',
+        ru: 'Предвидеть',
+    },
+    {
+        en: 'Legend',
+        ru: 'Легенда',
+    },
+    {
+        en: 'Misinterpret',
+        ru: 'Неправильно интерпретировать',
+    },
+    {
+        en: 'Perk',
+        ru: 'Льгота',
+    },
+    {
+        en: 'Riser',
+        ru: 'Тот, кто встает',
+    },
+    {
+        en: 'Summarise',
+        ru: 'Подводить итог',
+    },
+    {
+        en: 'Thirdly',
+        ru: 'В-третьих',
+    },
+    {
+        en: 'Thus',
+        ru: 'Таким образом',
+    },
+    {
+        en: 'Uncover',
+        ru: 'Раскрывать',
+    },
+    {
+        en: 'Unlike',
+        ru: 'В отличие от',
+    },
+    {
+        en: 'Unrealistic',
+        ru: 'Нереалистичный',
+    },
+    {
+        en: 'Unveil',
+        ru: 'Раскрывать',
+    },
+    {
+        en: 'Workaholic',
+        ru: 'Трудоголик',
+    },
+    {
+        en: 'Adequate',
+        ru: 'Адекватный, достаточный',
+    },
+    {
+        en: 'Allocation',
+        ru: 'Распределение',
+    },
+    {
+        en: 'Aptitude',
+        ru: 'Склонность',
+    },
+    {
+        en: 'Deforestation',
+        ru: 'Вырубка лесов',
+    },
+    {
+        en: 'Disproportionate',
+        ru: 'Непропорциональный',
+    },
+    {
+        en: 'Drunk',
+        ru: 'Пьяный',
+    },
+    {
+        en: 'Flashcard',
+        ru: 'Флэш карта',
+    },
+    {
+        en: 'Groundless',
+        ru: 'Беспочвенный',
+    },
+    {
+        en: 'Horrified',
+        ru: 'В ужасе',
+    },
+    {
+        en: 'Humanity',
+        ru: 'Человечество',
+    },
+    {
+        en: 'Infinite',
+        ru: 'Бесконечный',
+    },
+    {
+        en: 'Lucrative',
+        ru: 'Выгодный',
+    },
+    {
+        en: 'Major',
+        ru: 'Главный',
+    },
+    {
+        en: 'Miscalculate',
+        ru: 'Неверно посчитать',
+    },
+    {
+        en: 'Misinform',
+        ru: 'Дезинформировать',
+    },
+    {
+        en: 'Nonetheless',
+        ru: 'Тем не менее',
+    },
+    {
+        en: 'Non-traditional',
+        ru: 'Нетрадиционный',
+    },
+    {
+        en: 'Obligation',
+        ru: 'Обязательство',
+    },
+    {
+        en: 'Prevail',
+        ru: 'Преобладать',
+    },
+    {
+        en: 'Reassure',
+        ru: 'Заверять',
+    },
+    {
+        en: 'Shadow',
+        ru: 'Тень',
+    },
+    {
+        en: 'Simplicity',
+        ru: 'Простота',
+    },
+    {
+        en: 'Spontaneously',
+        ru: 'Спонтанно',
+    },
+    {
+        en: 'Sufficient',
+        ru: 'Достаточный',
+    },
+    {
+        en: 'Suspicion',
+        ru: 'Подозрительность',
+    },
+    {
+        en: 'Tension',
+        ru: 'Напряженность',
+    },
+    {
+        en: 'Undecided',
+        ru: 'Нерешенный',
+    },
+    {
+        en: 'Unsystematic',
+        ru: 'Бессистемный',
+    },
+    {
+        en: 'Utmost',
+        ru: 'Чрезвычайный',
+    },
+    {
+        en: 'Achievable',
+        ru: 'Достижимый',
+    },
+    {
+        en: 'Affect',
+        ru: 'Влиять',
+    },
+    {
+        en: 'Capriciously',
+        ru: 'Капризно',
+    },
+    {
+        en: 'Consistency',
+        ru: 'Последовательность',
+    },
+    {
+        en: 'Consistent',
+        ru: 'Последовательный',
+    },
+    {
+        en: 'Convict',
+        ru: 'Осуждать',
+    },
+    {
+        en: 'Creatively',
+        ru: 'Творчески',
+    },
+    {
+        en: 'Determine',
+        ru: 'Определить',
+    },
+    {
+        en: 'Distribution',
+        ru: 'Распределение',
+    },
+    {
+        en: 'Doubtless',
+        ru: 'Несомненно',
+    },
+    {
+        en: 'Elimination',
+        ru: 'Ликвидация',
+    },
+    {
+        en: 'Endure',
+        ru: 'Терпеть',
+    },
+    {
+        en: 'Fearlessly',
+        ru: 'Бесстрашно',
+    },
+    {
+        en: 'Flexibility',
+        ru: 'Гибкость',
+    },
+    {
+        en: 'Foremost',
+        ru: 'Прежде всего',
+    },
+    {
+        en: 'Fruitfully',
+        ru: 'Плодотворно',
+    },
+    {
+        en: 'Guru',
+        ru: 'Гуру',
+    },
+    {
+        en: 'Highlight',
+        ru: 'Подчеркнуть',
+    },
+    {
+        en: 'Incomparable',
+        ru: 'Несравнимый',
+    },
+    {
+        en: 'Inconsistent',
+        ru: 'Противоречивый',
+    },
+    {
+        en: 'Incurable',
+        ru: 'Неизлечимый',
+    },
+    {
+        en: 'Indifferently',
+        ru: 'Равнодушно',
+    },
+    {
+        en: 'Inexpensively',
+        ru: 'Недорого',
+    },
+    {
+        en: 'Innovative',
+        ru: 'Инновационный',
+    },
+    {
+        en: 'Intolerable',
+        ru: 'Невыносимый',
+    },
+    {
+        en: 'Irregularly',
+        ru: 'Нерегулярно',
+    },
+    {
+        en: 'Meteorological',
+        ru: 'Метеорологический',
+    },
+    {
+        en: 'Misspell',
+        ru: 'Неправильно написать',
+    },
+    {
+        en: 'Overnight',
+        ru: 'В одночасье, мгновенный',
+    },
+    {
+        en: 'Pollution',
+        ru: 'Загрязнение',
+    },
+    {
+        en: 'Realist',
+        ru: 'Реалист',
+    },
+    {
+        en: 'Realistically',
+        ru: 'Реалистично, раально',
+    },
+    {
+        en: 'Restore',
+        ru: 'Восстановить',
+    },
+    {
+        en: 'Selfishness',
+        ru: 'Эгоизм',
+    },
+    {
+        en: 'Shoplifting',
+        ru: 'Магазинная кража',
+    },
+    {
+        en: 'Starvation',
+        ru: 'Голодание',
+    },
+    {
+        en: 'Trait',
+        ru: 'Черта',
+    },
+    {
+        en: 'Unafraid',
+        ru: 'Бесстрашный',
+    },
+    {
+        en: 'Unearth',
+        ru: 'Раскопать',
+    },
+    {
+        en: 'Unequal',
+        ru: 'Неравный',
+    },
+    {
+        en: 'Variety',
+        ru: 'Разнообразие',
+    },
+    {
+        en: 'Stress',
+        ru: 'Подчеркивать',
+    },
+    {
+        en: 'Respect',
+        ru: 'Отношение',
+    },
+    {
+        en: 'Accessible',
+        ru: 'Доступный',
+    },
+    {
+        en: 'Adverse',
+        ru: 'Неблагоприятный',
+    },
+    {
+        en: 'Alteration',
+        ru: 'Изменение',
+    },
+    {
+        en: 'Ambition',
+        ru: 'Амбиция',
+    },
+    {
+        en: 'Barbarian',
+        ru: 'Варварский',
+    },
+    {
+        en: 'Conversely',
+        ru: 'Наоборот',
+    },
+    {
+        en: 'E-book',
+        ru: 'Электронная книга',
+    },
+    {
+        en: 'Entertaining',
+        ru: 'Развлекательный',
+    },
+    {
+        en: 'Evil',
+        ru: 'Зло',
+    },
+    {
+        en: 'Harvest',
+        ru: 'Урожай',
+    },
+    {
+        en: 'Intermediary',
+        ru: 'Посредник',
+    },
+    {
+        en: 'Irresponsibly',
+        ru: 'Безответственно',
+    },
+    {
+        en: 'Leak',
+        ru: 'Утечка',
+    },
+    {
+        en: 'Longevity',
+        ru: 'Долголетие',
+    },
+    {
+        en: 'Nerve',
+        ru: 'Нерв',
+    },
+    {
+        en: 'Radiation',
+        ru: 'Радиация',
+    },
+    {
+        en: 'Regarding',
+        ru: 'Касательно',
+    },
+    {
+        en: 'Scornful',
+        ru: 'Презрительный',
+    },
+    {
+        en: 'Self-evident',
+        ru: 'Самоочевидный',
+    },
+    {
+        en: 'Shatter',
+        ru: 'Разбить, разрушить',
+    },
+    {
+        en: 'Spectacular',
+        ru: 'Захватывающий, вечатляющий',
+    },
+    {
+        en: 'Suspiciously',
+        ru: 'Подозрительно',
+    },
+    {
+        en: 'Tedious',
+        ru: 'Утомительный',
+    },
+    {
+        en: 'Toddler',
+        ru: 'Ребенок, начинающий ходить',
+    },
+    {
+        en: 'Tolerate',
+        ru: 'Терпеть',
+    },
+    {
+        en: 'Tribute',
+        ru: 'Дань',
+    },
+    {
+        en: 'Youngster',
+        ru: 'Молодежь',
+    },
+    {
+        en: 'Will',
+        ru: 'Завещание',
+    },
+    {
+        en: 'Agitation',
+        ru: 'Агитация',
+    },
+    {
+        en: 'Angle',
+        ru: 'Угол',
+    },
+    {
+        en: 'Broadcasting',
+        ru: 'Вещание',
+    },
+    {
+        en: 'Challenge',
+        ru: 'Вызов',
+    },
+    {
+        en: 'Improbable',
+        ru: 'Мловероятный',
+    },
+    {
+        en: 'Phenomenal',
+        ru: 'Феноменальный',
+    },
+    {
+        en: 'Propaganda',
+        ru: 'Пропаганда',
+    },
+    {
+        en: 'Terminology',
+        ru: 'Терминология',
+    },
+    {
+        en: 'Unanimous',
+        ru: 'Единогласный',
+    },
+    {
+        en: 'Unauthorized',
+        ru: 'Неавторизованный',
+    },
+    {
+        en: 'Unresolved',
+        ru: 'Неразрешенный',
+    },
+    {
+        en: 'Unsubscribe',
+        ru: 'Отписаться',
+    },
+    {
+        en: 'Whichever',
+        ru: 'Какой бы ни',
+    },
+    {
+        en: 'Live',
+        ru: 'Вживую, в прямом эфире',
+    },
+    {
+        en: 'Bear',
+        ru: 'Терпеть, приносить',
+    },
+    {
+        en: 'Amazingly',
+        ru: 'Удивительно',
+    },
+    {
+        en: 'Apparently',
+        ru: 'Видимо',
+    },
+    {
+        en: 'Claim',
+        ru: 'Требовать, претендовать',
+    },
+    {
+        en: 'Crown',
+        ru: 'Завершать, корона',
+    },
+    {
+        en: 'Curriculum',
+        ru: 'Учебная программа',
+    },
+    {
+        en: 'Decade',
+        ru: 'Десятилетие',
+    },
+    {
+        en: 'Entrance',
+        ru: 'Вход, вступительный',
+    },
+    {
+        en: 'Evidently',
+        ru: 'Очевидно',
+    },
+    {
+        en: 'Lifelong',
+        ru: 'Пожизненный',
+    },
+    {
+        en: 'Likelihood',
+        ru: 'Вероятность',
+    },
+    {
+        en: 'Omit',
+        ru: 'Пропустить, не включать',
+    },
+    {
+        en: 'Perform',
+        ru: 'Выполнить',
+    },
+    {
+        en: 'Pilgrim',
+        ru: 'Паломник',
+    },
+    {
+        en: 'Poisonous',
+        ru: 'Ядовитый',
+    },
+    {
+        en: 'Predictably',
+        ru: 'Предсказуемо',
+    },
+    {
+        en: 'Presumably',
+        ru: 'Предположительно',
+    },
+    {
+        en: 'Prosper',
+        ru: 'Процветать',
+    },
+    {
+        en: 'Reveal',
+        ru: 'Выявлять, раскрывать',
+    },
+    {
+        en: 'Theoretical',
+        ru: 'Теоретический',
+    },
+    {
+        en: 'Tourism',
+        ru: 'Туризм',
+    },
+    {
+        en: 'Trained',
+        ru: 'Тренированный',
+    },
+    {
+        en: 'Upper-intermediate',
+        ru: 'Выше среднего',
+    },
+    {
+        en: 'Admission',
+        ru: 'Вход, вступительный',
+    },
+    {
+        en: 'Cheerful',
+        ru: 'Жизнерадостный',
+    },
+    {
+        en: 'Complicate',
+        ru: 'Усложнять',
+    },
+    {
+        en: 'Dispute',
+        ru: 'Спор, диспут',
+    },
+    {
+        en: 'Foundation',
+        ru: 'Основание',
+    },
+    {
+        en: 'Importantly',
+        ru: 'Важно',
+    },
+    {
+        en: 'Increasingly',
+        ru: 'Все более',
+    },
+    {
+        en: 'Junior',
+        ru: 'Юношеский, юниорский',
+    },
+    {
+        en: 'Lab',
+        ru: 'Лаборатория',
+    },
+    {
+        en: 'Largely',
+        ru: 'В основном',
+    },
+    {
+        en: 'Minority',
+        ru: 'Меньшинство',
+    },
+    {
+        en: 'Notwithstanding',
+        ru: 'Несмотря на',
+    },
+    {
+        en: 'Odd',
+        ru: 'Странный',
+    },
+    {
+        en: 'Paradoxical',
+        ru: 'Парадоксальный',
+    },
+    {
+        en: 'Paradoxically',
+        ru: 'Парадоксально',
+    },
+    {
+        en: 'Peak',
+        ru: 'Вершина, пик',
+    },
+    {
+        en: 'Permanent',
+        ru: 'Постоянный',
+    },
+    {
+        en: 'Regrettably',
+        ru: 'К сожалению',
+    },
+    {
+        en: 'Remarkable',
+        ru: 'Удивительный',
+    },
+    {
+        en: 'Revolutionise',
+        ru: 'Произвести революцию',
+    },
+    {
+        en: 'Similarity',
+        ru: 'Сходство',
+    },
+    {
+        en: 'Ultimately',
+        ru: 'В конечно счёте',
+    },
+    {
+        en: 'Undermine',
+        ru: 'Подрывать',
+    },
+    {
+        en: 'Undetermined',
+        ru: 'Нерешительный',
+    },
+    {
+        en: 'Additionally',
+        ru: 'Кроме того, дополнительно',
+    },
+    {
+        en: 'Admittedly',
+        ru: 'Предположительно',
+    },
+    {
+        en: 'Broadly',
+        ru: 'Широко',
+    },
+    {
+        en: 'Conscience',
+        ru: 'Совесть',
+    },
+    {
+        en: 'Consuming',
+        ru: 'Трудоемкий, потребляющий',
+    },
+    {
+        en: 'Conviction',
+        ru: 'Убеждение',
+    },
+    {
+        en: 'Curiously',
+        ru: 'Любопытно',
+    },
+    {
+        en: 'Fabulous',
+        ru: 'Беснословный',
+    },
+    {
+        en: 'Fluent',
+        ru: 'Беглый, свободный',
+    },
+    {
+        en: 'Founder',
+        ru: 'Основатель',
+    },
+    {
+        en: 'Funnily',
+        ru: 'Забавно, странно',
+    },
+    {
+        en: 'Intentionally',
+        ru: 'Намеренно',
+    },
+    {
+        en: 'Irrespective',
+        ru: 'Независимо',
+    },
+    {
+        en: 'Oddly',
+        ru: 'Странно',
+    },
+    {
+        en: 'Token',
+        ru: 'Знак, символ',
+    },
+    {
+        en: 'Undergo',
+        ru: 'Подвергаться, испытывать',
+    },
+    {
+        en: 'Unintentionally',
+        ru: 'Непреднамеренно',
+    },
+    {
+        en: 'Unite',
+        ru: 'Объединять',
+    },
+    {
+        en: 'Unstoppable',
+        ru: 'Неостановимый',
+    },
+    {
+        en: 'Applied',
+        ru: 'Прикладной',
+    },
+    {
+        en: 'Availability',
+        ru: 'Доступность',
+    },
+    {
+        en: 'Brilliantly',
+        ru: 'Блестяще',
+    },
+    {
+        en: 'Commerce',
+        ru: 'Коммерция',
+    },
+    {
+        en: 'Completion',
+        ru: 'Завершение',
+    },
+    {
+        en: 'Countless',
+        ru: 'Бесчисленный',
+    },
+    {
+        en: 'Density',
+        ru: 'Плотность',
+    },
+    {
+        en: 'Diversity',
+        ru: 'Разнообразие',
+    },
+    {
+        en: 'Dramatically',
+        ru: 'Резко, драматически',
+    },
+    {
+        en: 'Encounter',
+        ru: 'Сталкиваться',
+    },
+    {
+        en: 'Equality',
+        ru: 'Равенство',
+    },
+    {
+        en: 'Essence',
+        ru: 'Сущность',
+    },
+    {
+        en: 'Excursion',
+        ru: 'Экскурсия',
+    },
+    {
+        en: 'Explicit',
+        ru: 'Четкий',
+    },
+    {
+        en: 'Extinction',
+        ru: 'Вымирание',
+    },
+    {
+        en: 'Forum',
+        ru: 'Форум',
+    },
+    {
+        en: 'Healthily',
+        ru: 'Здорово, правильно',
+    },
+    {
+        en: 'Misfortune',
+        ru: 'Беда',
+    },
+    {
+        en: 'PE',
+        ru: 'Физкультура',
+    },
+    {
+        en: 'Pedagogy',
+        ru: 'Педагогика',
+    },
+    {
+        en: 'Rehearsal',
+        ru: 'Репетиция',
+    },
+    {
+        en: 'Repetition',
+        ru: 'Повторение',
+    },
+    {
+        en: 'Sponsor',
+        ru: 'Спонсор',
+    },
+    {
+        en: 'Sponsorship',
+        ru: 'Спонсорство',
+    },
+    {
+        en: 'Steadily',
+        ru: 'Постоянно, неуклонно',
+    },
+    {
+        en: 'Substantially',
+        ru: 'Существенно',
+    },
+    {
+        en: 'Subtle',
+        ru: 'Тонкий, едва различимый',
+    },
+    {
+        en: 'Triumph',
+        ru: 'Триумф',
+    },
+    {
+        en: 'Understandably',
+        ru: 'Понятно',
+    },
+    {
+        en: 'Unfavourable',
+        ru: 'Неприятный',
+    },
+    {
+        en: 'Whatsoever',
+        ru: 'Вообще, совершенно',
+    },
+    {
+        en: 'Absurdly',
+        ru: 'Абсурдно',
+    },
+    {
+        en: 'Academy',
+        ru: 'Академия',
+    },
+    {
+        en: 'Altogether',
+        ru: 'Совсем, совершенно',
+    },
+    {
+        en: 'Clarity',
+        ru: 'Ясность',
+    },
+    {
+        en: 'Clumsiness',
+        ru: 'Неуклюжесть',
+    },
+    {
+        en: 'Coherence',
+        ru: 'Последовательность',
+    },
+    {
+        en: 'Cohesion',
+        ru: 'Связность',
+    },
+    {
+        en: 'Colloquial',
+        ru: 'Разговорный',
+    },
+    {
+        en: 'Colourless',
+        ru: 'Бесцветный',
+    },
+    {
+        en: 'Disappointing',
+        ru: 'Разочаровывающий',
+    },
+    {
+        en: 'Fanaticism',
+        ru: 'Фанатизм',
+    },
+    {
+        en: 'Honorary',
+        ru: 'Почетный',
+    },
+    {
+        en: 'Inclination',
+        ru: 'Желание',
+    },
+    {
+        en: 'Incomplete',
+        ru: 'Неполный',
+    },
+    {
+        en: 'Innumerable',
+        ru: 'Бесчисленный',
+    },
+    {
+        en: 'Irreparable',
+        ru: 'Непоправимый',
+    },
+    {
+        en: 'Outweigh',
+        ru: 'Перевешивать',
+    },
+    {
+        en: 'Overshadow',
+        ru: 'Затмевать',
+    },
+    {
+        en: 'Overstep',
+        ru: 'Переступать',
+    },
+    {
+        en: 'Phrasal',
+        ru: 'Фразовый',
+    },
+    {
+        en: 'Preferable',
+        ru: 'Предпочтительный',
+    },
+    {
+        en: 'Prepay',
+        ru: 'Платить вперед',
+    },
+    {
+        en: 'Protective',
+        ru: 'Защитный',
+    },
+    {
+        en: 'Recession',
+        ru: 'Спад, рецессия',
+    },
+    {
+        en: 'Renewable',
+        ru: 'Возобновляемый',
+    },
+    {
+        en: 'Researcher',
+        ru: 'Исследователь',
+    },
+    {
+        en: 'Revival',
+        ru: 'Оживление',
+    },
+    {
+        en: 'Revive',
+        ru: 'Оживать',
+    },
+    {
+        en: 'Scrupulously',
+        ru: 'Скурпулезно',
+    },
+    {
+        en: 'Stagnation',
+        ru: 'Стагнация',
+    },
+    {
+        en: 'Storyteller',
+        ru: 'Рассказчик',
+    },
+    {
+        en: 'Straighten',
+        ru: 'Выпрямлять',
+    },
+    {
+        en: 'Supplementary',
+        ru: 'Дополнительный',
+    },
+    {
+        en: 'Trade',
+        ru: 'Торговля',
+    },
+    {
+        en: 'Tranquil',
+        ru: 'Спокойный',
+    },
+    {
+        en: 'Unfit',
+        ru: 'Непригодный, нездоровый',
+    },
+    {
+        en: 'Unhealthy',
+        ru: 'Нездоровый',
+    },
+    {
+        en: 'Unprotected',
+        ru: 'Незащищенный',
+    },
+    {
+        en: 'Unsafe',
+        ru: 'Небезопасный',
+    },
+    {
+        en: 'Accordance',
+        ru: 'Соответствие',
+    },
+    {
+        en: 'Astonishingly',
+        ru: 'Удивительно',
+    },
+    {
+        en: 'Boastful',
+        ru: 'Хвастливый',
+    },
+    {
+        en: 'Bureaucratic',
+        ru: 'Бюрократический',
+    },
+    {
+        en: 'Co-founder',
+        ru: 'Соучредитель',
+    },
+    {
+        en: 'Comprehension',
+        ru: 'Понимание',
+    },
+    {
+        en: 'Comprehensive',
+        ru: 'Исчерпывающий, образовательный',
+    },
+    {
+        en: 'Diligently',
+        ru: 'Усердно',
+    },
+    {
+        en: 'Disheartening',
+        ru: 'Удручающий',
+    },
+    {
+        en: 'Disrespectful',
+        ru: 'Неуважительный',
+    },
+    {
+        en: 'Disrespectfully',
+        ru: 'Неуважительно',
+    },
+    {
+        en: 'Eradication',
+        ru: 'Искоренение',
+    },
+    {
+        en: 'Excessive',
+        ru: 'Чрезмерный',
+    },
+    {
+        en: 'Fashionably',
+        ru: 'Модно',
+    },
+    {
+        en: 'Greatness',
+        ru: 'Величие',
+    },
+    {
+        en: 'Indescribable',
+        ru: 'Неописуемый',
+    },
+    {
+        en: 'Insensitive',
+        ru: 'Бесчувственное',
+    },
+    {
+        en: 'Insignificance',
+        ru: 'Незначительность',
+    },
+    {
+        en: 'Installation',
+        ru: 'Установка',
+    },
+    {
+        en: 'Irreversible',
+        ru: 'Необратимый',
+    },
+    {
+        en: 'Irritably',
+        ru: 'Раздраженно',
+    },
+    {
+        en: 'Irritation',
+        ru: 'Раздражение',
+    },
+    {
+        en: 'Linguist',
+        ru: 'Лингвист',
+    },
+    {
+        en: 'Mismanagement',
+        ru: 'Неправильное управление',
+    },
+    {
+        en: 'Murmur',
+        ru: 'Бормотать',
+    },
+    {
+        en: 'Presence',
+        ru: 'Присутсивие',
+    },
+    {
+        en: 'Reconsider',
+        ru: 'Пересмотреть',
+    },
+    {
+        en: 'Respectful',
+        ru: 'Уважительный',
+    },
+    {
+        en: 'Romantically',
+        ru: 'Романтически',
+    },
+    {
+        en: 'Shareholder',
+        ru: 'Акционер',
+    },
+    {
+        en: 'Sorrow',
+        ru: 'Неприятность',
+    },
+    {
+        en: 'Stabilize',
+        ru: 'Стабилизировать',
+    },
+    {
+        en: 'Suspect',
+        ru: 'Подозревать',
+    },
+    {
+        en: 'Uncertainty',
+        ru: 'Неопределенность',
+    },
+    {
+        en: 'Uninstall',
+        ru: 'Удалить',
+    },
+    {
+        en: 'Unmanageable',
+        ru: 'Неуправляемый',
+    },
+    {
+        en: 'Unsuitable',
+        ru: 'Неподходящий',
+    },
+    {
+        en: 'Visibility',
+        ru: 'Видимость',
+    },
+    {
+        en: 'Well-balanced',
+        ru: 'Хорошо сбалансированный',
+    },
+    {
+        en: 'Well-organized',
+        ru: 'Хорошо организованный',
+    },
+    {
+        en: 'Well-qualified',
+        ru: 'Высоко квалифицированный',
+    },
+    {
+        en: 'Anti-virus',
+        ru: 'Антивирус',
+    },
+    {
+        en: 'Beggar',
+        ru: 'Нищий, попрошайка',
+    },
+    {
+        en: 'Clarification',
+        ru: 'Разъяснение',
+    },
+    {
+        en: 'Continuation',
+        ru: 'Продолжение',
+    },
+    {
+        en: 'Encouragement',
+        ru: 'Поддержка',
+    },
+    {
+        en: 'Faithfulness',
+        ru: 'Верность',
+    },
+    {
+        en: 'Fantasy',
+        ru: 'Фантазия',
+    },
+    {
+        en: 'Fist',
+        ru: 'Кулак',
+    },
+    {
+        en: 'Immoral',
+        ru: 'Аморальный',
+    },
+    {
+        en: 'Imperfect',
+        ru: 'Несовершенный',
+    },
+    {
+        en: 'Improper',
+        ru: 'Неуместный',
+    },
+    {
+        en: 'Imprudent',
+        ru: 'Неосторожный',
+    },
+    {
+        en: 'Irrational',
+        ru: 'Иррациональный',
+    },
+    {
+        en: 'Irregularity',
+        ru: 'Нерегулярность',
+    },
+    {
+        en: 'Modernize',
+        ru: 'Модернизировать',
+    },
+    {
+        en: 'Novelty',
+        ru: 'Новизна',
+    },
+    {
+        en: 'Participation',
+        ru: 'Участие',
+    },
+    {
+        en: 'Publication',
+        ru: 'Публикация',
+    },
+    {
+        en: 'Retake',
+        ru: 'Переснимать',
+    },
+    {
+        en: 'Self-esteem',
+        ru: 'Самооценка',
+    },
+    {
+        en: 'Simplify',
+        ru: 'Упрощать',
+    },
+    {
+        en: 'Software',
+        ru: 'Программное обеспечение',
+    },
+    {
+        en: 'Staggered',
+        ru: 'Пораженный',
+    },
+    {
+        en: 'Stubbornness',
+        ru: 'Упрямство',
+    },
+    {
+        en: 'Unambitious',
+        ru: 'Не амбициозный',
+    },
+    {
+        en: 'Well-developed',
+        ru: 'Хорошо развитый',
+    },
+    {
+        en: 'Width',
+        ru: 'Ширина',
+    },
+    {
+        en: 'Birth',
+        ru: 'Рождение',
+    },
+    {
+        en: 'Heaven',
+        ru: 'Небо',
+    },
+    {
+        en: 'Iceberg',
+        ru: 'Айсберг',
+    },
+    {
+        en: 'Lesser',
+        ru: 'Меньший',
+    },
+    {
+        en: 'Single-room',
+        ru: 'Однокомнатный',
+    },
+    {
+        en: 'Spirit',
+        ru: 'Дух',
+    },
+    {
+        en: 'Tape',
+        ru: 'Лента',
+    },
+    {
+        en: 'Beans',
+        ru: 'Фасоль',
+    },
+    {
+        en: 'Blessing',
+        ru: 'Благословение',
+    },
+    {
+        en: 'Bull',
+        ru: 'Бык',
+    },
+    {
+        en: 'China shop',
+        ru: 'Посудная лавка',
+    },
+    {
+        en: 'Clumsy',
+        ru: 'Неуклюжий',
+    },
+    {
+        en: 'Disguise',
+        ru: 'Маскировка',
+    },
+    {
+        en: 'Dump',
+        ru: 'Свалка',
+    },
+    {
+        en: 'Fiddle',
+        ru: 'Скрипка',
+    },
+    {
+        en: 'Grip',
+        ru: 'Схватить',
+    },
+    {
+        en: 'Master',
+        ru: 'Мастер',
+    },
+    {
+        en: 'Rag',
+        ru: 'Тряпка',
+    },
+    {
+        en: 'Riches',
+        ru: 'Богатство',
+    },
+    {
+        en: 'Spur',
+        ru: 'Побуждать',
+    },
+    {
+        en: 'Swing',
+        ru: 'Качать',
+    },
+    {
+        en: 'Tighten',
+        ru: 'Затянуть',
+    },
+    {
+        en: 'Credit',
+        ru: 'Кредит',
+    },
+    {
+        en: 'Glasses',
+        ru: 'Очки',
+    },
+    {
+        en: 'Spoon',
+        ru: 'Ложка',
+    },
+    {
+        en: 'Act',
+        ru: 'Действовать, акт',
+    },
+    {
+        en: 'Salmon',
+        ru: 'Лосось',
+    },
+    {
+        en: 'Cooker',
+        ru: 'Плита',
+    },
+    {
+        en: 'Suitcase',
+        ru: 'Чемодан',
+    },
+    {
+        en: 'Subway',
+        ru: 'Метро, подземка',
+    },
+    {
+        en: 'Elections',
+        ru: 'Выборы',
+    },
+    {
+        en: 'Rubber',
+        ru: 'Ластик',
+    },
+    {
+        en: 'Alike',
+        ru: 'Похожий, одинаково',
+    },
+    {
+        en: 'Administration',
+        ru: 'Администрация',
+    },
+    {
+        en: 'Petrol',
+        ru: 'Бензин',
+    },
+    {
+        en: 'Frame',
+        ru: 'Рамка, рама',
+    },
+    {
+        en: 'Guard',
+        ru: 'Охрана, стража',
+    },
+    {
+        en: 'Opera',
+        ru: 'Опера',
+    },
+    {
+        en: 'Sauce',
+        ru: 'Соус',
+    },
+    {
+        en: 'Stomach',
+        ru: 'Живот, желудок',
+    },
+    {
+        en: 'Section',
+        ru: 'Секция, раздел',
+    },
+    {
+        en: 'Dolphin',
+        ru: 'Дельфин',
+    },
+    {
+        en: 'Blanket',
+        ru: 'Одеяло',
+    },
+    {
+        en: 'Combination',
+        ru: 'Сочетание',
+    },
+    {
+        en: 'Swimsuit',
+        ru: 'Купальник',
+    },
+    {
+        en: 'Deaf',
+        ru: 'Глухой',
+    },
+    {
+        en: 'Chef',
+        ru: 'Шеф-повар',
+    },
+    {
+        en: 'Heroic',
+        ru: 'Героический',
+    },
+    {
+        en: 'Cupboard',
+        ru: 'Шкаф, буфет',
+    },
+    {
+        en: 'Pilot',
+        ru: 'Пилот',
+    },
+    {
+        en: 'Quiz',
+        ru: 'Викторина, опрос',
+    },
+    {
+        en: 'Digital',
+        ru: 'Цифровой',
+    },
+    {
+        en: 'Board',
+        ru: 'Доска',
+    },
+    {
+        en: 'Sunglasses',
+        ru: 'Солнцезащитные очки',
+    },
+    {
+        en: 'Costume',
+        ru: 'Костюм',
+    },
+    {
+        en: 'Queen',
+        ru: 'Королева',
+    },
+    {
+        en: 'Represent',
+        ru: 'Представлять',
+    },
+    {
+        en: 'Mouse',
+        ru: 'Мышь, мышка',
+    },
+    {
+        en: 'Gun',
+        ru: 'Ружье',
+    },
+    {
+        en: 'Chemist',
+        ru: 'Аптекарь, химик',
+    },
+    {
+        en: 'Leader',
+        ru: 'Лидер',
+    },
+    {
+        en: 'Borrow',
+        ru: 'Занимать',
+    },
+    {
+        en: 'Shampoo',
+        ru: 'Шампунь',
+    },
+    {
+        en: 'Bee',
+        ru: 'Пчела',
+    },
+    {
+        en: 'Pepper',
+        ru: 'Перец',
+    },
+    {
+        en: 'Keyboard',
+        ru: 'Клавиатура',
+    },
+    {
+        en: 'Bother',
+        ru: 'Беспокоить',
+    },
+    {
+        en: 'Scanner',
+        ru: 'Сканер',
+    },
+    {
+        en: 'Aloud',
+        ru: 'Вслух',
+    },
+    {
+        en: 'Raincoat',
+        ru: 'Плащ',
+    },
+    {
+        en: 'Anywhere',
+        ru: 'В любом месте',
+    },
+    {
+        en: 'Calendar',
+        ru: 'Календарь',
+    },
+    {
+        en: 'Yoghurt',
+        ru: 'Йогурт',
+    },
+    {
+        en: 'Wing',
+        ru: 'Крыло',
+    },
+    {
+        en: 'Scene',
+        ru: 'Сцена',
+    },
+    {
+        en: 'Watermelon',
+        ru: 'Арбуз',
+    },
+    {
+        en: 'Concept',
+        ru: 'Концепция, понятие',
+    },
+    {
+        en: 'Butcher',
+        ru: 'Мясник',
+    },
+    {
+        en: 'Purple',
+        ru: 'Фиолетовый',
+    },
+    {
+        en: 'Pedestrian',
+        ru: 'Пешеход',
+    },
+    {
+        en: 'Police station',
+        ru: 'Полицейский участок',
+    },
+    {
+        en: 'Branch',
+        ru: 'Ветка, филиал',
+    },
+    {
+        en: 'Second-hand',
+        ru: 'Подержанный',
+    },
+    {
+        en: 'Manufacturer',
+        ru: 'Производитель',
+    },
+    {
+        en: 'Shore',
+        ru: 'Берег',
+    },
+    {
+        en: 'Occupy',
+        ru: 'Занимать',
+    },
+    {
+        en: 'Essentially',
+        ru: 'По существу',
+    },
+    {
+        en: 'Hunter',
+        ru: 'Охотник',
+    },
+    {
+        en: 'Consultant',
+        ru: 'Консультант',
+    },
+    {
+        en: 'Rhythm',
+        ru: 'Ритм',
+    },
+    {
+        en: 'Soul',
+        ru: 'Душа',
+    },
+    {
+        en: 'Nose',
+        ru: 'Нос',
+    },
+    {
+        en: 'Split',
+        ru: 'Разделить',
+    },
+    {
+        en: 'Poetry',
+        ru: 'Поэзия',
+    },
+    {
+        en: 'Captain',
+        ru: 'Капитан',
+    },
+    {
+        en: 'Politician',
+        ru: 'Политик',
+    },
+    {
+        en: 'Potato',
+        ru: 'Картофель',
+    },
+    {
+        en: 'Leadership',
+        ru: 'Руководство, лидерство',
+    },
+    {
+        en: 'Pregnancy',
+        ru: 'Беременность',
+    },
+    {
+        en: 'Satellite',
+        ru: 'Спутник, спутниковый',
+    },
+    {
+        en: 'Expansion',
+        ru: 'Расширение, экспансия',
+    },
+    {
+        en: 'Recall',
+        ru: 'Вспоминать, отменять',
+    },
+    {
+        en: 'Proposed',
+        ru: 'Предложенный',
+    },
+    {
+        en: 'Bowl',
+        ru: 'Чаша, миска',
+    },
+    {
+        en: 'Substance',
+        ru: 'Вещество',
+    },
+    {
+        en: 'Consume',
+        ru: 'Потреблять',
+    },
+    {
+        en: 'Prompt',
+        ru: 'Быстрый',
+    },
+    {
+        en: 'Attorney',
+        ru: 'Адвокат',
+    },
+    {
+        en: 'Coalition',
+        ru: 'Коалиция',
+    },
+    {
+        en: 'Fighter',
+        ru: 'Боец, борец',
+    },
+    {
+        en: 'Union',
+        ru: 'Союз',
+    },
+    {
+        en: 'Provision',
+        ru: 'Обеспечение',
+    },
+    {
+        en: 'Revenue',
+        ru: 'Доход',
+    },
+    {
+        en: 'Bean',
+        ru: 'Фасоль, боб',
+    },
+    {
+        en: 'Opening',
+        ru: 'Открытие',
+    },
+    {
+        en: 'Settle',
+        ru: 'Уладить, селиться',
+    },
+    {
+        en: 'Fundamental',
+        ru: 'Фундаментальный',
+    },
+    {
+        en: 'Grave',
+        ru: 'Могила',
+    },
+    {
+        en: 'Abuse',
+        ru: 'Злоупотреблять, злоупотребление',
+    },
+    {
+        en: 'Editor',
+        ru: 'Редактор',
+    },
+    {
+        en: 'Violent',
+        ru: 'Насильственный, жестокий',
+    },
+    {
+        en: 'Boundary',
+        ru: 'Граница',
+    },
+    {
+        en: 'Grain',
+        ru: 'Зерно',
+    },
+    {
+        en: 'Pile',
+        ru: 'Куча, груда',
+    },
+    {
+        en: 'Coal',
+        ru: 'Уголь',
+    },
+    {
+        en: 'Pipe',
+        ru: 'Труба',
+    },
+    {
+        en: 'Consciousness',
+        ru: 'Сознание',
+    },
+    {
+        en: 'Invasion',
+        ru: 'Вторжение, нападение',
+    },
+    {
+        en: 'Negotiate',
+        ru: 'Вести переговоры, договариваться',
+    },
+    {
+        en: 'Transformation',
+        ru: 'Преобразование',
+    },
+    {
+        en: 'Elect',
+        ru: 'Избирать, выбирать',
+    },
+    {
+        en: 'Index',
+        ru: 'Индекс',
+    },
+    {
+        en: 'Tail',
+        ru: 'Хвост',
+    },
+    {
+        en: 'Telescope',
+        ru: 'Телескоп',
+    },
+    {
+        en: 'Impose',
+        ru: 'Налагать',
+    },
+    {
+        en: 'Evaluation',
+        ru: 'Оценка',
+    },
+    {
+        en: 'Script',
+        ru: 'Сценарий',
+    },
+    {
+        en: 'Leaf',
+        ru: 'Лист',
+    },
+    {
+        en: 'Label',
+        ru: 'Этикетка, ярлык',
+    },
+    {
+        en: 'Agricultural',
+        ru: 'Сельскохозяйственный',
+    },
+    {
+        en: 'Loose',
+        ru: 'Свободный',
+    },
+    {
+        en: 'Origin',
+        ru: 'Происхождение',
+    },
+    {
+        en: 'Formation',
+        ru: 'Образование',
+    },
+    {
+        en: 'Joint',
+        ru: 'Совместный, сустав',
+    },
+    {
+        en: 'Compose',
+        ru: 'Составлять, сочинять',
+    },
+    {
+        en: 'Frequency',
+        ru: 'Частота',
+    },
+    {
+        en: 'Representative',
+        ru: 'Предствитель',
+    },
+    {
+        en: 'Selection',
+        ru: 'Выбор',
+    },
+    {
+        en: 'Corn',
+        ru: 'Кукуруза',
+    },
+    {
+        en: 'Chart',
+        ru: 'Диаграмма, график',
+    },
+    {
+        en: 'Motor',
+        ru: 'Мотор, двигатель',
+    },
+    {
+        en: 'Activist',
+        ru: 'Активист',
+    },
+    {
+        en: 'Downtown',
+        ru: 'Центр города',
+    },
+    {
+        en: 'Raw',
+        ru: 'Сырье, сырой',
+    },
+    {
+        en: 'Adviser',
+        ru: 'Консультант',
+    },
+    {
+        en: 'Manufacturing',
+        ru: 'Производство',
+    },
+    {
+        en: 'Enable',
+        ru: 'Позволять, включать',
+    },
+    {
+        en: 'Protein',
+        ru: 'Белок, протеин',
+    },
+    {
+        en: 'Embrace',
+        ru: 'Обнимать',
+    },
+    {
+        en: 'Decline',
+        ru: 'Снижение, отклонить',
+    },
+    {
+        en: 'Headline',
+        ru: 'Заголовок',
+    },
+    {
+        en: 'Destruction',
+        ru: 'Разрушение',
+    },
+    {
+        en: 'Reference',
+        ru: 'Ссылка, сноска',
+    },
+    {
+        en: 'Deer',
+        ru: 'Олень',
+    },
+    {
+        en: 'Scholar',
+        ru: 'Ученый',
+    },
+    {
+        en: 'Tragedy',
+        ru: 'Трагедия',
+    },
+    {
+        en: 'Commander',
+        ru: 'Командир',
+    },
+    {
+        en: 'Minister',
+        ru: 'Министр',
+    },
+    {
+        en: 'Symbol',
+        ru: 'Символ',
+    },
+    {
+        en: 'Coach',
+        ru: 'Тренер, автобус',
+    },
+    {
+        en: 'Holy',
+        ru: 'Святой',
+    },
+    {
+        en: 'Journal',
+        ru: 'Журнал',
+    },
+    {
+        en: 'Gently',
+        ru: 'Осторожно, мягко',
+    },
+    {
+        en: 'Contemporary',
+        ru: 'Современный',
+    },
+    {
+        en: 'Administrator',
+        ru: 'Администратор',
+    },
+    {
+        en: 'Root',
+        ru: 'Корень',
+    },
+    {
+        en: 'Column',
+        ru: 'Колонка, колонна',
+    },
+    {
+        en: 'Naked',
+        ru: 'Обнаженный',
+    },
+    {
+        en: 'Strategic',
+        ru: 'Стратегический',
+    },
+    {
+        en: 'Regime',
+        ru: 'Режим',
+    },
+    {
+        en: 'Celebration',
+        ru: 'Празднование',
+    },
+    {
+        en: 'Mixture',
+        ru: 'Смесь',
+    },
+    {
+        en: 'Carrier',
+        ru: 'Перевозчик',
+    },
+    {
+        en: 'County',
+        ru: 'Округ',
+    },
+    {
+        en: 'Entry',
+        ru: 'Вход',
+    },
+    {
+        en: 'Fate',
+        ru: 'Судьба, участь',
+    },
+    {
+        en: 'Grocery',
+        ru: 'Продуктовый',
+    },
+    {
+        en: 'Institution',
+        ru: 'Учреждение',
+    },
+    {
+        en: 'Stock',
+        ru: 'Запас, фондовый',
+    },
+    {
+        en: 'Crane',
+        ru: 'Кран',
+    },
+    {
+        en: 'Prime',
+        ru: 'Основной, главный',
+    },
+    {
+        en: 'Blade',
+        ru: 'Лезвие',
+    },
+    {
+        en: 'Patch',
+        ru: 'Заплатка',
+    },
+    {
+        en: 'Negotiation',
+        ru: 'Переговоры',
+    },
+    {
+        en: 'Threaten',
+        ru: 'Угрожать',
+    },
+    {
+        en: 'Priest',
+        ru: 'Священник',
+    },
+    {
+        en: 'Nowhere',
+        ru: 'Нигде, некуда',
+    },
+    {
+        en: 'Intervention',
+        ru: 'Вмешательство, интервенция',
+    },
+    {
+        en: 'Chairman',
+        ru: 'Председатель',
+    },
+    {
+        en: 'Oppose',
+        ru: 'Выступать против, противиться',
+    },
+    {
+        en: 'Explosion',
+        ru: 'Взрыв',
+    },
+    {
+        en: 'Reflection',
+        ru: 'Отражение',
+    },
+    {
+        en: 'Industrial',
+        ru: 'Промышленный',
+    },
+    {
+        en: 'Crop',
+        ru: 'Урожай',
+    },
+    {
+        en: 'Rating',
+        ru: 'Рейтинг',
+    },
+    {
+        en: 'Partnership',
+        ru: 'Пратнёрство',
+    },
+    {
+        en: 'Trace',
+        ru: 'След',
+    },
+    {
+        en: 'Recruit',
+        ru: 'Набирать',
+    },
+    {
+        en: 'Aid',
+        ru: 'Помощь',
+    },
+    {
+        en: 'Coverage',
+        ru: 'Покрытие, охват',
+    },
+    {
+        en: 'Personality',
+        ru: 'Личность',
+    },
+    {
+        en: 'Slice',
+        ru: 'Ломтик',
+    },
+    {
+        en: 'Urban',
+        ru: 'Городской',
+    },
+    {
+        en: 'Define',
+        ru: 'Определять',
+    },
+    {
+        en: 'Desperate',
+        ru: 'Отчаянный',
+    },
+    {
+        en: 'Generate',
+        ru: 'Генерировать, производить',
+    },
+    {
+        en: 'Sample',
+        ru: 'Образец',
+    },
+    {
+        en: 'Funding',
+        ru: 'Финансирование',
+    },
+    {
+        en: 'Witness',
+        ru: 'Свидетель',
+    },
+    {
+        en: 'Wound',
+        ru: 'Рана, ранить',
+    },
+    {
+        en: 'Recipe',
+        ru: 'Рецепт',
+    },
+    {
+        en: 'Owner',
+        ru: 'Владелец',
+    },
+    {
+        en: 'Rough',
+        ru: 'Грубый',
+    },
+    {
+        en: 'Switch',
+        ru: 'Переключать, переключатель',
+    },
+    {
+        en: 'Intense',
+        ru: 'Интенсивный',
+    },
+    {
+        en: 'Utility',
+        ru: 'Полезность, коммунальные услуги',
+    },
+    {
+        en: 'Struggle',
+        ru: 'Стараться изо всех сил, бороться',
+    },
+    {
+        en: 'Evolution',
+        ru: 'Эволюция',
+    },
+    {
+        en: 'Horror',
+        ru: 'Ужас',
+    },
+    {
+        en: 'Flame',
+        ru: 'Плямя',
+    },
+    {
+        en: 'Penalty',
+        ru: 'Штраф, пенальти',
+    },
+    {
+        en: 'Senior',
+        ru: 'Старший',
+    },
+    {
+        en: 'Monitor',
+        ru: 'Монитор, мониторить',
+    },
+    {
+        en: 'Drama',
+        ru: 'Драма, пьеса',
+    },
+    {
+        en: 'Faculty',
+        ru: 'Факультет',
+    },
+    {
+        en: 'Investigator',
+        ru: 'Следователь, исследователь',
+    },
+    {
+        en: 'Carbon',
+        ru: 'Углерод',
+    },
+    {
+        en: 'Everyday',
+        ru: 'Ежедневный',
+    },
+    {
+        en: 'Wrap',
+        ru: 'Заворачивать',
+    },
+    {
+        en: 'Expose',
+        ru: 'Подвергать',
+    },
+    {
+        en: 'Muscle',
+        ru: 'Мускул, мышца',
+    },
+    {
+        en: 'Interpret',
+        ru: 'Интерпретировать',
+    },
+    {
+        en: 'Conservative',
+        ru: 'Консервативный',
+    },
+    {
+        en: 'Legislation',
+        ru: 'Законодательство',
+    },
+    {
+        en: 'Profile',
+        ru: 'Профиль',
+    },
+    {
+        en: 'Constitute',
+        ru: 'Составлять',
+    },
+    {
+        en: 'Variation',
+        ru: 'Изменение, вариация',
+    },
+    {
+        en: 'Inquiry',
+        ru: 'Запрос',
+    },
+    {
+        en: 'Remote',
+        ru: 'Дистанционный, отдаленный',
+    },
+    {
+        en: 'Nomination',
+        ru: 'Назначение, номинация',
+    },
+    {
+        en: 'Ally',
+        ru: 'Союзник',
+    },
+    {
+        en: 'Taxpayer',
+        ru: 'Налогоплательщик',
+    },
+    {
+        en: 'Detect',
+        ru: 'Обнаружить',
+    },
+    {
+        en: 'Disorder',
+        ru: 'Беспорядок, расстройство',
+    },
+    {
+        en: 'Prospect',
+        ru: 'Перспектива',
+    },
+    {
+        en: 'Bullet',
+        ru: 'Пуля',
+    },
+    {
+        en: 'Arise',
+        ru: 'Возникать',
+    },
+    {
+        en: 'Silence',
+        ru: 'Тишина',
+    },
+    {
+        en: 'Nuclear',
+        ru: 'Ядерный',
+    },
+    {
+        en: 'Counter',
+        ru: 'Прилавок, касса',
+    },
+    {
+        en: 'Diverse',
+        ru: 'Разнообразный, раличный',
+    },
+    {
+        en: 'Tap',
+        ru: 'Качание, коснуться',
+    },
+    {
+        en: 'Saving',
+        ru: 'Экономия, сбережения',
+    },
+    {
+        en: 'Mode',
+        ru: 'Режим',
+    },
+    {
+        en: 'Distinction',
+        ru: 'Различие',
+    },
+    {
+        en: 'Shell',
+        ru: 'Скорлупа, ракушка',
+    },
+    {
+        en: 'Flow',
+        ru: 'Течь, поток',
+    },
+    {
+        en: 'Retain',
+        ru: 'Удерживать',
+    },
+    {
+        en: 'Resemble',
+        ru: 'Походить, быть похожим',
+    },
+    {
+        en: 'Expense',
+        ru: 'Расход, расходы',
+    },
+    {
+        en: 'Violation',
+        ru: 'Нарушение',
+    },
+    {
+        en: 'Chase',
+        ru: 'Погоня, гнаться',
+    },
+    {
+        en: 'Session',
+        ru: 'Заседание, сессия',
+    },
+    {
+        en: 'Chest',
+        ru: 'Грудь, сундук',
+    },
+    {
+        en: 'Voter',
+        ru: 'Избиратель',
+    },
+    {
+        en: 'Core',
+        ru: 'Суть, ядро',
+    },
+    {
+        en: 'Cable',
+        ru: 'Кабель',
+    },
+    {
+        en: 'String',
+        ru: 'Веревка',
+    },
+    {
+        en: 'Creation',
+        ru: 'Создание',
+    },
+    {
+        en: 'Regional',
+        ru: 'Региональный',
+    },
+    {
+        en: 'Makeup',
+        ru: 'Макияж',
+    },
+    {
+        en: 'Wipe',
+        ru: 'Протирать',
+    },
+    {
+        en: 'Assist',
+        ru: 'Помогать, содействовать',
+    },
+    {
+        en: 'Democracy',
+        ru: 'Демократия',
+    },
+    {
+        en: 'Abandon',
+        ru: 'Оставлять, покидать',
+    },
+    {
+        en: 'Package',
+        ru: 'Пакет, упаковка',
+    },
+    {
+        en: 'Stroke',
+        ru: 'Удар',
+    },
+    {
+        en: 'Embassy',
+        ru: 'Посольство',
+    },
+    {
+        en: 'Seal',
+        ru: 'Печать, тюлень',
+    },
+    {
+        en: 'Jar',
+        ru: 'Кувшин',
+    },
+    {
+        en: 'Butterfly',
+        ru: 'Бабочка',
+    },
+    {
+        en: 'Sandals',
+        ru: 'Сандалии',
+    },
+    {
+        en: 'Nightmare',
+        ru: 'Кошмарный сон',
+    },
+    {
+        en: 'Driving',
+        ru: 'Вождение',
+    },
+    {
+        en: 'Alarm',
+        ru: 'Тревога, сигнал тревоги',
+    },
+    {
+        en: 'Neat',
+        ru: 'Аккуратный, опрятный',
+    },
+    {
+        en: 'Pin',
+        ru: 'Булавка, прикрепить, пин',
+    },
+    {
+        en: 'Sightseeing',
+        ru: 'Осмотр достопримечательностей',
+    },
+    {
+        en: 'Firework',
+        ru: 'Фейерверк, салют',
+    },
+    {
+        en: 'Bride',
+        ru: 'Невеста',
+    },
+    {
+        en: 'Pump',
+        ru: 'Насос, качать',
+    },
+    {
+        en: 'Nephew',
+        ru: 'Племянник',
+    },
+    {
+        en: 'Niece',
+        ru: 'Племянница',
+    },
+    {
+        en: 'Hairdresser',
+        ru: 'Парикмахер',
+    },
+    {
+        en: 'Puppy',
+        ru: 'Щенок',
+    },
+    {
+        en: 'Lemonade',
+        ru: 'Лимонад',
+    },
+    {
+        en: 'Explorer',
+        ru: 'Исследователь',
+    },
+    {
+        en: 'Peaceful',
+        ru: 'Мирный',
+    },
+    {
+        en: 'Cabbage',
+        ru: 'Капуста',
+    },
+    {
+        en: 'Departure',
+        ru: 'Отъезд',
+    },
+    {
+        en: 'Bucket',
+        ru: 'Ведро',
+    },
+    {
+        en: 'Parrot',
+        ru: 'Попугай',
+    },
+    {
+        en: 'Relaxation',
+        ru: 'Отдых, расслабление',
+    },
+    {
+        en: 'Monster',
+        ru: 'Монстр',
+    },
+    {
+        en: 'Republic',
+        ru: 'Республика',
+    },
+    {
+        en: 'Criterion',
+        ru: 'Критерий',
+    },
+    {
+        en: 'Tram',
+        ru: 'Трамвай',
+    },
+    {
+        en: 'Spray',
+        ru: 'Спрей',
+    },
+    {
+        en: 'Broccoli',
+        ru: 'Брокклоли',
+    },
+    {
+        en: 'Beef',
+        ru: 'Говядина',
+    },
+    {
+        en: 'Silk',
+        ru: 'Шелк, шелковый',
+    },
+    {
+        en: 'Refund',
+        ru: 'Возвращать деньги, возврат',
+    },
+    {
+        en: 'Charming',
+        ru: 'Очаровательный',
+    },
+    {
+        en: 'Textbook',
+        ru: 'Учебник',
+    },
+    {
+        en: 'Homepage',
+        ru: 'Домашняя страница',
+    },
+    {
+        en: 'Cheat',
+        ru: 'Списывать, жульничать',
+    },
+    {
+        en: 'Unpack',
+        ru: 'Распаковывать',
+    },
+    {
+        en: 'Ant',
+        ru: 'Муравей',
+    },
+    {
+        en: 'Bald',
+        ru: 'Лысый',
+    },
+    {
+        en: 'Monument',
+        ru: 'Памятник',
+    },
+    {
+        en: 'Delicate',
+        ru: 'Нежный, деликатный',
+    },
+    {
+        en: 'Recycle',
+        ru: 'Перерабатывать',
+    },
+    {
+        en: 'Dive',
+        ru: 'Погружение, нырять',
+    },
+    {
+        en: 'Takeaway',
+        ru: 'Навынос, готовая еда',
+    },
+    {
+        en: 'Farming',
+        ru: 'Сельское хозяйство',
+    },
+    {
+        en: 'Stressed',
+        ru: 'Ударный',
+    },
+    {
+        en: 'Formerly',
+        ru: 'Раньше, прежде',
+    },
+    {
+        en: 'Quantity',
+        ru: 'Количество',
+    },
+    {
+        en: 'Royal',
+        ru: 'Королевский',
+    },
+    {
+        en: 'Orchestra',
+        ru: 'Оркестр',
+    },
+    {
+        en: 'Nail',
+        ru: 'Гвоздь, ноготь',
+    },
+    {
+        en: 'Fur',
+        ru: 'Мех',
+    },
+    {
+        en: 'Clap',
+        ru: 'Хлопать',
+    },
+    {
+        en: 'Sour',
+        ru: 'Кислый',
+    },
+    {
+        en: 'Strawberry',
+        ru: 'Клубника',
+    },
+    {
+        en: 'Sleeve',
+        ru: 'Рукав',
+    },
+    {
+        en: 'Arrow',
+        ru: 'Стрела',
+    },
+    {
+        en: 'Lettuce',
+        ru: 'Салат, листья салата',
+    },
+    {
+        en: 'Trunk',
+        ru: 'Ствол дерева, туловище',
+    },
+    {
+        en: 'Premises',
+        ru: 'Помещение',
+    },
+    {
+        en: 'Insect',
+        ru: 'Насекомое',
+    },
+    {
+        en: 'Ending',
+        ru: 'Окончание, концовка',
+    },
+    {
+        en: 'Outdoor',
+        ru: 'На открытом воздухе',
+    },
+    {
+        en: 'Peanut',
+        ru: 'Арахис',
+    },
+    {
+        en: 'Scratch',
+        ru: 'Царапина',
+    },
+    {
+        en: 'Elder',
+        ru: 'Старший',
+    },
+    {
+        en: 'So-so',
+        ru: 'Так себе',
+    },
+    {
+        en: 'Unwell',
+        ru: 'Нездоровый',
+    },
+    {
+        en: 'Bulb',
+        ru: 'Лампа',
+    },
+    {
+        en: 'Artificially',
+        ru: 'Искусственно',
+    },
+    {
+        en: 'Penguin',
+        ru: 'Пингвин',
+    },
+    {
+        en: 'Contents',
+        ru: 'Содержание',
+    },
+    {
+        en: 'Cliff',
+        ru: 'Утес, крутой обрыв',
+    },
+    {
+        en: 'Advert',
+        ru: 'Объявление',
+    },
+    {
+        en: 'Postman',
+        ru: 'Почтальон',
+    },
+    {
+        en: 'Cruise',
+        ru: 'Морское путешествие',
+    },
+    {
+        en: 'Jungle',
+        ru: 'Джунгли',
+    },
+    {
+        en: 'Chin',
+        ru: 'Подбородок',
+    },
+    {
+        en: 'Cleaner',
+        ru: 'Уборщица',
+    },
+    {
+        en: 'Expected',
+        ru: 'Ожидаемый',
+    },
+    {
+        en: 'Brochure',
+        ru: 'Брошюра',
+    },
+    {
+        en: 'Log',
+        ru: 'Бревно',
+    },
+    {
+        en: 'Grilled',
+        ru: 'Жареный, гриль',
+    },
+    {
+        en: 'Messy',
+        ru: 'Беспорядочный',
+    },
+    {
+        en: 'Booking',
+        ru: 'Бронирование, заказ',
+    },
+    {
+        en: 'Spice',
+        ru: 'Специя, пряность',
+    },
+    {
+        en: 'Mate',
+        ru: 'Приятель, товарищ',
+    },
+    {
+        en: 'Hammer',
+        ru: 'Молоток',
+    },
+    {
+        en: 'Frog',
+        ru: 'Лягушка',
+    },
+    {
+        en: 'Customs',
+        ru: 'Таможня',
+    },
+    {
+        en: 'Leisure',
+        ru: 'Досуг, свободное время',
+    },
+    {
+        en: 'Harmony',
+        ru: 'Гармония',
+    },
+    {
+        en: 'Flood',
+        ru: 'Наводнение, потоп',
+    },
+    {
+        en: 'Pants',
+        ru: 'Брюки, штаны',
+    },
+    {
+        en: 'Kangaroo',
+        ru: 'Кенгуру',
+    },
+    {
+        en: 'Recycling',
+        ru: 'Переработка отходов',
+    },
+    {
+        en: 'Plain',
+        ru: 'Простой, равнина',
+    },
+    {
+        en: 'Jug',
+        ru: 'Кувшин',
+    },
+    {
+        en: 'Handkerchief',
+        ru: 'Носовой платок',
+    },
+    {
+        en: 'Shark',
+        ru: 'Акула',
+    },
+    {
+        en: 'Considering',
+        ru: 'Учитывая, принимая во внимание',
+    },
+    {
+        en: 'Comma',
+        ru: 'Запятая',
+    },
+    {
+        en: 'Kit',
+        ru: 'Набор, комплект',
+    },
+    {
+        en: 'Softly',
+        ru: 'Мягко, тихо',
+    },
+    {
+        en: 'Kite',
+        ru: 'Воздушный змей',
+    },
+    {
+        en: 'Bay',
+        ru: 'Залив, бухта',
+    },
+    {
+        en: 'Forbidden',
+        ru: 'Запрещено',
+    },
+    {
+        en: 'Ruler',
+        ru: 'Линейка, правитель',
+    },
+    {
+        en: 'Coconut',
+        ru: 'Кокос',
+    },
+    {
+        en: 'Herb',
+        ru: 'Трава',
+    },
+    {
+        en: 'Defence',
+        ru: 'Защита',
+    },
+    {
+        en: 'Grape',
+        ru: 'Виноград',
+    },
+    {
+        en: 'Skip',
+        ru: 'Пропускать',
+    },
+    {
+        en: 'Shallow',
+        ru: 'Мелкий',
+    },
+    {
+        en: 'Gamble',
+        ru: 'Играть в азартные игры, азартная игра',
+    },
+    {
+        en: 'Stove',
+        ru: 'Плита',
+    },
+    {
+        en: 'Unconscious',
+        ru: 'Без сознания',
+    },
+    {
+        en: 'Rival',
+        ru: 'Соперник',
+    },
+    {
+        en: 'Dishonestly',
+        ru: 'Бесчестно',
+    },
+    {
+        en: 'Bush',
+        ru: 'Куст',
+    },
+    {
+        en: 'Illegally',
+        ru: 'Незаконно',
+    },
+    {
+        en: 'Offence',
+        ru: 'Преступление, оскорбление',
+    },
+    {
+        en: 'Controlled',
+        ru: 'Контролируемый',
+    },
+    {
+        en: 'Lightly',
+        ru: 'Слегка',
+    },
+    {
+        en: 'Jointly',
+        ru: 'Совместно',
+    },
+    {
+        en: 'Crisp',
+        ru: 'Хрустящий',
+    },
+    {
+        en: 'Sweat',
+        ru: 'Пот, потеть',
+    },
+    {
+        en: 'Removal',
+        ru: 'Удаление',
+    },
+    {
+        en: 'Chop',
+        ru: 'Нарезать',
+    },
+    {
+        en: 'Traditionally',
+        ru: 'Традиционно, по традиции',
+    },
+    {
+        en: 'Offend',
+        ru: 'Оскорблять, обижать',
+    },
+    {
+        en: 'Nest',
+        ru: 'Гнездо',
+    },
+    {
+        en: 'Whistle',
+        ru: 'Свисток, свистеть',
+    },
+    {
+        en: 'Willingly',
+        ru: 'Охотно',
+    },
+    {
+        en: 'Proudly',
+        ru: 'Гордо, с гордостью',
+    },
+    {
+        en: 'Bubble',
+        ru: 'Пузырь',
+    },
+    {
+        en: 'Skilled',
+        ru: 'Искусный, квалифицированный',
+    },
+    {
+        en: 'Sack',
+        ru: 'Мешок, увольнять',
+    },
+    {
+        en: 'Disapproval',
+        ru: 'Неодобрение',
+    },
+    {
+        en: 'Glue',
+        ru: 'Клей',
+    },
+    {
+        en: 'Feather',
+        ru: 'Перо',
+    },
+    {
+        en: 'Inevitably',
+        ru: 'Неизбежно',
+    },
+    {
+        en: 'Washing',
+        ru: 'Стирка',
+    },
+    {
+        en: 'Amaze',
+        ru: 'Поражать, удивлять',
+    },
+    {
+        en: 'Lump',
+        ru: 'Кусок',
+    },
+    {
+        en: 'Saucepan',
+        ru: 'Кастрюля',
+    },
+    {
+        en: 'Questionnaire',
+        ru: 'Опросник',
+    },
+    {
+        en: 'Lighter',
+        ru: 'Зажигалка',
+    },
+    {
+        en: 'Hardware',
+        ru: 'Оборудование',
+    },
+    {
+        en: 'Babysitter',
+        ru: 'Няня',
+    },
+    {
+        en: 'Tablecloth',
+        ru: 'Скатерть',
+    },
+    {
+        en: 'Sticky',
+        ru: 'Липкий',
+    },
+    {
+        en: 'Lightning',
+        ru: 'Молния',
+    },
+    {
+        en: 'Circumstances',
+        ru: 'Обстоятельства',
+    },
+    {
+        en: 'Innovation',
+        ru: 'Инновация',
+    },
+    {
+        en: 'Evident',
+        ru: 'Очевидный, явный',
+    },
+    {
+        en: 'Cargo',
+        ru: 'Груз, грузовой',
+    },
+    {
+        en: 'Hardship',
+        ru: 'Трудность, лишение',
+    },
+    {
+        en: 'Vinegar',
+        ru: 'Уксус',
+    },
+    {
+        en: 'Esteem',
+        ru: 'Уважение, уважать',
+    },
+    {
+        en: 'Shrimp',
+        ru: 'Креветка',
+    },
+    {
+        en: 'Gloomy',
+        ru: 'Мрачный',
+    },
+    {
+        en: 'Dense',
+        ru: 'Плотный, густой',
+    },
+    {
+        en: 'Reproduce',
+        ru: 'Воспроизводить',
+    },
+    { en: 'arise arose arisen', ru: 'подниматься' },
+    { en: 'awake awoke awoken', ru: 'пробуждать' },
+    { en: 'be was (were) been', ru: 'быть' },
+    { en: 'bear bore born', ru: 'рожать, переносить' },
+    { en: 'beat beat beaten', ru: 'бить' },
+    { en: 'become became become', ru: 'становиться' },
+    { en: 'begin began begun', ru: 'начинать' },
+    { en: 'bend bent bent', ru: 'наклонять' },
+    { en: 'bet bet bet', ru: 'заключать пари' },
+    { en: 'bind bound bound', ru: 'связывать' },
+    { en: 'bite bit bitten', ru: 'кусать' },
+    { en: 'bleed bled bled', ru: 'кровоточить' },
+    { en: 'blow blew blown', ru: 'дуть' },
+    { en: 'break broke broken', ru: 'ломать' },
+    { en: 'breed bred bred', ru: 'разводить животных' },
+    { en: 'bring brought brought', ru: 'приносить' },
+    { en: 'build built built', ru: 'строить' },
+    { en: 'buy bought bought', ru: 'покупать' },
+    { en: 'catch caught caught', ru: 'ловить' },
+    { en: 'choose chose chosen', ru: 'выбирать' },
+    { en: 'cling clung clung', ru: 'цепляться' },
+    { en: 'come came come', ru: 'приходить' },
+    { en: 'cost cost cost', ru: 'стоить' },
+    { en: 'cut cut cut', ru: 'резать' },
+    { en: 'deal dealt dealt', ru: 'вести дела' },
+    { en: 'dig dug dug', ru: 'копать' },
+    { en: 'do did done', ru: 'делать' },
+    { en: 'draw drew drawn', ru: 'рисовать, тянуть' },
+    { en: 'drink drank drunk', ru: 'пить' },
+    { en: 'drive drove driven', ru: 'водить автомобиль' },
+    { en: 'eat ate eaten', ru: 'кушать' },
+    { en: 'fall fell fallen', ru: 'падать' },
+    { en: 'feed fed fed', ru: 'кормить' },
+    { en: 'feel felt felt', ru: 'чувствовать' },
+    { en: 'fight fought fought', ru: 'бороться' },
+    { en: 'find found found', ru: 'находить' },
+    { en: 'flee fled fled', ru: 'сбегать' },
+    { en: 'fly flew flown', ru: 'летать' },
+    { en: 'forbid forbade forbidden', ru: 'запрещать' },
+    { en: 'forget forgot forgotten', ru: 'забывать' },
+    { en: 'forgive forgave forgiven', ru: 'прощать' },
+    { en: 'freeze froze frozen', ru: 'замораживать' },
+    { en: 'get got got (gotten)', ru: 'получать' },
+    { en: 'give gave given', ru: 'давать' },
+    { en: 'go went gone', ru: 'идти' },
+    { en: 'grow grew grown', ru: 'расти' },
+    { en: 'hang hung hung', ru: 'висеть' },
+    { en: 'have had had', ru: 'иметь' },
+    { en: 'hear heard heard', ru: 'слышать' },
+    { en: 'hide hid hidden', ru: 'прятать' },
+    { en: 'hit hit hit', ru: 'ударять, попадать' },
+    { en: 'hold held held', ru: 'держать' },
+    { en: 'hurt hurt hurt', ru: 'причинять боль' },
+    { en: 'keep kept kept', ru: 'сохранять, соблюдать' },
+    { en: 'know knew known', ru: 'знать' },
+    { en: 'lay laid laid', ru: 'класть' },
+    { en: 'lead led led', ru: 'вести, лидировать' },
+    { en: 'learn learnt (learned) learnt (learned)', ru: 'учиться, узнавать' },
+    { en: 'leave left left', ru: 'покидать, оставлять' },
+    { en: 'lend lent lent', ru: 'давать взаймы' },
+    { en: 'let let let', ru: 'позволять' },
+    { en: 'lie lay lain', ru: 'лежать' },
+    { en: 'light lit lit', ru: 'зажигать, освещать' },
+    { en: 'lose lost lost', ru: 'терять' },
+    { en: 'make made made', ru: 'делать, мастерить' },
+    { en: 'mean meant meant', ru: 'значить' },
+    { en: 'meet met met', ru: 'встречать, знакомиться' },
+    { en: 'pay paid paid', ru: 'платить' },
+    { en: 'put put put', ru: 'класть, ставить' },
+    { en: 'read read read', ru: 'читать' },
+    { en: 'ride rode ridden', ru: 'ездить верхом' },
+    { en: 'ring rang rung', ru: 'звонить' },
+    { en: 'rise rose risen', ru: 'возрастать, подниматься' },
+    { en: 'run ran run', ru: 'бежать' },
+    { en: 'say said said', ru: 'сказать' },
+    { en: 'see saw seen', ru: 'видеть' },
+    { en: 'seek sought sought', ru: 'искать' },
+    { en: 'sell sold sold', ru: 'продавать' },
+    { en: 'send sent sent', ru: 'посылать' },
+    { en: 'set set set', ru: 'устанавливать' },
+    { en: 'shake shook shaken', ru: 'трясти' },
+    { en: 'shine shone shone', ru: 'светить, сиять' },
+    { en: 'shoot shot shot', ru: 'стрелять' },
+    { en: 'show showed shown', ru: 'показывать' },
+    { en: 'shrink shrank shrunk', ru: 'сжиматься' },
+    { en: 'shut shut shut', ru: 'закрывать, затворять' },
+    { en: 'sing sang sung', ru: 'петь' },
+    { en: 'sit sat sat', ru: 'сидеть' },
+    { en: 'sleep slept slept', ru: 'спать' },
+    { en: 'slide slid slid', ru: 'скользить' },
+    { en: 'smell smelt smelt', ru: "пахнуть, нюхать" },
+    { en:'speak spoke spoken',ru:'говорить'},
+    {en:'spell spelt spelt',ru:'произносить или писать по буквам'},
+    {en:'spend spent spent',ru:'тратить, проводить время'},
+    {en:'spill spilt spilt',ru:'разлить'},
+    {en:'spin spun spun',ru:'крутить'},
+    {en:'split split split',ru:'разделять, раскалывать'},
+    {en:'spoil spoilt spoilt',ru:'портить'},
+    {en:'spread spread spread',ru:'разворачивать, распространять'},
+    {en:'stand stood stood',ru:'стоять'},
+    {en:'steal stole stolen',ru:'воровать'},
+    {en:'sting stung stung',ru:'жалить'},
+    {en:'stink stank stunk',ru:'вонять'},
+    {en:'strike struck struck',ru:'бастовать, ударять'},
+    {en:'swear swore sworn',ru:'клясться, ругаться'},
+    {en:'sweep swept swept',ru:'подметать'},
+    {en:'swell swelled swollen',ru:'опухать'},
+    {en:'swim swam swum',ru:'плавать'},
+    {en:'take took taken',ru:'брать'},
+    {en:'teach taught taught ',ru:'обучать'},
+    {en:'tear tore torn',ru:'рвать'},
+    {en:'tell told told',ru:'рассказывать'},
+    {en:'think thought thought',ru:'думать'},
+    {en:'throw threw thrown',ru:'бросать'},
+    {en:'understand understood understood',ru:'понимать'},
+    {en:'wake woke woken',ru:'будить'},
+    {en:'wear wore worn',ru:'носить (одежду)'},
+    {en:'win won won',ru:'побеждать'},
+    {en:'wind wound wound',ru:'обматывать, изгибаться'},
+    {en:'write wrote written',ru:'писать'},
+];
 
 module.exports = words;
-
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },
-// {
-//     en: '',
-//         ru: '',
-// },

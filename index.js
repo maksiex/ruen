@@ -21,7 +21,7 @@ function startGame(lang) {
         output: process.stdout
     });
 
-    const randomWords = getRandomWords(50);
+    const randomWords = getRandomWords(35);
     let currentIndex = 0;
     let mistake = 0;
 
@@ -34,7 +34,7 @@ function startGame(lang) {
                 console.log(`${colors.bold(colors.green('Правильно! Следующее слово:'))} ${colors.underline(randomWords[currentIndex][lang])}`);
                 mistake = 0;
             } else {
-                console.log(colors.bgWhite(colors.grey(colors.italic(colors.bold('Игра окончена.')))));
+                console.log(colors.bgWhite(colors.green(colors.italic(colors.bold('Игра окончена.')))));
                 rl.close();
             }
         } else {
